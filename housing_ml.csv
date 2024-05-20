@@ -1,0 +1,3018 @@
+,Surburb,Property_type,Price,Beds,Baths,Area_Sqm,Town,Constituency
+0,Glen Lorne,House,3200000.0,5,4,56280,harare,harare north
+1,Arlington,Townhouse Complex,125000.0,3,2,324,harare,harare south
+2,Athlone,House,250000.0,3,1,3600,harare,harare east
+3,Banket,House,160000.0,3,2,3092,banket,banket
+4,Ashdown Park,House,55000.0,6,4,500,harare,harare west
+5,Riverside North,House,138000.0,2,1,10000,bulawayo,bulawayo east
+6,Chisipite,House,475000.0,3,2,4070,harare,harare north
+7,Mandara,House,400000.0,4,3,4703,harare,harare east
+8,Glen Lorne,House,360000.0,3,2,4599,harare,harare north
+9,Chisipite,Townhouse Complex,500000.0,3,2,3713,harare,harare north
+10,Carrick Creagh,House,150000.0,6,7,1500,harare,harare north
+11,Chisipite,House,690000.0,4,2,4247,harare,harare north
+12,Charlotte Brooke,House,87000.0,5,3,1509,harare,harare north
+13,Mainway Meadows,House,90000.0,4,1,600,harare,harare south
+14,Philadelphia,House,750000.0,6,1,4600,harare,harare north
+15,Tynwald,House,70000.0,3,3,350,harare,harare west
+16,Chisipite,House,585000.0,5,6,2700,harare,harare north
+17,Greendale,House,155000.0,4,1,1062,harare,harare east
+18,Mufakose,House,30000.0,4,1,200,harare,harare high density
+19,Suburbs,House,185000.0,3,2,3000,bulawayo,bulawayo east
+20,Kambanji,House,750000.0,6,4,3883,harare,harare north
+21,Greendale North,Townhouse Complex,195000.0,3,2,250,harare,harare north
+22,Chitungwiza,House,26500.0,4,1,207,chitungwiza,chitungwiza
+23,The Grange,House,350000.0,6,7,2550,harare,harare north
+24,Borrowdale Brooke,House,2300000.0,4,4,3605,harare,harare north
+25,Ruwa,House,50000.0,6,2,600,ruwa,ruwa
+26,Twinlakes,House,115000.0,4,2,3800,norton,norton
+27,Eastlea,House,295000.0,3,1,2404,harare,harare east
+28,Borrowdale,House,1050000.0,5,1,4316,harare,harare north
+29,Msasa Park,House,55000.0,2,1,400,harare,harare south
+30,Rolf Valley,House,3000000.0,3,2,31970,harare,harare north
+31,Newlands,House,1800000.0,9,1,5256,harare,harare north
+32,Glen Lorne,House,360000.0,4,3,4000,harare,harare north
+33,Glen Lorne,House,960000.0,9,8,30451,harare,harare north
+34,Bluff Hill,House,84000.0,3,1,858,harare,harare west
+35,Marlborough,House,95000.0,2,1,2002,harare,harare west
+36,Marlborough,House,350000.0,5,2,6000,harare,harare west
+37,Gletwin Park,House,298000.0,5,3,3500,harare,harare north
+38,Christon Bank,House,570000.0,4,2,20234,christon,christon bank
+39,Borrowdale,House,785000.0,8,8,4046,harare,harare north
+40,Prospect,House,100000.0,4,2,644,harare,harare south
+41,Charlotte Brooke,House,100000.0,5,1,1200,harare,harare north
+42,Woodlands,House,160000.0,4,1,2585,bulawayo,bulawayo east
+43,Glen Forest,House,550000.0,4,2,68340,harare,harare north
+44,Philadelphia,House,895000.0,6,8,7342,harare,harare north
+45,Avondale,House,1400000.0,4,4,5000,harare,harare north
+46,Ruwa,House,70000.0,4,3,413,ruwa,ruwa
+47,Borrowdale Brooke,House,320000.0,2,1,6700,harare,harare north
+48,Greystone Park,House,600000.0,5,1,4047,harare,harare north
+49,Kariba,House,200000.0,4,2,1641,kariba,kariba
+50,Marlborough,House,350000.0,4,2,6000,harare,harare west
+51,Mbizo,House,35000.0,3,1,575,kwekwe,kwekwe
+52,Quinnington,Townhouse Complex,370000.0,3,1,850,harare,harare north
+53,Belvedere,House,195000.0,4,1,1400,harare,harare west
+54,Marimba Park,Cottage,55000.0,2,1,1000,harare,harare high density
+55,Avondale West,House,195000.0,3,2,1400,harare,harare west
+56,Colne Valley,Townhouse Complex,345000.0,3,2,800,harare,harare north
+57,Mount Pleasant Heights,House,320000.0,6,3,2000,harare,harare north
+58,Glen View,House,40000.0,4,1,200,harare,harare high density
+59,Tynwald,House,85000.0,3,1,400,harare,harare west
+60,Hillside,House,200000.0,5,3,1401,harare,harare south
+61,Marlborough,House,350000.0,4,1,4000,harare,harare west
+62,Marondera,House,120000.0,2,1,2200,marondera,marondera
+63,Quinnington,Townhouse Complex,370000.0,3,2,850,harare,harare north
+64,Ilanda,House,140000.0,3,2,1669,bulawayo,bulawayo east
+65,Greendale,Townhouse Complex,145000.0,3,2,4000,harare,harare east
+66,Highlands,House,500000.0,4,2,4493,harare,harare north
+67,Zimre Park,House,90000.0,3,2,485,harare,harare east
+68,Glen View,House,35000.0,4,1,300,harare,harare high density
+69,Mount Pleasant Heights,House,240000.0,4,2,1360,harare,harare north
+70,Greystone Park,House,525000.0,5,3,5425,harare,harare north
+71,Mount Pleasant,House,400000.0,3,3,1939,harare,harare north
+72,Rhodesville,House,350000.0,3,2,1517,harare,harare east
+73,Newlands,House,360000.0,3,2,2800,harare,harare north
+74,Westgate,House,185000.0,4,2,948,harare,harare west
+75,Ashdown Park,House,140000.0,3,2,617,harare,harare west
+76,Glen Norah,House,25000.0,3,1,300,harare,harare high density
+77,Alexandra Park,House,650000.0,5,4,3500,harare,harare north
+78,Chisipite,House,800000.0,4,1,6953,harare,harare north
+79,Emerald Hill,House,295000.0,3,2,2100,harare,harare west
+80,Mount Pleasant Heights,House,250000.0,4,3,2000,harare,harare north
+81,Helensvale,House,480000.0,4,3,3950,harare,harare north
+82,Westgate,House,132000.0,3,2,1000,harare,harare west
+83,Mount Pleasant Heights,House,300000.0,5,1,2209,harare,harare north
+84,Greystone Park,House,450000.0,4,3,4000,harare,harare north
+85,Zimre Park,House,95000.0,5,3,1818,harare,harare east
+86,Victoria Falls,House,180000.0,2,2,540,victoria,victoria falls
+87,Highlands,House,790000.0,4,6,4000,harare,harare north
+88,Southview Park,House,32000.0,3,2,200,harare,harare south
+89,Avondale,House,1100000.0,3,2,10000,harare,harare north
+90,Borrowdale,House,1050000.0,5,5,4316,harare,harare north
+91,Greendale,Townhouse Complex,220000.0,3,2,450,harare,harare east
+92,Suburbs,House,350000.0,5,2,3172,bulawayo,bulawayo east
+93,Arlington,Townhouse Complex,130000.0,4,1,368,harare,harare south
+94,Borrowdale,Townhouse Complex,650000.0,3,3,880,harare,harare north
+95,Shawasha Hills,House,550000.0,5,5,2000,harare,harare north
+96,Borrowdale,Townhouse Complex,375000.0,3,3,577,harare,harare north
+97,Arlington,Townhouse Complex,160000.0,5,3,520,harare,harare south
+98,Suburbs,House,179000.0,3,2,1455,bulawayo,bulawayo east
+99,Rydale Ridge,House,70000.0,2,1,2000,harare,harare high density
+100,Greystone Park,House,470000.0,4,2,4079,harare,harare north
+101,Highlands,House,660000.0,4,4,4000,harare,harare north
+102,Marlborough,House,260000.0,3,1,4973,harare,harare west
+103,Mabvazuva,House,125000.0,4,2,400,ruwa,ruwa
+104,Hatfield,House,215000.0,3,1,4008,harare,harare south
+105,Avondale,House,420000.0,3,2,3970,harare,harare north
+106,Waterfalls,House,170000.0,3,3,6025,harare,harare south
+107,Westgate,House,125000.0,3,3,1000,harare,harare west
+108,Colne Valley,House,690000.0,4,2,6283,harare,harare north
+109,Newlands,House,850000.0,4,3,7800,harare,harare north
+110,Newlands,Townhouse Complex,350000.0,3,2,500,harare,harare north
+111,Pomona,Townhouse Complex,375000.0,3,3,578,harare,harare north
+112,Chisipite,House,1200000.0,5,4,8090,harare,harare north
+113,Glen Lorne,House,450000.0,4,1,5132,harare,harare north
+114,Shawasha Hills,House,575000.0,4,3,14164,harare,harare north
+115,Waterfalls,House,150000.0,3,1,3000,harare,harare south
+116,Zimre Park,House,75000.0,5,2,670,harare,harare east
+117,Chisipite,House,680000.0,4,2,7000,harare,harare north
+118,Belgravia,House,550000.0,5,3,3200,harare,harare north
+119,Monavale,Townhouse Complex,210000.0,4,3,320,harare,harare west
+120,Hogerty Hill,House,1250000.0,5,1,42898,harare,harare north
+121,Highlands,House,500000.0,5,1,2800,harare,harare north
+122,Norton,House,250000.0,8,1,3040,norton,norton
+123,Belvedere,House,190000.0,4,2,1400,harare,harare west
+124,Helensvale,House,1200000.0,4,3,27113,harare,harare north
+125,Mabvuku,House,48000.0,3,1,250,harare,harare high density
+126,Mabvuku,House,23000.0,2,1,200,harare,harare high density
+127,Avondale West,Townhouse Complex,200000.0,3,2,400,harare,harare west
+128,Hogerty Hill,House,1250000.0,5,4,40468,harare,harare north
+129,Highlands,Townhouse Complex,400000.0,4,1,400,harare,harare north
+130,Ruwa,House,115000.0,3,1,420,ruwa,ruwa
+131,Milton Park,House,300000.0,4,3,1029,harare,harare west
+132,Gletwin Park,House,1200000.0,7,8,7169,harare,harare north
+133,Mount Pleasant,House,380000.0,7,1,3800,harare,harare north
+134,Eastlea,House,280000.0,3,2,1500,harare,harare east
+135,Philadelphia,House,400000.0,7,7,4000,harare,harare north
+136,Crowhill Views,House,180000.0,5,4,1000,harare,harare north
+137,Chisipite,House,565000.0,4,3,4040,harare,harare north
+138,Borrowdale,House,625000.0,4,2,8093,harare,harare north
+139,Suburbs,House,179000.0,3,2,1455,bulawayo,bulawayo east
+140,Zengeza,House,45000.0,3,2,400,chitungwiza,chitungwiza
+141,Damofalls,House,52000.0,4,2,504,damofalls,damofalls
+142,Marlborough,House,750000.0,9,7,8396,harare,harare west
+143,Hogerty Hill,Townhouse Complex,300000.0,3,2,700,harare,harare north
+144,Westgate,House,125000.0,3,3,1000,harare,harare west
+145,Mount Pleasant,House,220000.0,2,2,1019,harare,harare north
+146,Tshabalala Extension,House,33500.0,3,1,300,bulawayo,bulawayo high density
+147,Twinlakes,House,270000.0,8,8,3040,norton,norton
+148,Mount Pleasant Heights,House,300000.0,5,4,2209,harare,harare north
+149,Borrowdale,Townhouse Complex,245000.0,4,3,1100,harare,harare north
+150,Chitungwiza,House,30000.0,4,2,231,chitungwiza,chitungwiza
+151,Glaudina,House,27000.0,2,1,200,harare,harare west
+152,Haydon Park,House,115000.0,4,3,890,harare,harare west
+153,Greystone Park,House,580000.0,6,4,4407,harare,harare north
+154,Warren Park,House,35000.0,5,1,200,harare,harare high density
+155,New Marlborough,House,320000.0,4,3,1200,harare,harare west
+156,Zengeza,House,27000.0,4,1,200,chitungwiza,chitungwiza
+157,Tynwald,House,110000.0,4,1,394,harare,harare west
+158,Zengeza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+159,Belvedere,House,195000.0,4,2,1400,harare,harare west
+160,Highlands,House,790000.0,5,4,3988,harare,harare north
+161,Westgate,House,170000.0,3,1,1177,harare,harare west
+162,Chitungwiza,House,37000.0,4,1,400,chitungwiza,chitungwiza
+163,Marondera,House,120000.0,3,2,3426,marondera,marondera
+164,Mbizo,House,35000.0,3,1,575,kwekwe,kwekwe
+165,Newlands,House,360000.0,3,2,2000,harare,harare north
+166,Budiriro,House,60000.0,4,2,408,harare,harare high density
+167,Mt Pleasant Heights,House,450000.0,5,2,3100,harare,harare west
+168,Emerald Hill,House,350000.0,5,3,1731,harare,harare west
+169,Mount Pleasant Heights,House,300000.0,3,3,2000,harare,harare north
+170,Greystone Park,House,470000.0,4,2,4079,harare,harare north
+171,Gokwe,House,25000.0,4,1,2500,gokwe,gokwe
+172,Greendale,Townhouse Complex,140000.0,3,3,4000,harare,harare east
+173,Budiriro,House,50000.0,4,3,370,harare,harare high density
+174,Msasa,House,65000.0,4,2,500,harare,harare east
+175,Newtown,House,250000.0,4,3,3500,kwekwe,kwekwe
+176,Madokero,House,90000.0,4,3,400,harare,harare west
+177,Colne Valley,House,800000.0,4,1,6700,harare,harare north
+178,Mount Pleasant,Townhouse Complex,270000.0,3,3,1000,harare,harare north
+179,Norton,House,60000.0,3,2,2704,norton,norton
+180,Goodhope,House,130000.0,4,2,3200,harare,harare west
+181,Bindura,House,90000.0,3,1,2575,bindura,bindura
+182,Borrowdale Brooke,House,320000.0,2,1,6700,harare,harare north
+183,Rydale Ridge,House,70000.0,2,1,2000,harare,harare high density
+184,Monavale,House,90000.0,4,1,1898,harare,harare west
+185,Marimba Park,House,130000.0,6,2,2015,harare,harare high density
+186,Rusape,Townhouse Complex,20000.0,4,1,200,rusape,rusape
+187,Upper Hillside,House,150000.0,3,2,1364,harare,harare east
+188,Arlington,House,169000.0,3,2,350,harare,harare south
+189,Windsor Park,House,2000000.0,4,1,39400,ruwa,ruwa
+190,Budiriro,House,45000.0,5,1,400,harare,harare high density
+191,Rockview,House,49000.0,4,3,1000,harare,harare east
+192,Westgate,House,170000.0,4,3,1300,harare,harare west
+193,Damofalls,House,35000.0,3,2,300,damofalls,damofalls
+194,Avondale,House,280000.0,4,3,1981,harare,harare north
+195,Chinhoyi,House,40000.0,4,1,288,chinhoyi,chinhoyi
+196,Greencroft,House,180000.0,3,1,400,harare,harare west
+197,Zimre Park,House,130000.0,4,3,1200,harare,harare east
+198,Chiredzi,House,220000.0,3,2,3200,chiredzi,chiredzi
+199,Greendale,Townhouse Complex,150000.0,2,1,4000,harare,harare east
+200,Mount Pleasant,House,400000.0,3,3,1939,harare,harare north
+201,Queens Park East,House,45000.0,3,1,1500,bulawayo,bulawayo north
+202,Yeovil,House,90000.0,3,1,1025,mutare,mutare
+203,Borrowdale,Townhouse Complex,230000.0,3,2,275,harare,harare north
+204,Waterfalls,House,150000.0,3,1,4164,harare,harare south
+205,Zimre Park,House,65000.0,3,2,500,harare,harare east
+206,Nhowe,House,60000.0,3,2,2704,norton,norton
+207,Riverside,House,100000.0,4,2,1806,gweru,gweru
+208,Parktown,House,105000.0,3,2,1500,harare,harare south
+209,Mufakose,House,34000.0,3,1,800,harare,harare high density
+210,Banket,House,160000.0,3,2,3092,banket,banket
+211,Mount Pleasant,House,450000.0,4,1,5000,harare,harare north
+212,Nyanga,House,55000.0,3,1,1800,nyanga,nyanga
+213,Belgravia,House,550000.0,5,3,3200,harare,harare north
+214,New Marlborough,House,95000.0,4,2,504,harare,harare west
+215,Hillcrest,House,85000.0,2,1,1270,bulawayo,bulawayo south
+216,Budiriro,House,45000.0,5,2,434,harare,harare high density
+217,Borrowdale,Townhouse Complex,235000.0,3,2,1000,harare,harare north
+218,Luveve,House,39000.0,4,2,312,bulawayo,bulawayo high density
+219,Zimre Park,House,130000.0,4,3,1200,harare,harare east
+220,Glen Lorne,House,280000.0,4,1,1800,harare,harare north
+221,Glen Lorne,House,3200000.0,5,4,56650,harare,harare north
+222,Damofalls,House,50000.0,4,3,512,damofalls,damofalls
+223,Chitungwiza,House,22000.0,1,1,400,chitungwiza,chitungwiza
+224,Zengeza,House,35000.0,4,2,300,chitungwiza,chitungwiza
+225,Parklands,Townhouse Complex,150000.0,3,2,30000,bulawayo,bulawayo east
+226,Adelaide Park,House,21000.0,2,1,200,harare,harare high density
+227,Hatfield,House,95000.0,3,1,2069,harare,harare south
+228,Norton,House,28000.0,4,1,200,norton,norton
+229,Damofalls,House,68000.0,5,2,800,damofalls,damofalls
+230,Highlands,Townhouse Complex,400000.0,4,1,400,harare,harare north
+231,Damofalls,House,56000.0,5,1,523,damofalls,damofalls
+232,Glen Lorne,House,3200000.0,5,4,56280,harare,harare north
+233,Adylinn,House,170000.0,5,1,1509,harare,harare west
+234,Suburbs,House,250000.0,3,2,1455,bulawayo,bulawayo east
+235,Ruwa,Townhouse Complex,145000.0,5,5,600,ruwa,ruwa
+236,Belgravia,House,620000.0,4,3,3346,harare,harare north
+237,Greendale North,House,430000.0,4,2,4108,harare,harare north
+238,Glen Lorne,House,500000.0,4,1,5132,harare,harare north
+239,Shawasha Hills,House,590000.0,8,1,4299,harare,harare north
+240,Emganwini,House,23500.0,3,1,200,bulawayo,bulawayo high density
+241,Queens Park West,Townhouse Complex,68000.0,3,2,6000,bulawayo,bulawayo north
+242,Kuwadzana,House,40000.0,4,1,200,harare,harare high density
+243,Sunning Hill,House,95000.0,4,1,1700,bulawayo,bulawayo east
+244,Greendale,Townhouse Complex,300000.0,4,3,500,harare,harare east
+245,Marondera,House,25000.0,3,2,400,marondera,marondera
+246,Waterfalls,House,120000.0,4,1,1401,harare,harare south
+247,Greencroft,House,350000.0,5,4,1000,harare,harare west
+248,Rydale Ridge,House,20000.0,4,1,300,harare,harare high density
+249,Bluff Hill,Townhouse Complex,155000.0,4,3,4200,harare,harare west
+250,Arlington,House,150000.0,3,2,320,harare,harare south
+251,Charlotte Brooke,House,120000.0,5,2,1600,harare,harare north
+252,Highlands,House,385000.0,3,1,4265,harare,harare north
+253,Goodhope,House,220000.0,5,1,2500,harare,harare west
+254,Borrowdale,Townhouse Complex,320000.0,3,2,1000,harare,harare north
+255,Glen Lorne,House,490000.0,5,2,15337,harare,harare north
+256,Helensvale,Townhouse Complex,423000.0,4,2,1500,harare,harare north
+257,Chitungwiza,House,30000.0,3,1,312,chitungwiza,chitungwiza
+258,New Marlborough,House,215000.0,5,1,2500,harare,harare west
+259,Sandton Park,House,115000.0,4,2,1700,harare,harare west
+260,Highlands,House,660000.0,4,4,4000,harare,harare north
+261,The Grange,House,400000.0,3,2,4047,harare,harare north
+262,Glen Norah,House,30000.0,4,1,304,harare,harare high density
+263,Rolf Valley,House,1350000.0,5,3,8975,harare,harare north
+264,Cranborne,House,120000.0,3,1,713,harare,harare south
+265,Manyame Park,House,39000.0,4,1,200,chitungwiza,chitungwiza
+266,Mount Pleasant Heights,House,300000.0,5,3,1800,harare,harare north
+267,Westlea,House,68000.0,4,2,1205,mutare,mutare
+268,Mabvuku,House,23000.0,2,1,200,harare,harare high density
+269,Mabelreign,House,150000.0,3,1,981,harare,harare west
+270,Chitungwiza,House,32000.0,4,2,300,chitungwiza,chitungwiza
+271,Hatcliffe,House,20000.0,3,1,300,harare,harare high density
+272,Ashdown Park,House,120000.0,3,1,800,harare,harare west
+273,Marlborough,House,250000.0,3,1,8094,harare,harare west
+274,Mkoba,House,35000.0,3,2,300,gweru,gweru
+275,Zimre Park,House,65000.0,3,2,500,harare,harare east
+276,Greendale,Townhouse Complex,225000.0,3,2,4000,harare,harare east
+277,Chinhoyi,Cottage,210000.0,6,4,3200,chinhoyi,chinhoyi
+278,Carrick Creagh,House,85000.0,4,1,450,harare,harare north
+279,Burnside,House,330000.0,4,2,20234,bulawayo,bulawayo east
+280,Ilanda,House,350000.0,6,6,2240,bulawayo,bulawayo east
+281,Rhodesville,Townhouse Complex,230000.0,4,2,304,harare,harare east
+282,Eastvale,House,100000.0,3,2,1468,masvingo,masvingo
+283,Mufakose,House,25000.0,2,1,300,harare,harare high density
+284,Marondera,House,130000.0,3,2,2399,marondera,marondera
+285,Mabvazuva,House,85000.0,5,2,600,ruwa,ruwa
+286,Waterfalls,House,110000.0,4,2,970,harare,harare south
+287,Old Windsor,House,155000.0,3,2,4954,ruwa,ruwa
+288,Hogerty Hill,Townhouse Complex,400000.0,3,1,500,harare,harare north
+289,Madokero,House,150000.0,4,1,400,harare,harare west
+290,Bluff Hill,House,150000.0,2,2,500,harare,harare west
+291,Kariba,House,200000.0,4,1,5777,kariba,kariba
+292,Tynwald,House,129000.0,4,1,400,harare,harare west
+293,Marondera,House,280000.0,3,2,4000,marondera,marondera
+294,Avonlea,House,290000.0,5,3,1532,harare,harare west
+295,Mount Pleasant,House,360000.0,8,3,4000,harare,harare north
+296,Bluff Hill,Townhouse Complex,38000.0,3,1,300,harare,harare west
+297,Chinhoyi,House,200000.0,6,4,3200,chinhoyi,chinhoyi
+298,Arlington,Townhouse Complex,180000.0,3,2,473,harare,harare south
+299,Waterfalls,House,185000.0,3,2,6000,harare,harare south
+300,Matsheumhlope,House,95000.0,3,1,3783,bulawayo,bulawayo east
+301,Mainway Meadows,House,90000.0,4,1,600,harare,harare south
+302,Mabvazuva,House,90000.0,4,2,400,ruwa,ruwa
+303,Barham Green,House,115000.0,3,1,1535,bulawayo,bulawayo south
+304,Rolf Valley,House,3000000.0,3,2,31970,harare,harare north
+305,Gweru CBD,House,59000.0,4,1,1300,gweru,gweru
+306,Hogerty Hill,House,265000.0,4,1,400,harare,harare north
+307,Damofalls,House,60000.0,4,2,512,damofalls,damofalls
+308,Bluff Hill,House,170000.0,4,2,1000,harare,harare west
+309,Helensvale,House,450000.0,7,6,2500,harare,harare north
+310,Upper Hillside,House,240000.0,4,1,1212,harare,harare east
+311,Kariba,House,100000.0,4,1,600,kariba,kariba
+312,Mt Pleasant Heights,House,250000.0,5,5,2176,harare,harare west
+313,Mount Pleasant Heights,House,140000.0,6,1,2180,harare,harare north
+314,Greendale,House,300000.0,4,1,4000,harare,harare east
+315,Luveve,House,21500.0,2,1,312,bulawayo,bulawayo high density
+316,Marlborough,House,110000.0,4,2,504,harare,harare west
+317,Madokero,House,145000.0,4,2,389,harare,harare west
+318,Msasa Park,House,75000.0,3,2,460,harare,harare south
+319,Chisipite,House,690000.0,5,4,4247,harare,harare north
+320,Mbare,House,30000.0,2,1,200,harare,harare high density
+321,Mount Pleasant Heights,House,250000.0,4,3,2200,harare,harare north
+322,Mount Pleasant Heights,Townhouse Complex,310000.0,5,4,2209,harare,harare north
+323,Cold Comfort,House,45000.0,4,2,350,harare,harare west
+324,Zimre Park,House,49900.0,4,1,500,harare,harare east
+325,Gunhill,House,1800000.0,4,4,3444,harare,harare north
+326,Hatfield,House,200000.0,6,4,2100,harare,harare south
+327,Dangamvura,House,25000.0,2,1,625,mutare,mutare
+328,Zimre Park,House,70000.0,4,2,700,harare,harare east
+329,Hillside,House,700000.0,1,1,3644,bulawayo,bulawayo south
+330,Greendale,House,300000.0,3,1,3716,harare,harare east
+331,Chitungwiza,House,23000.0,4,1,200,chitungwiza,chitungwiza
+332,Vainona,House,550000.0,5,6,4000,harare,harare north
+333,Crowhill Views,House,45000.0,4,1,1000,harare,harare north
+334,Mabelreign,House,145000.0,3,2,1250,harare,harare west
+335,Hillside,House,180000.0,4,2,4936,bulawayo,bulawayo south
+336,Victoria Falls,House,270000.0,5,1,1300,victoria,victoria falls
+337,Zengeza,House,40000.0,3,1,293,chitungwiza,chitungwiza
+338,Mufakose,House,22000.0,3,1,100,harare,harare high density
+339,Vainona,Townhouse Complex,390000.0,3,2,400,harare,harare north
+340,New Marlborough,House,120000.0,4,1,500,harare,harare west
+341,Rhodesville,Townhouse Complex,235000.0,3,2,304,harare,harare east
+342,Marondera,House,25000.0,4,1,400,marondera,marondera
+343,Meyrick Park,House,265000.0,4,3,2000,harare,harare west
+344,Chiredzi,Townhouse Complex,160000.0,3,2,3200,chiredzi,chiredzi
+345,Chitungwiza,House,25000.0,4,1,203,chitungwiza,chitungwiza
+346,Bluff Hill,Townhouse Complex,145000.0,4,1,700,harare,harare west
+347,Cowdray Park,House,16000.0,3,1,200,bulawayo,bulawayo high density
+348,Milton Park,House,300000.0,4,3,1029,harare,harare west
+349,Glaudina,House,22000.0,3,1,211,harare,harare west
+350,Vumba,House,350000.0,3,2,129499,vumba,vumba
+351,Highlands,House,400000.0,4,2,4500,harare,harare north
+352,Hillside,House,170000.0,4,1,1011,harare,harare south
+353,Belvedere,House,195000.0,4,1,1400,harare,harare west
+354,Westgate,House,115000.0,2,1,1364,harare,harare west
+355,Greendale,House,285000.0,3,1,3700,harare,harare east
+356,Ruwa,House,90000.0,4,2,520,ruwa,ruwa
+357,Binga,House,250000.0,4,3,7371,binga,binga
+358,Glaudina,House,35000.0,3,1,1000,harare,harare west
+359,Glen Norah,House,25000.0,2,1,200,harare,harare high density
+360,KweKwe,House,200000.0,5,3,4000,kwekwe,kwekwe
+361,Mt Hampden,Townhouse Complex,1080000.0,4,6,944,harare,harare west
+362,Arlington,Townhouse Complex,295000.0,5,4,500,harare,harare south
+363,Hillside,House,140000.0,4,2,3783,bulawayo,bulawayo south
+364,Hogerty Hill,House,1250000.0,5,4,40468,harare,harare north
+365,Bloomingdale,House,110000.0,3,2,400,harare,harare west
+366,Zengeza,House,26000.0,4,1,200,chitungwiza,chitungwiza
+367,Glen View,House,65000.0,3,1,540,harare,harare high density
+368,Hogerty Hill,House,450000.0,6,1,2600,harare,harare north
+369,Upper Hillside,House,250000.0,3,2,1364,harare,harare east
+370,Mount Pleasant Heights,House,125000.0,3,1,2000,harare,harare north
+371,Hogerty Hill,House,550000.0,4,1,9500,harare,harare north
+372,Ruwa,House,35000.0,3,2,340,ruwa,ruwa
+373,Quinnington,Townhouse Complex,450000.0,4,1,1000,harare,harare north
+374,Rainham,House,74000.0,2,1,251,harare,harare west
+375,Chisipite,House,690000.0,4,2,4247,harare,harare north
+376,Marlborough,Townhouse Complex,120000.0,3,2,200,harare,harare west
+377,Monavale,Townhouse Complex,210000.0,4,3,320,harare,harare west
+378,Suburbs,House,180000.0,4,2,744,bulawayo,bulawayo east
+379,Borrowdale,House,450000.0,7,7,4300,harare,harare north
+380,Ilanda,House,210000.0,4,2,2612,bulawayo,bulawayo east
+381,Helensvale,House,650000.0,6,4,11000,harare,harare north
+382,Mount Pleasant,House,380000.0,4,3,2359,harare,harare north
+383,Budiriro,House,43000.0,6,2,300,harare,harare high density
+384,Chitungwiza,House,31500.0,4,1,250,chitungwiza,chitungwiza
+385,Ashdown Park,House,55000.0,6,4,500,harare,harare west
+386,Greendale,House,450000.0,4,3,6674,harare,harare east
+387,Glen Lorne,House,460000.0,4,2,5000,harare,harare north
+388,Budiriro,House,35000.0,6,1,300,harare,harare high density
+389,Rockview,House,60000.0,4,2,1000,harare,harare east
+390,Hatfield,House,90000.0,4,2,2080,harare,harare south
+391,Marimba Park,House,85000.0,4,2,312,harare,harare high density
+392,Zimre Park,House,65000.0,3,2,604,harare,harare east
+393,Chinhoyi,House,85000.0,3,1,2703,chinhoyi,chinhoyi
+394,New Marlborough,House,150000.0,3,1,580,harare,harare west
+395,Waterfalls,House,170000.0,3,3,6025,harare,harare south
+396,Tynwald,House,95000.0,3,2,455,harare,harare west
+397,Ruwa,House,45000.0,3,1,300,ruwa,ruwa
+398,Springvale,House,65000.0,4,1,290,ruwa,ruwa
+399,Arlington,House,95000.0,5,1,444,harare,harare south
+400,Waterfalls,House,250000.0,3,2,4090,harare,harare south
+401,Mt Pleasant Heights,House,190000.0,5,3,1936,harare,harare west
+402,Crowhill Views,House,180000.0,5,4,1000,harare,harare north
+403,Mabelreign,House,125000.0,3,1,1080,harare,harare west
+404,Hillside,House,230000.0,4,2,8011,bulawayo,bulawayo south
+405,Pomona,House,100000.0,4,4,2100,harare,harare north
+406,Belvedere,House,190000.0,4,2,1400,harare,harare west
+407,Ruwa,House,35000.0,4,1,870,ruwa,ruwa
+408,Zimre Park,House,68000.0,4,1,500,harare,harare east
+409,Dangamvura,House,25000.0,2,1,410,mutare,mutare
+410,Chisipite,House,650000.0,3,3,4853,harare,harare north
+411,Parktown,House,80000.0,3,1,1000,harare,harare south
+412,Kumalo,House,290000.0,3,2,3026,bulawayo,bulawayo east
+413,Norton,House,85000.0,5,1,1890,norton,norton
+414,Mainway Meadows,House,135000.0,3,1,578,harare,harare south
+415,Windsor Park,House,130000.0,5,1,2000,ruwa,ruwa
+416,Aspindale Park,House,75000.0,4,2,200,harare,harare west
+417,Mabelreign,House,155000.0,3,2,1330,harare,harare west
+418,Arlington,Townhouse Complex,125000.0,3,2,324,harare,harare south
+419,Southlea Park,House,30000.0,3,2,200,harare,harare south
+420,Hogerty Hill,House,370000.0,4,3,2911,harare,harare north
+421,New Marlborough,House,100000.0,4,2,500,harare,harare west
+422,Budiriro,House,40000.0,4,1,282,harare,harare high density
+423,Burnside,House,399000.0,5,3,4047,bulawayo,bulawayo east
+424,New Marlborough,House,120000.0,2,1,2000,harare,harare west
+425,Southview Park,House,50000.0,3,1,222,harare,harare south
+426,Gletwin Park,House,800000.0,1,1,3273,harare,harare north
+427,Borrowdale,House,1000000.0,5,1,4316,harare,harare north
+428,Emerald Hill,House,350000.0,6,3,1790,harare,harare west
+429,Norton,House,85000.0,5,3,1890,norton,norton
+430,Chitungwiza,House,26000.0,4,1,200,chitungwiza,chitungwiza
+431,Shawasha Hills,House,395000.0,3,1,10000,harare,harare north
+432,Mount Pleasant Heights,House,400000.0,5,1,2000,harare,harare north
+433,Kuwadzana,House,35000.0,4,1,200,harare,harare high density
+434,Kuwadzana,House,40000.0,5,2,200,harare,harare high density
+435,Beitbridge,House,30000.0,2,1,800,beitbridge,beitbridge
+436,Borrowdale,Townhouse Complex,375000.0,3,3,577,harare,harare north
+437,Barham Green,House,65000.0,3,1,595,bulawayo,bulawayo south
+438,Mount Pleasant,Townhouse Complex,600000.0,1,3,4120,harare,harare north
+439,Mainway Meadows,House,110000.0,8,2,540,harare,harare south
+440,Ruwa,House,70000.0,4,2,400,ruwa,ruwa
+441,Bloomingdale,House,110000.0,3,2,420,harare,harare west
+442,Sandton Park,House,125000.0,5,2,2000,harare,harare west
+443,Gumtree,House,350000.0,7,7,89030,bulawayo,bulawayo east
+444,Mt Hampden,Townhouse Complex,1150000.0,5,7,1000,harare,harare west
+445,Burnside,House,275000.0,4,2,4168,bulawayo,bulawayo east
+446,Highlands,Townhouse Complex,1200000.0,4,4,4047,harare,harare north
+447,Greystone Park,House,550000.0,5,1,5000,harare,harare north
+448,Pomona,House,90000.0,4,2,2000,harare,harare north
+449,Arlington,House,155000.0,3,2,325,harare,harare south
+450,Hatfield,House,300000.0,5,2,10000,harare,harare south
+451,Murambi,House,525000.0,4,3,4141,mutare,mutare
+452,Madokero,House,90000.0,4,1,500,harare,harare west
+453,Philadelphia,House,895000.0,6,8,7342,harare,harare north
+454,Manyame Park,House,30000.0,4,2,200,chitungwiza,chitungwiza
+455,Shawasha Hills,House,380000.0,5,1,2500,harare,harare north
+456,Rainham,House,72000.0,3,1,24966,harare,harare west
+457,Vainona,House,700000.0,9,7,8400,harare,harare north
+458,Greendale North,Townhouse Complex,150000.0,2,2,190,harare,harare north
+459,Aspindale Park,Townhouse Complex,60000.0,2,1,10000,harare,harare west
+460,Windsor Park,House,130000.0,4,2,2000,ruwa,ruwa
+461,Alexandra Park,House,650000.0,5,4,3500,harare,harare north
+462,Philadelphia,House,400000.0,7,7,4000,harare,harare north
+463,Nehosho,House,30000.0,4,1,153,gweru,gweru
+464,Emerald Hill,House,350000.0,4,3,1731,harare,harare west
+465,Southerton,House,65000.0,3,1,630,harare,harare south
+466,Nharira,House,65000.0,2,1,3500,norton,norton
+467,Morningside,House,210000.0,5,2,5394,mutare,mutare
+468,Waterfalls,House,150000.0,3,1,600,harare,harare south
+469,Colne Valley,House,690000.0,4,2,6283,harare,harare north
+470,Tynwald,House,85000.0,3,1,400,harare,harare west
+471,Bluff Hill,House,125000.0,3,1,1022,harare,harare west
+472,Greendale,House,375000.0,3,2,4046,harare,harare east
+473,Zimre Park,House,120000.0,6,3,1000,harare,harare east
+474,Chisipite,Townhouse Complex,500000.0,3,2,3713,harare,harare north
+475,Bloomingdale,House,130000.0,4,1,617,harare,harare west
+476,Shawasha Hills,House,140000.0,4,1,1800,harare,harare north
+477,Kumalo,House,380000.0,8,6,3276,bulawayo,bulawayo east
+478,Madokero,Townhouse Complex,70000.0,2,2,7578,harare,harare west
+479,Norton,House,35000.0,4,2,2600,norton,norton
+480,Mbizo,House,45000.0,3,2,575,kwekwe,kwekwe
+481,Glen Lorne,House,275000.0,4,3,2000,harare,harare north
+482,Glen Lorne,House,550000.0,4,3,5132,harare,harare north
+483,Budiriro,House,43000.0,6,2,300,harare,harare high density
+484,Rolf Valley,Townhouse Complex,550000.0,3,2,49800,harare,harare north
+485,Riverside,House,70000.0,3,1,2069,gweru,gweru
+486,Murambi,House,250000.0,6,1,2800,mutare,mutare
+487,Gletwin Park,House,1200000.0,6,7,7165,harare,harare north
+488,Goodhope,House,200000.0,4,2,2000,harare,harare west
+489,Sunway City,House,96000.0,5,1,2004,harare,harare east
+490,Kadoma,House,140000.0,4,1,1115,kadoma,kadoma
+491,Hillside,Townhouse Complex,65000.0,1,1,800,bulawayo,bulawayo south
+492,Kambanji,House,750000.0,6,4,3883,harare,harare north
+493,Glen View,House,45000.0,4,1,300,harare,harare high density
+494,Vainona,House,530000.0,3,2,4240,harare,harare north
+495,Nkulumane,House,30000.0,4,2,450,bulawayo,bulawayo high density
+496,Alexandra Park,House,750000.0,5,4,3900,harare,harare north
+497,Avonlea,House,190000.0,3,2,2100,harare,harare west
+498,Helensvale,House,480000.0,4,3,3950,harare,harare north
+499,Mount Pleasant,House,400000.0,4,4,3800,harare,harare north
+500,Stoneridge,House,35000.0,3,2,300,harare,harare south
+501,Mkoba,House,25000.0,3,1,200,gweru,gweru
+502,Waterfalls,Townhouse Complex,115000.0,3,1,348,harare,harare south
+503,Mt Pleasant Heights,House,230000.0,4,3,1360,harare,harare west
+504,Tynwald,House,68000.0,3,1,480,harare,harare west
+505,Mabvuku,House,23000.0,2,1,200,harare,harare high density
+506,Marlborough,House,260000.0,3,2,5000,harare,harare west
+507,Zimre Park,House,90000.0,3,1,540,harare,harare east
+508,Ruwa,House,105000.0,5,1,800,ruwa,ruwa
+509,Chitungwiza,House,32000.0,4,1,300,chitungwiza,chitungwiza
+510,Msasa Park,House,58000.0,2,1,420,harare,harare south
+511,Kadoma,House,75000.0,3,2,2400,kadoma,kadoma
+512,Penhalonga,House,75000.0,4,3,1500,mutare,mutare
+513,Tynwald,House,85000.0,3,1,374,harare,harare west
+514,Newlands,House,360000.0,3,2,2800,harare,harare north
+515,Park Meadowlands,House,129000.0,4,2,1900,harare,harare south
+516,Goromonzi,House,80000.0,4,3,799,goromonzi,goromonzi
+517,Eastlea,House,280000.0,3,2,1500,harare,harare east
+518,Budiriro,House,24000.0,2,1,240,harare,harare high density
+519,Colne Valley,House,500000.0,5,3,8583,harare,harare north
+520,Bluff Hill,House,300000.0,8,5,3890,harare,harare west
+521,Sandton Park,House,110000.0,4,1,1000,harare,harare west
+522,Zimre Park,House,80000.0,4,1,721,harare,harare east
+523,Waterfalls,House,75000.0,4,2,400,harare,harare south
+524,Chisipite,House,480000.0,4,1,4001,harare,harare north
+525,Westgate,House,200000.0,4,2,553,harare,harare west
+526,Mufakose,House,28000.0,3,1,100,harare,harare high density
+527,Kadoma,House,199000.0,6,4,3483,kadoma,kadoma
+528,Helensvale,House,400000.0,4,3,6000,harare,harare north
+529,Mbare,House,28000.0,2,1,300,harare,harare high density
+530,Newton West,House,165000.0,4,3,4000,bulawayo,bulawayo south
+531,Lewisam,House,490000.0,4,3,4000,harare,harare north
+532,Chitungwiza,House,27000.0,4,2,400,chitungwiza,chitungwiza
+533,Newlands,House,1800000.0,9,1,5256,harare,harare north
+534,Ballantyne Park,House,985000.0,4,2,4046,harare,harare north
+535,Ruwa,House,37000.0,4,1,750,ruwa,ruwa
+536,Umwinsidale,House,700000.0,3,2,31284,harare,harare north
+537,Borrowdale Brooke,Townhouse Complex,460000.0,3,2,414,harare,harare north
+538,Mbizo,House,22000.0,6,1,300,kwekwe,kwekwe
+539,Adylinn,House,140000.0,4,1,1000,harare,harare west
+540,Hwange,House,40000.0,3,1,1598,hwange,hwange
+541,Queensdale,House,160000.0,3,1,1000,harare,harare south
+542,Avondale,House,750000.0,5,3,3700,harare,harare west
+543,Mount Pleasant,House,720000.0,8,5,4047,harare,harare north
+544,Quinnington,House,800000.0,5,1,4695,harare,harare north
+545,Vainona,House,750000.0,4,1,8119,harare,harare north
+546,Glaudina,House,24000.0,3,2,229,harare,harare west
+547,Borrowdale Brooke,House,1350000.0,3,3,4597,harare,harare north
+548,Chitungwiza,House,26500.0,4,1,207,chitungwiza,chitungwiza
+549,Chitungwiza,House,34000.0,4,2,312,chitungwiza,chitungwiza
+550,Greendale,Townhouse Complex,260000.0,3,3,3371,harare,harare east
+551,Norton,House,250000.0,8,1,3040,norton,norton
+552,Belvedere,House,230000.0,4,2,1417,harare,harare west
+553,Ruwa,Townhouse Complex,150000.0,1,6,2288,ruwa,ruwa
+554,Marlborough,House,260000.0,3,2,5000,harare,harare west
+555,Emerald Hill,House,417000.0,4,2,4451,harare,harare west
+556,Highlands,House,450000.0,6,4,4050,harare,harare north
+557,Christon Bank,House,375000.0,4,3,16187,christon,christon bank
+558,Southview Park,House,55000.0,3,2,240,harare,harare south
+559,Greystone Park,Cottage,520000.0,5,4,4003,harare,harare north
+560,Kariba,House,497000.0,7,9,10206,kariba,kariba
+561,Chisipite,House,800000.0,4,1,6953,harare,harare north
+562,Mount Pleasant,House,590000.0,1,1,4249,harare,harare north
+563,Bellevue,House,65000.0,3,1,2974,bulawayo,bulawayo south
+564,Mabelreign,House,220000.0,3,2,1837,harare,harare west
+565,Hillside,House,187000.0,4,1,4000,bulawayo,bulawayo south
+566,Ruwa,House,65000.0,3,2,865,ruwa,ruwa
+567,Lochinvar,House,80000.0,2,1,2000,harare,harare south
+568,Bluff Hill,Townhouse Complex,130000.0,3,2,123,harare,harare west
+569,Chisipite,Townhouse Complex,500000.0,3,2,3713,harare,harare north
+570,Southlea Park,House,50000.0,4,1,1000,harare,harare south
+571,Chisipite,House,795000.0,4,3,4000,harare,harare north
+572,Arlington,Townhouse Complex,95000.0,4,2,340,harare,harare south
+573,Glen Lorne,House,1500000.0,6,4,4000,harare,harare north
+574,Glen View,House,35000.0,3,1,220,harare,harare high density
+575,Mufakose,House,30000.0,4,1,200,harare,harare high density
+576,Shawasha Hills,House,380000.0,4,3,2100,harare,harare north
+577,Msasa Park,House,100000.0,3,2,423,harare,harare south
+578,Cotswold Hills,House,150000.0,3,2,1041,harare,harare west
+579,Beatrice,House,20000.0,4,1,276,beatrice,beatrice
+580,Southview Park,House,32000.0,3,2,200,harare,harare south
+581,Zengeza,House,27000.0,3,1,300,chitungwiza,chitungwiza
+582,Hatfield,Townhouse Complex,150000.0,3,3,600,harare,harare south
+583,Glaudina,House,75000.0,4,2,1296,harare,harare west
+584,Greendale,House,155000.0,4,1,1062,harare,harare east
+585,Selbourne Park,House,140000.0,5,1,1800,bulawayo,bulawayo east
+586,Madokero,House,150000.0,3,2,450,harare,harare west
+587,Ridgemont,House,280000.0,4,3,2000,gweru,gweru
+588,Greystone Park,House,600000.0,5,1,4047,harare,harare north
+589,Zengeza,House,45000.0,5,2,500,chitungwiza,chitungwiza
+590,Chitungwiza,House,28000.0,4,1,300,chitungwiza,chitungwiza
+591,Chitungwiza,House,39000.0,4,1,450,chitungwiza,chitungwiza
+592,Riverside North,Townhouse Complex,155000.0,8,4,4000,bulawayo,bulawayo east
+593,Eastlea,House,370000.0,4,3,1900,harare,harare east
+594,Burnside,House,800000.0,4,3,4000,bulawayo,bulawayo east
+595,Sandton Park,House,44000.0,4,1,1300,harare,harare west
+596,Chitungwiza,House,28000.0,4,1,207,chitungwiza,chitungwiza
+597,Borrowdale Brooke,House,1600000.0,7,1,4400,harare,harare north
+598,Zengeza,House,36000.0,4,1,350,chitungwiza,chitungwiza
+599,Helensvale,House,400000.0,3,2,2300,harare,harare north
+600,Riverside North,House,495000.0,2,1,93100,bulawayo,bulawayo east
+601,Madokero,House,85000.0,5,2,460,harare,harare west
+602,Westlea,House,110000.0,4,1,700,harare,harare west
+603,Ruwa,House,57000.0,4,2,800,ruwa,ruwa
+604,Bluff Hill,House,270000.0,4,1,2100,harare,harare west
+605,Budiriro,House,34000.0,2,1,300,harare,harare high density
+606,Chinhoyi,House,180000.0,4,5,3315,chinhoyi,chinhoyi
+607,Arlington,Townhouse Complex,135000.0,4,2,400,harare,harare south
+608,Highlands,House,500000.0,4,2,4493,harare,harare north
+609,Golden Acres,House,150000.0,5,3,4004,kwekwe,kwekwe
+610,Westgate,House,125000.0,2,1,1364,harare,harare west
+611,Waterfalls,Cottage,50000.0,2,1,542,harare,harare south
+612,Gweru East,House,37000.0,3,1,150,gweru,gweru
+613,Rusape,House,18000.0,4,1,450,rusape,rusape
+614,Windsor Park,House,85000.0,2,1,1900,gweru,gweru
+615,Manresa,House,180000.0,5,6,2010,harare,harare east
+616,Suburbs,House,120000.0,2,1,2974,bulawayo,bulawayo east
+617,Glen View,House,40000.0,4,1,200,harare,harare high density
+618,Waterfalls,Townhouse Complex,150000.0,3,1,300,harare,harare south
+619,Mainway Meadows,House,105000.0,4,2,540,harare,harare south
+620,Emerald Hill,House,295000.0,3,3,1933,harare,harare west
+621,Westlea,House,100000.0,5,2,660,harare,harare west
+622,Cold Comfort,Townhouse Complex,42000.0,4,2,390,harare,harare west
+623,Marlborough,House,350000.0,4,1,3870,harare,harare west
+624,Brookview,House,570000.0,7,3,2000,harare,harare north
+625,Mount Pleasant Heights,House,280000.0,5,1,2209,harare,harare north
+626,Chisipite,House,690000.0,4,2,4000,harare,harare north
+627,Charlotte Brooke,House,105000.0,5,1,1200,harare,harare north
+628,The Grange,House,400000.0,4,2,4500,harare,harare north
+629,Chirundu,House,105000.0,3,2,2797,chirundu,chirundu
+630,Crowhill Views,House,55000.0,4,2,1000,harare,harare north
+631,Mainway Meadows,House,80000.0,5,1,1000,harare,harare south
+632,Cowdray Park,House,30000.0,3,1,250,bulawayo,bulawayo high density
+633,Greystone Park,House,525000.0,5,3,5425,harare,harare north
+634,Mainway Meadows,House,110000.0,4,1,500,harare,harare south
+635,Charlotte Brooke,House,90000.0,5,5,1200,harare,harare north
+636,Zimre Park,House,68000.0,4,3,800,harare,harare east
+637,Eastlea,House,295000.0,3,1,2404,harare,harare east
+638,Vainona,Townhouse Complex,375000.0,3,3,577,harare,harare north
+639,Springvale,House,65000.0,3,2,390,ruwa,ruwa
+640,Damofalls,House,60000.0,4,2,300,damofalls,damofalls
+641,Hillside,Townhouse Complex,160000.0,3,2,8000,bulawayo,bulawayo south
+642,Alexandra Park,House,550000.0,5,3,3002,harare,harare north
+643,Famona,House,65000.0,3,1,637,bulawayo,bulawayo south
+644,Bulawayo City Centre,House,299000.0,2,2,800,bulawayo,bulawayo cbd industrial
+645,Emerald Hill,House,350000.0,5,1,1800,harare,harare west
+646,Glen View,House,36000.0,2,1,200,harare,harare high density
+647,Vainona,House,570000.0,4,2,4900,harare,harare north
+648,Helensvale,Townhouse Complex,300000.0,4,4,2000,harare,harare north
+649,Kuwadzana,House,37000.0,4,2,250,harare,harare high density
+650,Southerton,House,55000.0,3,1,600,harare,harare south
+651,Nkulumane,House,45000.0,4,2,350,bulawayo,bulawayo high density
+652,Budiriro,House,30000.0,4,2,300,harare,harare high density
+653,Philadelphia,House,750000.0,6,1,4600,harare,harare north
+654,Arlington,Townhouse Complex,180000.0,3,2,473,harare,harare south
+655,Helensvale,Townhouse Complex,349995.0,4,1,1000,harare,harare north
+656,Glen View,House,40000.0,4,1,200,harare,harare high density
+657,Kuwadzana,House,40000.0,4,1,450,harare,harare high density
+658,Chisipite,House,1200000.0,5,4,8095,harare,harare north
+659,Shawasha Hills,House,575000.0,4,3,14164,harare,harare north
+660,Arlington,Townhouse Complex,160000.0,3,2,500,harare,harare south
+661,Mount Pleasant Heights,House,300000.0,5,1,2209,harare,harare north
+662,Tafara,House,25000.0,4,1,300,harare,harare high density
+663,Hatfield,House,120000.0,2,2,4932,harare,harare south
+664,Ruwa,House,80000.0,4,3,600,ruwa,ruwa
+665,Chitungwiza,House,25000.0,3,1,200,chitungwiza,chitungwiza
+666,Tynwald,House,85000.0,4,1,420,harare,harare west
+667,Crowhill Views,House,55000.0,2,1,1000,harare,harare north
+668,Sunridge,House,165000.0,3,1,1071,harare,harare west
+669,Borrowdale,House,999000.0,4,3,8670,harare,harare north
+670,Charlotte Brooke,House,120000.0,5,1,1000,harare,harare north
+671,Chitungwiza,House,30000.0,3,1,300,chitungwiza,chitungwiza
+672,Avonlea,House,190000.0,3,1,1380,harare,harare west
+673,Sandton Park,House,110000.0,4,3,1000,harare,harare west
+674,Tynwald,House,100000.0,4,2,463,harare,harare west
+675,Kumalo,House,399000.0,4,3,3753,bulawayo,bulawayo east
+676,Ruwa,House,70000.0,4,3,413,ruwa,ruwa
+677,Zimre Park,House,68000.0,3,1,538,harare,harare east
+678,Charlotte Brooke,House,100000.0,5,1,1200,harare,harare north
+679,Belgravia,House,780000.0,6,5,3331,harare,harare north
+680,Norton,House,70000.0,5,1,2600,norton,norton
+681,Quinnington,Townhouse Complex,370000.0,3,2,850,harare,harare north
+682,Emerald Hill,House,295000.0,3,2,2100,harare,harare west
+683,Chimanimani,House,18000.0,2,1,300,chimanimani,chimanimani
+684,Suburbs,House,250000.0,3,2,1455,bulawayo,bulawayo east
+685,Marondera,House,65000.0,4,2,4065,marondera,marondera
+686,Kumalo,Townhouse Complex,280000.0,4,4,900,bulawayo,bulawayo east
+687,Norton,House,250000.0,7,5,3030,norton,norton
+688,Tynwald,House,105000.0,4,1,420,harare,harare west
+689,Gweru CBD,House,85000.0,3,2,4015,gweru,gweru
+690,Colne Valley,Townhouse Complex,345000.0,3,2,800,harare,harare north
+691,Marlborough,House,260000.0,3,1,4973,harare,harare west
+692,Highlands,House,790000.0,4,6,4000,harare,harare north
+693,Kumalo,House,140000.0,3,2,1790,bulawayo,bulawayo east
+694,Chisipite,House,585000.0,5,6,2700,harare,harare north
+695,Mabvuku,House,24000.0,1,1,150,harare,harare high density
+696,New Marlborough,House,100000.0,3,2,540,harare,harare west
+697,Marlborough,House,230000.0,3,2,4973,harare,harare west
+698,Seke,House,80000.0,4,2,799,seke,seke
+699,Kumalo,Townhouse Complex,168000.0,3,2,600,bulawayo,bulawayo east
+700,Marondera,House,65000.0,4,2,1200,marondera,marondera
+701,Belvedere,House,297000.0,3,1,2057,harare,harare west
+702,Crowhill Views,House,160000.0,4,2,2400,harare,harare north
+703,Esigodini,House,190000.0,5,2,3600,bulawayo,bulawayo east
+704,Arlington,Townhouse Complex,330000.0,5,1,500,harare,harare south
+705,Mt Pleasant Heights,House,180000.0,4,2,2000,harare,harare west
+706,Ruwa,House,49000.0,4,2,400,ruwa,ruwa
+707,Southerton,House,67000.0,3,1,711,harare,harare south
+708,Quinnington,Townhouse Complex,370000.0,3,1,850,harare,harare north
+709,Brookview,House,450000.0,7,1,2000,harare,harare north
+710,Madokero,House,110000.0,3,1,380,harare,harare west
+711,Avondale West,House,190000.0,2,2,1000,harare,harare west
+712,Hillside,House,200000.0,5,3,1401,harare,harare south
+713,Bulawayo City Centre,House,200000.0,3,2,5760,bulawayo,bulawayo cbd industrial
+714,Manyame Park,House,43000.0,4,1,300,chitungwiza,chitungwiza
+715,Greystone Park,House,300000.0,4,1,500,harare,harare north
+716,Southview Park,House,65000.0,4,2,240,harare,harare south
+717,Chitungwiza,House,35000.0,3,1,288,chitungwiza,chitungwiza
+718,Crowhill Views,House,120000.0,3,1,2000,harare,harare north
+719,Marlborough,House,350000.0,4,1,4000,harare,harare west
+720,Zengeza,House,26000.0,4,1,300,chitungwiza,chitungwiza
+721,Mount Pleasant,Townhouse Complex,270000.0,2,2,1000,harare,harare north
+722,Warren Park,House,40000.0,4,1,400,harare,harare high density
+723,Ruwa,House,360000.0,4,3,56656,ruwa,ruwa
+724,Tynwald,House,90000.0,4,2,420,harare,harare west
+725,Ruwa,House,75000.0,3,3,700,ruwa,ruwa
+726,Athlone,House,290000.0,4,3,4002,harare,harare east
+727,Borrowdale Brooke,House,795000.0,4,3,1341,harare,harare north
+728,Vainona,House,250000.0,4,1,400,harare,harare north
+729,Tafara,House,35000.0,3,1,227,harare,harare high density
+730,Eastvale,House,86000.0,3,1,1465,masvingo,masvingo
+731,Strathaven,Townhouse Complex,155000.0,3,1,5000,harare,harare west
+732,Hatfield,Townhouse Complex,121000.0,3,2,400,harare,harare south
+733,Waterfalls,House,300000.0,7,3,2500,harare,harare south
+734,Southview Park,House,35000.0,3,1,220,harare,harare south
+735,Shawasha Hills,House,950000.0,6,6,8093,harare,harare north
+736,Gletwin Park,House,400000.0,9,7,2100,harare,harare north
+737,Ruwa,House,100000.0,4,1,780,ruwa,ruwa
+738,Madokero,House,75000.0,2,1,200,harare,harare west
+739,Waterfalls,House,120000.0,3,1,2000,harare,harare south
+740,Kumalo,House,200000.0,4,3,2573,bulawayo,bulawayo east
+741,Newlands,Townhouse Complex,350000.0,3,2,500,harare,harare north
+742,Milton Park,House,275000.0,3,1,2359,harare,harare west
+743,Newlands,House,1500000.0,3,3,4001,harare,harare north
+744,Madokero,House,105000.0,4,1,400,harare,harare west
+745,Adelaide Park,House,55000.0,4,1,400,harare,harare high density
+746,Mount Pleasant Heights,House,240000.0,4,2,1360,harare,harare north
+747,Avondale,House,1100000.0,3,2,10000,harare,harare north
+748,Belvedere,House,190000.0,4,2,1400,harare,harare west
+749,Bradfield,House,72000.0,3,1,368,bulawayo,bulawayo south
+750,Westgate,Townhouse Complex,145000.0,4,1,600,harare,harare west
+751,Newlands,Townhouse Complex,850000.0,3,1,7200,harare,harare north
+752,Mt Pleasant Heights,House,230000.0,4,2,2080,harare,harare west
+753,Hatfield,Townhouse Complex,150000.0,4,2,500,harare,harare south
+754,Rolf Valley,House,550000.0,6,5,4046,harare,harare north
+755,Four Winds,House,320000.0,5,4,8094,bulawayo,bulawayo south
+756,Kumalo,Townhouse Complex,160000.0,3,4,700,bulawayo,bulawayo east
+757,Mount Pleasant Heights,House,199000.0,5,2,2200,harare,harare north
+758,Sunway City,House,70000.0,3,1,2010,harare,harare east
+759,Avondale,Townhouse Complex,300000.0,3,2,250,harare,harare north
+760,Glen View,House,35000.0,3,2,200,harare,harare high density
+761,Fitchlea,House,90000.0,3,1,1487,kwekwe,kwekwe
+762,Tynwald,House,100000.0,3,2,490,harare,harare west
+763,Emerald Hill,House,415000.0,4,2,4451,harare,harare west
+764,Rydale Ridge,House,80000.0,4,2,2500,harare,harare high density
+765,Dzivarasekwa,House,32000.0,5,1,300,harare,harare high density
+766,Helensvale,House,300000.0,5,1,2000,harare,harare north
+767,Mainway Meadows,House,100000.0,4,3,435,harare,harare south
+768,Msasa Park,House,65000.0,3,1,650,harare,harare south
+769,Avondale,House,700000.0,4,2,3159,harare,harare west
+770,Marlborough,Townhouse Complex,100000.0,2,1,250,harare,harare west
+771,Deka,House,200000.0,5,1,5000,deka,deka
+772,Zimre Park,House,68000.0,3,1,500,harare,harare east
+773,Pumula South,House,33000.0,4,1,200,bulawayo,bulawayo high density
+774,Zimre Park,House,125000.0,4,1,1000,harare,harare east
+775,Ashdown Park,House,70000.0,3,2,350,harare,harare west
+776,Mandara,House,300000.0,4,2,4047,harare,harare east
+777,Mount Pleasant Heights,House,380000.0,5,3,1700,harare,harare north
+778,Riverside North,House,380000.0,3,3,28300,bulawayo,bulawayo east
+779,Highlands,Townhouse Complex,240000.0,2,2,300,harare,harare north
+780,Chitungwiza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+781,Chitungwiza,House,29000.0,3,1,250,chitungwiza,chitungwiza
+782,Meyrick Park,House,270000.0,3,2,3800,harare,harare west
+783,Glen Norah,House,55000.0,4,2,367,harare,harare high density
+784,Borrowdale,House,325000.0,3,2,1000,harare,harare north
+785,Chadcombe,House,65000.0,3,1,518,harare,harare south
+786,Adylinn,House,160000.0,5,1,1509,harare,harare west
+787,Arlington,Townhouse Complex,130000.0,4,1,368,harare,harare south
+788,Borrowdale,House,340000.0,7,5,4300,harare,harare north
+789,Upper Hillside,House,260000.0,4,2,1300,harare,harare east
+790,Rhodesville,House,350000.0,3,2,1517,harare,harare east
+791,Borrowdale,House,500000.0,6,6,2900,harare,harare north
+792,Suburbs,House,165000.0,3,2,1487,bulawayo,bulawayo east
+793,Chegutu,House,43000.0,2,1,1794,chegutu,chegutu
+794,Chitungwiza,House,20000.0,3,1,300,chitungwiza,chitungwiza
+795,Goromonzi,House,340000.0,4,4,35000,goromonzi,goromonzi
+796,Cranborne,House,125000.0,3,1,775,harare,harare south
+797,Highlands,House,790000.0,5,1,4000,harare,harare north
+798,Dzivarasekwa,House,24000.0,1,1,300,harare,harare high density
+799,Waterfalls,House,150000.0,3,1,3000,harare,harare south
+800,Greendale,House,250000.0,3,2,3602,harare,harare east
+801,Westgate,House,150000.0,3,2,732,harare,harare west
+802,Chitungwiza,House,25000.0,3,1,200,chitungwiza,chitungwiza
+803,Msasa Park,Townhouse Complex,84000.0,3,1,700,harare,harare south
+804,Carrick Creagh,House,420000.0,6,6,3963,harare,harare north
+805,Avondale West,Townhouse Complex,235000.0,4,4,400,harare,harare west
+806,Fairbridge Park,House,100000.0,4,2,300,mutare,mutare
+807,Parktown,House,107000.0,4,1,1000,harare,harare south
+808,Waterfalls,House,155000.0,4,2,4046,harare,harare south
+809,Prospect,Townhouse Complex,720000.0,3,2,800,harare,harare south
+810,Highlands,House,500000.0,5,1,2800,harare,harare north
+811,Burnside,House,95000.0,3,1,8354,bulawayo,bulawayo east
+812,Arlington,Townhouse Complex,145000.0,4,1,600,harare,harare south
+813,Greendale North,Townhouse Complex,230000.0,2,2,4046,harare,harare north
+814,Mount Pleasant,House,380000.0,4,1,3800,harare,harare north
+815,Carrick Creagh,House,150000.0,6,7,1500,harare,harare north
+816,Greendale,Townhouse Complex,220000.0,3,2,450,harare,harare east
+817,Upper Hillside,House,220000.0,3,2,1200,harare,harare east
+818,Msasa Park,House,60000.0,3,1,513,harare,harare south
+819,Gletwin Park,House,1200000.0,7,8,7169,harare,harare north
+820,Belgravia,House,620000.0,4,4,3346,harare,harare north
+821,Nyanga,House,210000.0,3,2,44900,nyanga,nyanga
+822,Marimba Park,Cottage,55000.0,2,1,1000,harare,harare high density
+823,Mount Pleasant,House,450000.0,4,3,4000,harare,harare north
+824,Adylinn,House,160000.0,3,1,2700,harare,harare west
+825,Manyame Park,House,29000.0,4,2,200,chitungwiza,chitungwiza
+826,Strathaven,House,275000.0,3,2,2800,harare,harare west
+827,Alexandra Park,House,700000.0,6,1,4000,harare,harare north
+828,Arlington,Townhouse Complex,160000.0,5,3,520,harare,harare south
+829,Westgate,House,140000.0,3,2,950,harare,harare west
+830,Bulawayo City Centre,House,300000.0,4,3,4046,bulawayo,bulawayo cbd industrial
+831,Emganwini,Townhouse Complex,32000.0,3,1,200,bulawayo,bulawayo high density
+832,Westgate,House,195000.0,4,2,550,harare,harare west
+833,Manresa,House,65000.0,3,1,2128,harare,harare east
+834,Newlands,House,850000.0,4,3,7800,harare,harare north
+835,Emerald Hill,House,350000.0,5,2,1712,harare,harare west
+836,Chikanga,House,32000.0,3,1,240,mutare,mutare
+837,Umwinsidale,House,1500000.0,3,5,40468,harare,harare north
+838,Strathaven,House,310000.0,4,2,2900,harare,harare west
+839,Westgate,House,185000.0,4,2,948,harare,harare west
+840,Avondale,House,420000.0,3,2,3970,harare,harare north
+841,Greystone Park,House,325000.0,3,2,4046,harare,harare north
+842,Bluff Hill,House,200000.0,4,2,4051,harare,harare west
+843,Kadoma,House,33000.0,4,2,312,kadoma,kadoma
+844,Fairview,House,160000.0,5,4,1000,harare,harare west
+845,Kariba,House,200000.0,4,2,1641,kariba,kariba
+846,Richmond,House,250000.0,5,1,80937,bulawayo,bulawayo north
+847,Zimre Park,House,90000.0,4,2,1000,harare,harare east
+848,Rainham,House,70000.0,3,1,244,harare,harare west
+849,Waterfalls,House,175000.0,3,1,3783,harare,harare south
+850,Greendale North,House,395000.0,3,3,4089,harare,harare north
+851,Hatcliffe,House,45000.0,3,2,350,harare,harare high density
+852,Bluff Hill,House,120000.0,4,1,400,harare,harare west
+853,Palmerston,House,110000.0,3,2,1395,mutare,mutare
+854,Glen View,House,60000.0,4,1,600,harare,harare high density
+855,Glen Lorne,House,360000.0,3,2,4599,harare,harare north
+856,Mazowe,House,75000.0,5,1,1700,mazowe,mazowe
+857,Avondale,Townhouse Complex,375000.0,4,2,500,harare,harare north
+858,Tynwald,House,85000.0,4,1,455,harare,harare west
+859,Damofalls,House,52000.0,3,1,300,damofalls,damofalls
+860,Greendale North,House,285000.0,3,2,4000,harare,harare north
+861,Kuwadzana,House,45000.0,4,1,300,harare,harare high density
+862,Mount Pleasant Heights,House,290000.0,5,3,2209,harare,harare north
+863,Victoria Falls,House,550000.0,5,5,4000,victoria,victoria falls
+864,Suburbs,House,185000.0,3,2,3000,bulawayo,bulawayo east
+865,Quinnington,House,310000.0,4,1,2000,harare,harare north
+866,Chisipite,Townhouse Complex,500000.0,3,2,3713,harare,harare north
+867,Chitungwiza,House,30000.0,4,2,300,chitungwiza,chitungwiza
+868,Waterfalls,Townhouse Complex,90000.0,3,2,629,harare,harare south
+869,Sauerstown,House,65000.0,3,2,1745,bulawayo,bulawayo north
+870,Tynwald,House,80000.0,3,2,400,harare,harare west
+871,Sandton Park,House,105000.0,5,1,1000,harare,harare west
+872,Suburbs,House,120000.0,3,2,705,bulawayo,bulawayo east
+873,Houghton Park,House,70000.0,3,1,500,harare,harare south
+874,Hogerty Hill,House,1250000.0,5,3,40000,harare,harare north
+875,Belvedere,House,230000.0,4,2,1436,harare,harare west
+876,Cotswold Hills,House,155000.0,4,2,1205,harare,harare west
+877,Mandara,House,400000.0,4,3,4703,harare,harare east
+878,Chitungwiza,House,31000.0,4,1,300,chitungwiza,chitungwiza
+879,Arlington,Townhouse Complex,95000.0,4,2,360,harare,harare south
+880,Hatfield,House,155000.0,3,1,1884,harare,harare south
+881,Gletwin Park,House,620000.0,5,4,2100,harare,harare north
+882,Belvedere,House,275000.0,3,2,1523,harare,harare west
+883,Norton,House,30000.0,4,1,240,norton,norton
+884,Greendale,Townhouse Complex,250000.0,4,2,4000,harare,harare east
+885,Ruwa,House,195000.0,5,4,3200,ruwa,ruwa
+886,Marlborough,House,950000.0,4,1,8239,harare,harare west
+887,Hatfield,Townhouse Complex,140000.0,3,1,475,harare,harare south
+888,Bluff Hill,Townhouse Complex,130000.0,4,2,500,harare,harare west
+889,Avondale West,House,195000.0,3,2,1400,harare,harare west
+890,Kumalo,House,285000.0,4,3,2974,bulawayo,bulawayo east
+891,Glen Lorne,House,320000.0,3,2,4080,harare,harare north
+892,Marlborough,House,350000.0,5,2,6000,harare,harare west
+893,Southlea Park,House,32000.0,5,2,200,harare,harare south
+894,Suburbs,House,350000.0,5,2,3172,bulawayo,bulawayo east
+895,Mahatshula,House,52000.0,4,1,758,bulawayo,bulawayo north
+896,Greendale,Townhouse Complex,160000.0,4,3,1000,harare,harare east
+897,Mount Pleasant Heights,House,220000.0,4,3,2080,harare,harare north
+898,Goodhope,House,130000.0,4,2,3120,harare,harare west
+899,Greendale North,Townhouse Complex,195000.0,3,2,250,harare,harare north
+900,Barham Green,House,60000.0,3,1,595,bulawayo,bulawayo south
+901,Avondale,House,1400000.0,4,4,5000,harare,harare north
+902,Milibizi,House,170000.0,3,2,4506,kariba,kariba
+903,Marlborough,House,320000.0,4,1,9500,harare,harare west
+904,Westgate,House,275000.0,4,2,1160,harare,harare west
+905,Greendale,Townhouse Complex,230000.0,3,2,400,harare,harare east
+906,Burnside,House,530000.0,3,2,5338,bulawayo,bulawayo east
+907,Eastlea,House,340000.0,4,3,1647,harare,harare east
+908,Mkoba,House,24000.0,2,1,400,gweru,gweru
+909,Burnside,House,225000.0,3,1,3792,bulawayo,bulawayo east
+910,Marimba Park,House,100000.0,4,1,3173,harare,harare high density
+911,Glen Lorne,House,960000.0,9,8,30451,harare,harare north
+912,Kadoma,House,45000.0,3,2,1970,kadoma,kadoma
+913,Glen Lorne,House,275000.0,4,4,1800,harare,harare north
+914,Glen Lorne,House,360000.0,4,3,4000,harare,harare north
+915,Rainham,House,56000.0,3,1,235,harare,harare west
+916,Glen Lorne,House,390000.0,4,1,2333,harare,harare north
+917,Old Windsor,House,160000.0,4,3,2382,ruwa,ruwa
+918,Arlington,Townhouse Complex,150000.0,3,3,300,harare,harare south
+919,Chiredzi,House,80000.0,3,1,4293,chiredzi,chiredzi
+920,Charlotte Brooke,House,190000.0,4,2,2000,harare,harare north
+921,Zengeza,House,40000.0,3,1,300,chitungwiza,chitungwiza
+922,Highlands,House,240000.0,2,2,300,harare,harare north
+923,Prospect,House,100000.0,4,2,644,harare,harare south
+924,Hogerty Hill,House,350000.0,6,4,2044,harare,harare north
+925,Waterfalls,House,105000.0,3,1,1434,harare,harare south
+926,Charlotte Brooke,House,87000.0,5,3,1509,harare,harare north
+927,Matsheumhlope,House,499000.0,3,3,12342,bulawayo,bulawayo east
+928,Avondale,Townhouse Complex,165000.0,2,2,439,harare,harare north
+929,Zengeza,House,35000.0,3,1,200,chitungwiza,chitungwiza
+930,Glen Lorne,House,395000.0,3,2,4879,harare,harare north
+931,Gletwin Park,House,350000.0,6,1,1980,harare,harare north
+932,Quinnington,House,250000.0,4,2,850,harare,harare north
+933,Zimre Park,House,60000.0,3,2,1250,harare,harare east
+934,Nyanga,House,95000.0,5,1,1250,nyanga,nyanga
+935,Ardbennie,House,75000.0,4,2,350,harare,harare south
+936,Greendale,Townhouse Complex,130000.0,3,1,300,harare,harare east
+937,New Marlborough,House,120000.0,3,2,900,harare,harare west
+938,Glen View,House,40000.0,4,1,200,harare,harare high density
+939,Warren Park,House,45000.0,4,2,300,harare,harare high density
+940,Chitungwiza,House,26000.0,4,2,300,chitungwiza,chitungwiza
+941,Suburbs,House,265000.0,4,2,5948,bulawayo,bulawayo east
+942,Southview Park,House,65000.0,4,2,240,harare,harare south
+943,Mount Pleasant,House,350000.0,4,2,2218,harare,harare north
+944,Hume Park,House,125000.0,3,1,747,bulawayo,bulawayo east
+945,Glengarry,House,185000.0,5,3,8093,bulawayo,bulawayo north
+946,Budiriro,House,50000.0,6,2,300,harare,harare high density
+947,Kariba,House,495000.0,3,3,16187,kariba,kariba
+948,Emerald Hill,House,350000.0,5,3,1740,harare,harare west
+949,Glaudina,House,90000.0,5,1,600,harare,harare west
+950,Mazowe,House,50000.0,4,2,375,mazowe,mazowe
+951,Glen View,House,35000.0,4,1,300,harare,harare high density
+952,Norton,House,80000.0,5,1,1600,norton,norton
+953,Kuwadzana,House,25000.0,3,1,200,harare,harare high density
+954,Kumalo,House,155000.0,3,2,2677,bulawayo,bulawayo east
+955,Avondale,Townhouse Complex,400000.0,3,2,250,harare,harare north
+956,Mainway Meadows,House,75000.0,4,2,500,harare,harare south
+957,Ashdown Park,House,140000.0,3,2,617,harare,harare west
+958,Bluff Hill,House,176000.0,5,2,2100,harare,harare west
+959,Westgate,House,125000.0,2,1,1364,harare,harare west
+960,Whitecliff,House,50000.0,3,1,264,harare,harare west
+961,Hatfield,House,250000.0,3,1,8894,harare,harare south
+962,Borrowdale,House,1250000.0,4,2,22000,harare,harare north
+963,Chisipite,House,450000.0,4,1,4108,harare,harare north
+964,Helensvale,House,1500000.0,6,4,4051,harare,harare north
+965,Mabvazuva,House,90000.0,4,2,400,ruwa,ruwa
+966,Mount Pleasant,House,380000.0,7,1,3800,harare,harare north
+967,Tynwald,House,90000.0,3,1,380,harare,harare west
+968,Suburbs,House,180000.0,3,2,1579,bulawayo,bulawayo east
+969,Mabvazuva,House,125000.0,4,2,400,ruwa,ruwa
+970,Mainway Meadows,House,90000.0,4,1,600,harare,harare south
+971,Selous,House,30000.0,4,2,800,selous,selous
+972,Twinlakes,House,115000.0,4,2,3800,norton,norton
+973,Arlington,House,200000.0,5,1,2030,harare,harare south
+974,Emganwini,House,30000.0,2,1,200,bulawayo,bulawayo high density
+975,Bluff Hill,Townhouse Complex,150000.0,4,2,817,harare,harare west
+976,Marlborough,House,350000.0,4,2,6000,harare,harare west
+977,Eastlea,House,300000.0,3,1,2400,harare,harare east
+978,Norton,House,32000.0,4,3,300,norton,norton
+979,Greendale,Townhouse Complex,320000.0,4,3,450,harare,harare east
+980,New Marlborough,House,120000.0,3,2,504,harare,harare west
+981,Killarney,House,115000.0,3,2,4047,bulawayo,bulawayo east
+982,Glen View,House,45000.0,2,1,608,harare,harare high density
+983,Glen View,House,40000.0,4,1,200,harare,harare high density
+984,Parklands,House,75000.0,4,2,1250,bulawayo,bulawayo east
+985,Kuwadzana,House,25000.0,2,1,230,harare,harare high density
+986,Greendale,House,270000.0,4,3,500,harare,harare east
+987,Manresa,House,175000.0,6,4,909,harare,harare east
+988,Fern valley,House,200000.0,4,3,8485,mutare,mutare
+989,Rolf Valley,House,1350000.0,6,4,8093,harare,harare north
+990,Chitungwiza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+991,Ashdown Park,House,55000.0,6,4,530,harare,harare west
+992,Kadoma,House,38000.0,3,1,200,kadoma,kadoma
+993,Glen Lorne,House,800000.0,6,4,4300,harare,harare north
+994,Mandara,House,310000.0,4,2,4044,harare,harare east
+995,Marlborough,House,200000.0,4,2,4012,harare,harare west
+996,Aspindale Park,House,68000.0,3,2,200,harare,harare west
+997,Highlands,House,420000.0,2,1,4886,harare,harare north
+998,Hogerty Hill,House,465000.0,4,3,8093,harare,harare north
+999,Greystone Park,House,550000.0,5,3,5425,harare,harare north
+1000,Chisipite,House,1200000.0,5,4,8090,harare,harare north
+1001,Sandton Park,House,120000.0,4,2,1000,harare,harare west
+1002,Madokero,House,100000.0,4,1,420,harare,harare west
+1003,Marlborough,House,220000.0,3,2,4400,harare,harare west
+1004,Kuwadzana,House,35000.0,5,1,300,harare,harare high density
+1005,Philadelphia,House,720000.0,6,8,5600,harare,harare north
+1006,Zimre Park,House,80000.0,3,2,635,harare,harare east
+1007,Goodhope,House,85000.0,1,2,2013,harare,harare west
+1008,Penhalonga,House,165000.0,3,2,7880,mutare,mutare
+1009,Budiriro,House,27000.0,1,1,300,harare,harare high density
+1010,Eastlea,House,215000.0,3,1,1321,harare,harare east
+1011,Hwange,House,45000.0,3,2,200,hwange,hwange
+1012,Avondale West,House,185000.0,4,1,800,harare,harare west
+1013,Suburbs,House,890000.0,6,5,16187,bulawayo,bulawayo east
+1014,Belgravia,House,450000.0,4,2,3500,harare,harare north
+1015,Bluff Hill,House,84000.0,3,1,858,harare,harare west
+1016,Hillside,House,150000.0,3,2,6066,bulawayo,bulawayo south
+1017,Burnside,House,250000.0,4,2,6168,bulawayo,bulawayo east
+1018,Marlborough,House,750000.0,9,1,8535,harare,harare west
+1019,Marlborough,House,750000.0,9,1,8535,harare,harare west
+1020,Marlborough,Townhouse Complex,120000.0,3,2,150,harare,harare west
+1021,Hogerty Hill,Townhouse Complex,250000.0,3,2,1000,harare,harare north
+1022,Glen Forest,House,550000.0,4,2,68340,harare,harare north
+1023,Beatrice,House,20000.0,3,1,240,beatrice,beatrice
+1024,Ruwa,House,115000.0,3,1,420,ruwa,ruwa
+1025,Zimre Park,House,90000.0,3,2,485,harare,harare east
+1026,Hillside,House,85000.0,3,1,3966,bulawayo,bulawayo south
+1027,Tynwald,House,130000.0,4,3,613,harare,harare west
+1028,Colne Valley,House,850000.0,5,6,4047,harare,harare north
+1029,Bulawayo City Centre,Townhouse Complex,190000.0,3,2,550,bulawayo,bulawayo cbd industrial
+1030,Hwange,House,60000.0,3,1,2400,hwange,hwange
+1031,Glen Lorne,House,1000000.0,6,3,6100,harare,harare north
+1032,Seke,House,75000.0,6,1,2500,seke,seke
+1033,Gumtree,House,350000.0,7,7,89030,bulawayo,bulawayo east
+1034,Mt Pleasant Heights,House,315000.0,5,3,2000,harare,harare west
+1035,Arlington,House,160000.0,3,1,360,harare,harare south
+1036,Budiriro,House,50000.0,5,2,250,harare,harare high density
+1037,Douglasdale,House,195000.0,1,2,32495,bulawayo,bulawayo east
+1038,Gweru CBD,House,120000.0,4,3,1250,gweru,gweru
+1039,Norton,House,38000.0,2,1,1500,norton,norton
+1040,Richmond,House,58000.0,4,1,8129,bulawayo,bulawayo north
+1041,Highlands,House,420000.0,4,2,3965,harare,harare north
+1042,Borrowdale,House,785000.0,8,8,4000,harare,harare north
+1043,Zengeza,House,39000.0,4,1,300,chitungwiza,chitungwiza
+1044,Eastlea,House,600000.0,1,1,1900,harare,harare east
+1045,Chisipite,House,565000.0,4,3,4040,harare,harare north
+1046,Tynwald,House,60000.0,3,1,640,harare,harare west
+1047,Barham Green,House,55000.0,2,1,774,bulawayo,bulawayo south
+1048,Westgate,House,140000.0,4,2,1500,harare,harare west
+1049,Arlington,House,165000.0,3,3,350,harare,harare south
+1050,Hatfield,House,150000.0,3,1,4059,harare,harare south
+1051,Borrowdale,House,420000.0,4,1,4000,harare,harare north
+1052,Colne Valley,House,650000.0,4,3,4856,harare,harare north
+1053,Emerald Hill,House,1000000.0,4,2,15717,harare,harare west
+1054,Mt Pleasant Heights,House,350000.0,4,1,1360,harare,harare west
+1055,Crowhill Views,House,100000.0,4,1,450,harare,harare north
+1056,Eastvale,House,90000.0,3,2,1468,masvingo,masvingo
+1057,Kariba,House,115000.0,5,2,1415,kariba,kariba
+1058,Madokero,House,110000.0,3,2,370,harare,harare west
+1059,Waterfalls,House,130000.0,3,2,1000,harare,harare south
+1060,Glen View,House,35000.0,3,2,300,harare,harare high density
+1061,Burnside,House,147000.0,3,2,4046,bulawayo,bulawayo east
+1062,Ruwa,House,48000.0,3,2,336,ruwa,ruwa
+1063,Ruwa,House,90000.0,3,1,500,ruwa,ruwa
+1064,Mt Pleasant Heights,House,375000.0,5,1,2300,harare,harare west
+1065,Helensvale,House,490000.0,3,4,4046,harare,harare north
+1066,Chitungwiza,House,27000.0,4,1,300,chitungwiza,chitungwiza
+1067,Avondale West,Townhouse Complex,200000.0,3,2,400,harare,harare west
+1068,Riverside North,House,138000.0,2,1,10000,bulawayo,bulawayo east
+1069,New Marlborough,House,115000.0,3,2,607,harare,harare west
+1070,Manyame Park,House,18000.0,6,2,200,chitungwiza,chitungwiza
+1071,Nyanga,House,950000.0,3,2,53600,nyanga,nyanga
+1072,Hatfield,House,75000.0,6,3,1600,harare,harare south
+1073,Pomona,Townhouse Complex,375000.0,3,3,578,harare,harare north
+1074,Queensdale,House,135000.0,3,2,887,harare,harare south
+1075,Avondale,House,800000.0,4,2,3650,harare,harare north
+1076,Hogerty Hill,House,500000.0,5,1,2500,harare,harare north
+1077,Helensvale,Townhouse Complex,299995.0,3,1,2000,harare,harare north
+1078,Norton,House,24000.0,2,1,240,norton,norton
+1079,Hogerty Hill,House,230000.0,4,2,500,harare,harare north
+1080,Gunhill,House,700000.0,4,1,3103,harare,harare north
+1081,Braeside,House,120000.0,3,1,890,harare,harare south
+1082,Carrick Creagh,House,150000.0,6,7,1500,harare,harare north
+1083,Tynwald,House,90000.0,3,1,353,harare,harare west
+1084,Rydale Ridge Park,House,70000.0,5,3,300,harare,harare west
+1085,Lake Chivero,House,250000.0,2,2,2000,lake,lake chivero
+1086,Hogerty Hill,Townhouse Complex,320000.0,3,2,720,harare,harare north
+1087,Lochview,House,250000.0,6,4,8035,bulawayo,bulawayo east
+1088,Highlands,House,450000.0,4,2,4000,harare,harare north
+1089,Christon Bank,House,570000.0,4,2,20234,christon,christon bank
+1090,Zimre Park,House,85000.0,3,1,700,harare,harare east
+1091,Victoria Falls,House,270000.0,5,6,657,victoria,victoria falls
+1092,Westgate,House,125000.0,3,2,980,harare,harare west
+1093,Westgate,House,190000.0,4,1,553,harare,harare west
+1094,Hogerty Hill,House,330000.0,3,2,700,harare,harare north
+1095,Colne Valley,House,600000.0,4,2,4047,harare,harare north
+1096,Rusape,House,15500.0,3,1,180,rusape,rusape
+1097,Victoria Falls,House,180000.0,2,2,540,victoria,victoria falls
+1098,Mount Pleasant Heights,House,250000.0,4,3,2000,harare,harare north
+1099,Victoria Falls,Townhouse Complex,695000.0,3,2,1000,victoria,victoria falls
+1100,Avenues,Townhouse Complex,230000.0,3,1,300,harare,harare cbd
+1101,Rydale Ridge Park,House,78000.0,4,2,437,harare,harare west
+1102,Southlea Park,House,65000.0,2,1,2500,harare,harare south
+1103,Mount Pleasant Heights,House,320000.0,6,3,2000,harare,harare north
+1104,Marondera,House,120000.0,4,2,2400,marondera,marondera
+1105,Rolf Valley,House,550000.0,6,5,6407,harare,harare north
+1106,Greendale,House,545000.0,2,1,13134,harare,harare east
+1107,Mainway Meadows,House,90000.0,4,1,600,harare,harare south
+1108,Madokero,House,150000.0,4,2,200,harare,harare west
+1109,Tynwald,House,45000.0,5,1,400,harare,harare west
+1110,Helensvale,House,1200000.0,4,3,27113,harare,harare north
+1111,Mabelreign,House,115000.0,3,1,1000,harare,harare west
+1112,New Marlborough,House,145000.0,4,2,500,harare,harare west
+1113,Crowhill Views,House,47000.0,2,1,1000,harare,harare north
+1114,Glen View,House,35000.0,5,2,279,harare,harare high density
+1115,Beitbridge,House,220000.0,4,2,2508,beitbridge,beitbridge
+1116,Chitungwiza,House,33000.0,3,2,212,chitungwiza,chitungwiza
+1117,Borrowdale Brooke,House,2300000.0,4,4,3605,harare,harare north
+1118,Nkulumane,House,26000.0,3,1,200,bulawayo,bulawayo high density
+1119,Suburbs,House,185000.0,3,3,1487,bulawayo,bulawayo east
+1120,Waterfalls,House,75000.0,4,1,1000,harare,harare south
+1121,Matsheumhlope,House,200000.0,3,2,5760,bulawayo,bulawayo east
+1122,Entumbane,House,17000.0,2,1,200,bulawayo,bulawayo north
+1123,Luveve,House,21000.0,2,1,250,bulawayo,bulawayo high density
+1124,Mandara,House,320000.0,4,2,4046,harare,harare east
+1125,Budiriro,House,45000.0,4,1,320,harare,harare high density
+1126,Mainway Meadows,House,90000.0,4,1,600,harare,harare south
+1127,Lochinvar,Cottage,45000.0,1,1,540,harare,harare south
+1128,Damofalls,House,50000.0,4,2,338,damofalls,damofalls
+1129,New Marlborough,House,115000.0,4,2,500,harare,harare west
+1130,Borrowdale,House,525000.0,4,1,4088,harare,harare north
+1131,Greencroft,House,300000.0,5,4,1000,harare,harare west
+1132,Tynwald,House,100000.0,3,2,455,harare,harare west
+1133,Charlotte Brooke,House,150000.0,5,3,1000,harare,harare north
+1134,Gletwin Park,House,298000.0,5,3,3500,harare,harare north
+1135,Meyrick Park,House,80000.0,3,2,250,harare,harare west
+1136,Greystone Park,House,350000.0,4,3,4046,harare,harare north
+1137,Pumula,House,24000.0,3,1,200,bulawayo,bulawayo high density
+1138,Gletwin Park,House,440000.0,5,4,2000,harare,harare north
+1139,Alexandra Park,House,450000.0,4,2,4307,harare,harare north
+1140,Hogerty Hill,Townhouse Complex,280000.0,3,2,300,harare,harare north
+1141,Marondera,House,89000.0,4,3,1300,marondera,marondera
+1142,Milton Park,House,400000.0,3,1,2635,harare,harare west
+1143,Mt Pleasant Heights,House,400000.0,7,6,2000,harare,harare west
+1144,Philadelphia,House,920000.0,6,1,7820,harare,harare north
+1145,Sunningdale,House,150000.0,4,2,608,harare,harare high density
+1146,Chicago,House,260000.0,3,2,4500,kwekwe,kwekwe
+1147,Damofalls,House,40000.0,4,2,200,damofalls,damofalls
+1148,Glen View,House,50000.0,3,2,300,harare,harare high density
+1149,Glen Lorne,House,460000.0,4,3,9895,harare,harare north
+1150,Manresa,House,175000.0,6,1,2010,harare,harare east
+1151,Norton,House,40000.0,4,1,400,norton,norton
+1152,Beatrice,House,60000.0,2,1,1200,beatrice,beatrice
+1153,Zimre Park,House,95000.0,3,2,630,harare,harare east
+1154,Prospect,House,110000.0,4,2,1224,harare,harare south
+1155,Borrowdale,House,785000.0,8,8,4046,harare,harare north
+1156,Helensvale,House,450000.0,3,3,4000,harare,harare north
+1157,Hatfield,House,140000.0,4,3,600,harare,harare south
+1158,Famona,House,135000.0,4,2,490,bulawayo,bulawayo south
+1159,Waterfalls,House,105000.0,4,2,623,harare,harare south
+1160,Highlands,House,680000.0,5,6,4076,harare,harare north
+1161,Marimba Park,Townhouse Complex,55000.0,3,1,1000,harare,harare high density
+1162,Zimre Park,House,58000.0,3,2,500,harare,harare east
+1163,Matsheumhlope,House,265000.0,4,2,4000,bulawayo,bulawayo east
+1164,Granary Park,House,32000.0,3,2,300,harare,harare high density
+1165,Marimba Park,Cottage,56000.0,3,1,950,harare,harare high density
+1166,Kadoma,Townhouse Complex,75000.0,3,1,4400,kadoma,kadoma
+1167,Binga,House,99500.0,3,2,10000,binga,binga
+1168,Crowhill Views,House,250000.0,4,1,1000,harare,harare north
+1169,Emerald Hill,House,420000.0,4,3,5707,harare,harare west
+1170,Greendale,Townhouse Complex,230000.0,3,2,4000,harare,harare east
+1171,Suburbs,House,125000.0,3,1,1200,bulawayo,bulawayo east
+1172,Epworth,House,18000.0,3,1,200,harare,harare high density
+1173,Chitungwiza,House,27000.0,4,1,180,chitungwiza,chitungwiza
+1174,Ruwa,House,58000.0,2,1,2100,ruwa,ruwa
+1175,Nyanga,House,50000.0,3,1,1800,nyanga,nyanga
+1176,Mount Pleasant Heights,House,310000.0,5,2,2000,harare,harare north
+1177,Emerald Hill,House,320000.0,3,2,2004,harare,harare west
+1178,Fortunes Gate,House,135000.0,2,1,5350,bulawayo,bulawayo east
+1179,Helensvale,Townhouse Complex,450000.0,4,3,2000,harare,harare north
+1180,Chitungwiza,House,25000.0,4,1,200,chitungwiza,chitungwiza
+1181,KweKwe,House,55000.0,4,1,1000,kwekwe,kwekwe
+1182,Highlands,House,500000.0,3,1,5445,harare,harare north
+1183,Emakhandeni,House,32000.0,4,1,339,bulawayo,bulawayo high density
+1184,Zimre Park,House,115000.0,4,2,1225,harare,harare east
+1185,Lochview,House,245000.0,3,2,8075,bulawayo,bulawayo east
+1186,Zengeza,House,43000.0,4,1,400,chitungwiza,chitungwiza
+1187,Kariba,House,200000.0,4,3,1641,kariba,kariba
+1188,Chinhoyi,House,240000.0,7,2,4800,chinhoyi,chinhoyi
+1189,Victoria Falls,House,530000.0,4,2,3278,victoria,victoria falls
+1190,Waterfalls,House,260000.0,5,2,4090,harare,harare south
+1191,Avondale,House,800000.0,4,2,3650,harare,harare north
+1192,Chinhoyi,House,160000.0,3,3,2380,chinhoyi,chinhoyi
+1193,Chitungwiza,House,130000.0,6,3,30000,chitungwiza,chitungwiza
+1194,Chisipite,House,475000.0,3,2,4070,harare,harare north
+1195,Granary Park,House,35000.0,5,2,300,harare,harare high density
+1196,Kuwadzana,House,55000.0,4,2,300,harare,harare high density
+1197,Greystone Park,Townhouse Complex,379000.0,4,1,600,harare,harare north
+1198,Mabvazuva,House,100000.0,3,1,400,ruwa,ruwa
+1199,Mount Pleasant,House,480000.0,4,1,5684,harare,harare north
+1200,Crowhill Views,House,100000.0,4,2,1000,harare,harare north
+1201,Westgate,House,132000.0,3,1,1000,harare,harare west
+1202,Mount Pleasant Heights,House,260000.0,4,2,1316,harare,harare north
+1203,Amby,Townhouse Complex,120000.0,3,2,1800,harare,harare east
+1204,Southview Park,House,65000.0,4,2,250,harare,harare south
+1205,New Luveve,House,34000.0,3,1,537,bulawayo,bulawayo high density
+1206,Sentosa,House,150000.0,3,1,1580,harare,harare west
+1207,Rydale Ridge,House,120000.0,6,3,2499,harare,harare high density
+1208,Woodlands,House,160000.0,4,1,2585,bulawayo,bulawayo east
+1209,Hillside,House,155000.0,3,1,4957,bulawayo,bulawayo south
+1210,Newton West,House,115000.0,3,1,8093,bulawayo,bulawayo south
+1211,Fairview,House,100000.0,5,5,1170,harare,harare west
+1212,Sandton Park,House,68000.0,4,2,1200,harare,harare west
+1213,Epworth,House,19000.0,5,1,500,harare,harare high density
+1214,Highlands,Townhouse Complex,240000.0,2,2,300,harare,harare north
+1215,Greendale,House,390000.0,4,2,4331,harare,harare east
+1216,Waterfalls,House,115000.0,4,2,1439,harare,harare south
+1217,Chadcombe,House,195000.0,4,2,4957,harare,harare south
+1218,Glaudina,House,115000.0,4,1,1000,harare,harare west
+1219,Tynwald,House,50000.0,3,1,430,harare,harare west
+1220,Darlington,House,195000.0,5,3,1000,mutare,mutare
+1221,Hatfield,House,100000.0,4,1,2100,harare,harare south
+1222,Glaudina,House,100000.0,4,2,1296,harare,harare west
+1223,Shawasha Hills,House,550000.0,5,5,2000,harare,harare north
+1224,Norton,House,85000.0,4,1,2100,norton,norton
+1225,Glen Lorne,House,450000.0,4,1,5132,harare,harare north
+1226,Damofalls,House,60000.0,4,2,512,damofalls,damofalls
+1227,Belvedere,House,250000.0,4,2,1300,harare,harare west
+1228,Norton,House,230000.0,5,1,13000,norton,norton
+1229,Sunway City,House,99000.0,3,2,2100,harare,harare east
+1230,Quinnington,House,480000.0,5,1,2100,harare,harare north
+1231,Greystone Park,House,450000.0,4,3,4000,harare,harare north
+1232,Queens Park West,House,115000.0,3,2,1072,bulawayo,bulawayo north
+1233,Windsor Park,House,80000.0,2,1,1321,ruwa,ruwa
+1234,Glen Lorne,House,650000.0,6,6,5000,harare,harare north
+1235,Murambi,House,900000.0,5,4,5467,mutare,mutare
+1236,Belvedere,House,240000.0,3,1,1800,harare,harare west
+1237,Maridale,House,22000.0,3,1,150,norton,norton
+1238,Rydale Ridge Park,House,85000.0,4,2,356,harare,harare west
+1239,Mainway Meadows,House,110000.0,3,2,580,harare,harare south
+1240,Hillside,Cottage,250000.0,4,1,500,harare,harare south
+1241,Zimre Park,House,75000.0,5,2,670,harare,harare east
+1242,Sandton Park,House,60000.0,4,3,1000,harare,harare west
+1243,Eastlea,House,320000.0,4,1,1500,harare,harare east
+1244,Nhowe,Cottage,65000.0,2,1,2140,norton,norton
+1245,Bloomingdale,House,110000.0,4,1,409,harare,harare west
+1246,Goodhope,House,230000.0,4,2,2000,harare,harare west
+1247,Gletwin Park,House,1200000.0,7,1,7169,harare,harare north
+1248,Tynwald,House,105000.0,4,1,420,harare,harare west
+1249,Murambi,House,480000.0,6,5,6939,mutare,mutare
+1250,Ruwa,House,65000.0,2,1,2000,ruwa,ruwa
+1251,Sandton Park,House,150000.0,3,1,1000,harare,harare west
+1252,Chitungwiza,House,26000.0,4,2,300,chitungwiza,chitungwiza
+1253,Aspindale Park,House,85000.0,3,2,230,harare,harare west
+1254,Hogerty Hill,House,500000.0,5,5,2800,harare,harare north
+1255,Waterfalls,House,170000.0,5,2,4049,harare,harare south
+1256,Madokero,House,70000.0,4,1,460,harare,harare west
+1257,Lewisam,House,750000.0,4,3,4000,harare,harare north
+1258,Vainona,House,445000.0,3,2,4350,harare,harare north
+1259,Ruwa,House,27000.0,3,2,300,ruwa,ruwa
+1260,Glen Forest,House,550000.0,4,3,70820,harare,harare north
+1261,Westgate,House,168000.0,3,2,1176,harare,harare west
+1262,Quinnington,House,160000.0,3,1,2000,harare,harare north
+1263,Bloomingdale,House,113000.0,4,2,500,harare,harare west
+1264,The Grange,House,350000.0,6,7,2550,harare,harare north
+1265,Entumbane,House,20000.0,2,1,200,bulawayo,bulawayo north
+1266,Suburbs,House,600000.0,4,3,6070,bulawayo,bulawayo east
+1267,Riverside,House,90000.0,4,2,1806,gweru,gweru
+1268,Chitungwiza,House,40000.0,4,2,400,chitungwiza,chitungwiza
+1269,Southlea Park,House,70000.0,6,6,2000,harare,harare south
+1270,Pomona,House,415000.0,5,1,4000,harare,harare north
+1271,Msasa Park,House,55000.0,2,1,400,harare,harare south
+1272,Highlands,House,680000.0,4,4,4074,harare,harare north
+1273,Borrowdale,House,330000.0,4,1,500,harare,harare north
+1274,Kadoma,House,145000.0,4,2,3800,kadoma,kadoma
+1275,Greystone Park,House,580000.0,6,1,7085,harare,harare north
+1276,Dzivarasekwa,House,33000.0,3,1,200,harare,harare high density
+1277,Riverside North,House,95000.0,3,1,3783,bulawayo,bulawayo east
+1278,Meyrick Park,House,220000.0,3,1,3700,harare,harare west
+1279,Dzivarasekwa,House,40000.0,4,2,300,harare,harare high density
+1280,Glen Lorne,House,490000.0,4,2,15337,harare,harare north
+1281,Chinhoyi,House,115000.0,3,2,2800,chinhoyi,chinhoyi
+1282,Glen Lorne,House,700000.0,7,4,4313,harare,harare north
+1283,Victoria Falls,Townhouse Complex,550000.0,4,4,2366,victoria,victoria falls
+1284,Southlea Park,House,30000.0,5,2,1750,harare,harare south
+1285,Glen View,House,55000.0,4,1,300,harare,harare high density
+1286,Karoi,House,95000.0,4,2,5000,karoi,karoi
+1287,Msasa Park,House,69000.0,3,2,414,harare,harare south
+1288,Msasa Park,Townhouse Complex,85000.0,3,1,500,harare,harare south
+1289,Suburbs,House,185000.0,3,2,751,bulawayo,bulawayo east
+1290,Avondale,House,395000.0,3,1,2818,harare,harare north
+1291,Borrowdale Brooke,House,600000.0,8,6,4000,harare,harare north
+1292,Kumalo,House,220000.0,4,4,2693,bulawayo,bulawayo east
+1293,Mabelreign,House,150000.0,3,2,617,harare,harare west
+1294,Mabvazuva,House,130000.0,4,3,400,ruwa,ruwa
+1295,Ashdown Park,House,110000.0,3,1,760,harare,harare west
+1296,Greystone Park,House,450000.0,4,1,4000,harare,harare north
+1297,Chitungwiza,House,30000.0,4,2,300,chitungwiza,chitungwiza
+1298,Mount Pleasant Heights,House,350000.0,5,1,1800,harare,harare north
+1299,Mandara,House,580000.0,6,4,4087,harare,harare east
+1300,Glen Forest,House,410000.0,5,1,40000,harare,harare north
+1301,Borrowdale,House,1050000.0,5,1,4316,harare,harare north
+1302,Whitecliff,House,35000.0,3,2,2000,harare,harare west
+1303,Chitungwiza,House,36000.0,3,1,200,chitungwiza,chitungwiza
+1304,Cranborne,House,120000.0,3,2,700,harare,harare south
+1305,Marondera,House,120000.0,2,1,2200,marondera,marondera
+1306,Waterfalls,House,150000.0,3,2,2000,harare,harare south
+1307,Vainona,House,540000.0,4,1,5461,harare,harare north
+1308,Mt Hampden,Townhouse Complex,880000.0,3,6,803,harare,harare west
+1309,Hogerty Hill,House,1250000.0,5,1,42898,harare,harare north
+1310,Greendale,House,300000.0,4,2,4000,harare,harare east
+1311,Arlington,House,150000.0,4,2,200,harare,harare south
+1312,Burnside,House,140000.0,4,2,4047,bulawayo,bulawayo east
+1313,Juliasdale,House,200000.0,3,3,45980,juliasdale,juliasdale
+1314,Waterfalls,House,260000.0,5,2,4600,harare,harare south
+1315,Mabvazuva,House,95000.0,4,2,420,ruwa,ruwa
+1316,Marlborough,House,790000.0,5,6,8244,harare,harare west
+1317,Marlborough,House,360000.0,4,1,5600,harare,harare west
+1318,Zengeza,House,33000.0,6,2,312,chitungwiza,chitungwiza
+1319,Gletwin Park,House,400000.0,6,1,2300,harare,harare north
+1320,Newlands,Townhouse Complex,350000.0,3,2,1000,harare,harare north
+1321,Selbourne Park,Townhouse Complex,80000.0,4,2,740,bulawayo,bulawayo east
+1322,Windsor Park,House,85000.0,4,1,1200,ruwa,ruwa
+1323,The Grange,House,300000.0,6,6,4000,harare,harare north
+1324,Matsheumhlope,House,150000.0,4,3,9000,bulawayo,bulawayo east
+1325,Rydale Ridge Park,House,135000.0,5,2,2400,harare,harare west
+1326,Charlotte Brooke,House,55000.0,5,1,1000,harare,harare north
+1327,Kuwadzana,House,58000.0,3,1,300,harare,harare high density
+1328,Chitungwiza,Cottage,20000.0,1,1,400,chitungwiza,chitungwiza
+1329,Borrowdale,House,1725000.0,4,2,48000,harare,harare north
+1330,Ruwa,House,87000.0,3,2,449,ruwa,ruwa
+1331,Borrowdale Brooke,House,2300000.0,4,4,3605,harare,harare north
+1332,Bindura,House,35000.0,3,2,310,bindura,bindura
+1333,Arlington,House,155000.0,4,2,600,harare,harare south
+1334,Philadelphia,House,850000.0,5,3,15000,harare,harare north
+1335,Glen Norah,House,25000.0,3,1,135,harare,harare high density
+1336,Shawasha Hills,House,110000.0,4,1,2000,harare,harare north
+1337,Four Winds,House,110000.0,3,1,4047,bulawayo,bulawayo south
+1338,Damofalls,House,55000.0,3,1,400,damofalls,damofalls
+1339,Waterfalls,House,115000.0,4,2,2000,harare,harare south
+1340,Ilanda,House,140000.0,3,2,1669,bulawayo,bulawayo east
+1341,Mabelreign,House,150000.0,3,1,1798,harare,harare west
+1342,Chitungwiza,House,25000.0,3,1,250,chitungwiza,chitungwiza
+1343,Borrowdale,Townhouse Complex,180000.0,4,3,500,harare,harare north
+1344,Bellevue,House,75000.0,3,1,5948,bulawayo,bulawayo south
+1345,Dangamvura,House,28000.0,4,1,300,mutare,mutare
+1346,Ruwa,House,50000.0,6,2,600,ruwa,ruwa
+1347,Philadelphia,House,150000.0,3,2,4000,harare,harare north
+1348,Helensvale,House,550000.0,2,2,17800,harare,harare north
+1349,Shawasha Hills,House,400000.0,3,1,11000,harare,harare north
+1350,Beitbridge,House,55000.0,2,1,450,beitbridge,beitbridge
+1351,Glen View,House,40000.0,4,1,200,harare,harare high density
+1352,Fairview,House,160000.0,5,2,1000,harare,harare west
+1353,Waterfalls,House,90000.0,4,1,495,harare,harare south
+1354,Glen Lorne,House,375000.0,5,3,4350,harare,harare north
+1355,Dawnview Park,House,56000.0,4,2,400,harare,harare west
+1356,Athlone,House,250000.0,3,1,3600,harare,harare east
+1357,Dawnview Park,House,82000.0,4,2,362,harare,harare west
+1358,Marondera,House,85000.0,4,1,2495,marondera,marondera
+1359,Budiriro,House,26000.0,2,1,342,harare,harare high density
+1360,Chitungwiza,House,35000.0,3,2,300,chitungwiza,chitungwiza
+1361,Manresa,House,270000.0,5,6,2010,harare,harare east
+1362,Kuwadzana,House,38000.0,4,1,200,harare,harare high density
+1363,Prospect,Townhouse Complex,720000.0,3,2,800,harare,harare south
+1364,Zimre Park,House,95000.0,5,3,1818,harare,harare east
+1365,Kuwadzana,House,26000.0,4,2,220,harare,harare high density
+1366,Zimre Park,House,130000.0,4,2,1200,harare,harare east
+1367,Milton Park,House,450000.0,8,1,2379,harare,harare west
+1368,Glen Lorne,House,650000.0,5,5,10959,harare,harare north
+1369,Mkoba,House,70000.0,3,1,1207,gweru,gweru
+1370,Philadelphia,House,520000.0,5,2,20235,harare,harare north
+1371,Chitungwiza,House,70000.0,4,2,1090,chitungwiza,chitungwiza
+1372,Highfield,House,25000.0,2,1,300,harare,harare high density
+1373,Mufakose,House,27500.0,2,1,220,harare,harare high density
+1374,Westgate,House,140000.0,4,2,948,harare,harare west
+1375,Borrowdale Brooke,House,550000.0,3,2,1200,harare,harare north
+1376,Borrowdale Brooke,House,650000.0,4,3,1300,harare,harare north
+1377,Zengeza,Townhouse Complex,25000.0,2,1,200,chitungwiza,chitungwiza
+1378,Greystone Park,House,520000.0,3,2,4003,harare,harare north
+1379,Cranborne,House,125000.0,3,1,751,harare,harare south
+1380,Strathaven,Townhouse Complex,160000.0,3,1,120,harare,harare west
+1381,Mabvazuva,House,80000.0,4,2,450,ruwa,ruwa
+1382,Westgate,House,150000.0,3,2,1000,harare,harare west
+1383,Mabvazuva,House,70000.0,4,2,450,ruwa,ruwa
+1384,Westgate,House,145000.0,5,3,800,harare,harare west
+1385,Cranborne,House,98000.0,4,2,740,harare,harare south
+1386,Westlea,House,120000.0,3,2,1000,harare,harare west
+1387,Mount Pleasant,House,300000.0,4,2,2640,harare,harare north
+1388,Marlborough,House,260000.0,3,1,4973,harare,harare west
+1389,Glen Norah,House,28000.0,2,1,200,harare,harare high density
+1390,Glen View,House,70000.0,4,2,570,harare,harare high density
+1391,Tynwald,House,70000.0,3,1,400,harare,harare west
+1392,Hatfield,House,200000.0,7,3,3617,harare,harare south
+1393,Borrowdale,House,600000.0,3,2,5800,harare,harare north
+1394,Dawnview Park,House,86000.0,4,2,362,harare,harare west
+1395,Ashdown Park,House,95000.0,3,2,350,harare,harare west
+1396,Hogerty Hill,House,1900000.0,5,1,19000,harare,harare north
+1397,Helensvale,House,1500000.0,6,2,4046,harare,harare north
+1398,Norton,House,50000.0,5,2,716,norton,norton
+1399,St. Marys,House,35000.0,4,2,240,chitungwiza,chitungwiza
+1400,Budiriro,House,41000.0,5,2,350,harare,harare high density
+1401,Glaudina,House,30000.0,4,2,300,harare,harare west
+1402,Budiriro,House,50000.0,6,3,450,harare,harare high density
+1403,Mt Pleasant Heights,House,350000.0,6,5,1819,harare,harare west
+1404,Dawnview Park,House,85000.0,4,3,367,harare,harare west
+1405,Shawasha Hills,House,1050000.0,4,3,14200,harare,harare north
+1406,Waterfalls,House,40000.0,3,1,600,harare,harare south
+1407,Warren Park,House,35000.0,4,1,300,harare,harare high density
+1408,Ruwa,House,50000.0,3,2,300,ruwa,ruwa
+1409,Ballantyne Park,House,460000.0,5,4,4090,harare,harare north
+1410,Damofalls,House,48000.0,4,2,300,damofalls,damofalls
+1411,Damofalls,House,48000.0,4,2,300,damofalls,damofalls
+1412,Borrowdale,House,700000.0,6,9,4675,harare,harare north
+1413,Gletwin Park,House,280000.0,4,1,2000,harare,harare north
+1414,Arlington,House,295000.0,5,5,500,harare,harare south
+1415,Glen View,House,40000.0,4,1,300,harare,harare high density
+1416,Mount Pleasant Heights,House,400000.0,7,4,2000,harare,harare north
+1417,Mount Pleasant Heights,House,400000.0,7,4,2000,harare,harare north
+1418,Sandton Park,House,95000.0,4,3,1000,harare,harare west
+1419,Glen View,House,40000.0,4,1,200,harare,harare high density
+1420,Tafara,House,35000.0,4,1,300,harare,harare high density
+1421,Bluff Hill,Townhouse Complex,125000.0,3,1,200,harare,harare west
+1422,Borrowdale,Townhouse Complex,360000.0,5,6,1837,harare,harare north
+1423,Damofalls,House,70000.0,4,1,300,damofalls,damofalls
+1424,Mount Pleasant,House,350000.0,2,1,180,harare,harare north
+1425,Rolf Valley,House,1500000.0,5,4,9307,harare,harare north
+1426,Kumalo,House,130000.0,2,1,1697,bulawayo,bulawayo east
+1427,Waterfalls,House,110000.0,4,3,3900,harare,harare south
+1428,Hatfield,House,200000.0,5,5,3617,harare,harare south
+1429,Tynwald,House,85000.0,4,2,413,harare,harare west
+1430,Cowdray Park,House,28500.0,4,1,250,bulawayo,bulawayo high density
+1431,Zengeza,House,20000.0,3,1,200,chitungwiza,chitungwiza
+1432,Rolf Valley,House,680000.0,5,5,2000,harare,harare north
+1433,Alexandra Park,House,500000.0,3,2,3177,harare,harare north
+1434,New Marlborough,House,180000.0,9,5,2000,harare,harare west
+1435,Mount Pleasant Heights,House,240000.0,4,4,2000,harare,harare north
+1436,Quinnington,House,250000.0,4,3,1000,harare,harare north
+1437,Chinhoyi,House,29000.0,6,3,300,chinhoyi,chinhoyi
+1438,Tynwald,House,100000.0,4,2,420,harare,harare west
+1439,Arlington,House,130000.0,3,2,380,harare,harare south
+1440,Gletwin Park,House,300000.0,5,3,2215,harare,harare north
+1441,Borrowdale,House,250000.0,4,3,500,harare,harare north
+1442,Budiriro,House,29000.0,2,1,298,harare,harare high density
+1443,Glaudina,House,98000.0,3,2,700,harare,harare west
+1444,Madokero,House,90000.0,4,4,480,harare,harare west
+1445,Waterfalls,Cottage,75000.0,3,1,2000,harare,harare south
+1446,Cranborne,House,109000.0,3,1,714,harare,harare south
+1447,Mainway Meadows,House,90000.0,5,1,470,harare,harare south
+1448,Mainway Meadows,House,80000.0,5,1,470,harare,harare south
+1449,Chitungwiza,House,25000.0,4,1,200,chitungwiza,chitungwiza
+1450,Highfield,House,30000.0,6,1,230,harare,harare high density
+1451,Mabvazuva,House,125000.0,4,1,400,ruwa,ruwa
+1452,Dzivarasekwa,House,28000.0,2,2,210,harare,harare high density
+1453,Marlborough,Townhouse Complex,220000.0,3,1,500,harare,harare west
+1454,Kambuzuma,House,45000.0,4,2,250,harare,harare high density
+1455,Macheke,House,35000.0,5,1,325,macheke,macheke
+1456,Kuwadzana,House,35000.0,4,1,300,harare,harare high density
+1457,Glen Norah,House,27000.0,3,1,300,harare,harare high density
+1458,Chitungwiza,House,42000.0,4,1,300,chitungwiza,chitungwiza
+1459,Zengeza,House,20000.0,4,2,429,chitungwiza,chitungwiza
+1460,Zimre Park,House,80000.0,4,3,709,harare,harare east
+1461,Zimre Park,House,85000.0,3,2,800,harare,harare east
+1462,Marlborough,House,350000.0,4,2,4000,harare,harare west
+1463,Sunningdale,House,95000.0,4,1,400,harare,harare high density
+1464,Bradfield,House,72000.0,3,1,511,bulawayo,bulawayo south
+1465,Waterfalls,House,78000.0,4,3,325,harare,harare south
+1466,Borrowdale,House,400000.0,5,6,2911,harare,harare north
+1467,Mainway Meadows,House,110000.0,3,1,570,harare,harare south
+1468,Aspindale Park,House,90000.0,4,1,200,harare,harare west
+1469,Kuwadzana,House,30000.0,3,1,150,harare,harare high density
+1470,Madokero,House,150000.0,4,2,365,harare,harare west
+1471,Pumula,House,17000.0,2,1,200,bulawayo,bulawayo high density
+1472,Msasa Park,House,80000.0,3,1,800,harare,harare south
+1473,Madokero,House,125000.0,4,2,400,harare,harare west
+1474,Suburbs,House,120000.0,2,1,2974,bulawayo,bulawayo east
+1475,Marlborough,Townhouse Complex,220000.0,3,4,700,harare,harare west
+1476,Bluff Hill,House,200000.0,4,2,4050,harare,harare west
+1477,Kariba,House,350000.0,5,5,3426,kariba,kariba
+1478,Madokero,House,80000.0,4,1,480,harare,harare west
+1479,Waterfalls,House,250000.0,3,1,7200,harare,harare south
+1480,Budiriro,House,40000.0,4,2,300,harare,harare high density
+1481,Tynwald,House,125000.0,4,2,400,harare,harare west
+1482,Kuwadzana,House,55000.0,4,1,300,harare,harare high density
+1483,Marlborough,House,220000.0,3,2,4216,harare,harare west
+1484,Madokero,House,115000.0,3,2,380,harare,harare west
+1485,Belvedere,House,200000.0,4,1,1400,harare,harare west
+1486,Chitungwiza,House,37000.0,4,2,400,chitungwiza,chitungwiza
+1487,Borrowdale,House,550000.0,4,3,4000,harare,harare north
+1488,Haig Park,House,170000.0,5,1,993,harare,harare west
+1489,Mkoba,House,22000.0,2,1,300,gweru,gweru
+1490,Sandton Park,House,120000.0,5,5,2100,harare,harare west
+1491,Borrowdale Brooke,Townhouse Complex,750000.0,4,3,1337,harare,harare north
+1492,Zimre Park,House,70000.0,3,2,604,harare,harare east
+1493,Cold Comfort,House,85000.0,3,2,353,harare,harare west
+1494,Damofalls,House,50000.0,4,1,200,damofalls,damofalls
+1495,Adelaide Park,House,75000.0,4,1,407,harare,harare high density
+1496,Waterfalls,House,950000.0,6,4,24281,harare,harare south
+1497,Lochinvar,House,45000.0,2,1,540,harare,harare south
+1498,Riverside Park,Cottage,50000.0,2,1,1777,ruwa,ruwa
+1499,Avondale West,House,195000.0,3,2,1300,harare,harare west
+1500,Bellevue,House,42000.0,4,1,3900,bulawayo,bulawayo south
+1501,Brookview,House,350000.0,6,4,2044,harare,harare north
+1502,Nkulumane,House,28000.0,3,1,400,bulawayo,bulawayo high density
+1503,Burnside,House,200000.0,5,1,5800,bulawayo,bulawayo east
+1504,Hatfield,House,160000.0,1,1,9198,harare,harare south
+1505,Waterfalls,House,95000.0,3,2,629,harare,harare south
+1506,Mt Pleasant Heights,House,120000.0,3,2,2000,harare,harare west
+1507,Tynwald,House,85000.0,4,1,450,harare,harare west
+1508,Zengeza,House,55000.0,4,2,320,chitungwiza,chitungwiza
+1509,Mainway Meadows,House,110000.0,8,3,540,harare,harare south
+1510,Fairview,House,160000.0,3,3,1000,harare,harare west
+1511,Budiriro,House,45000.0,5,3,300,harare,harare high density
+1512,Tynwald,House,80000.0,4,2,397,harare,harare west
+1513,Mabvazuva,House,46000.0,4,3,450,ruwa,ruwa
+1514,Highfield,House,22000.0,2,1,200,harare,harare high density
+1515,Twinlakes,House,280000.0,8,8,3040,norton,norton
+1516,Budiriro,House,31000.0,4,2,288,harare,harare high density
+1517,Haig Park,House,170000.0,4,2,993,harare,harare west
+1518,Avenues,House,175000.0,3,1,2230,mutare,mutare
+1519,Msasa Park,House,75000.0,4,2,800,harare,harare south
+1520,Zengeza,House,35000.0,4,2,335,chitungwiza,chitungwiza
+1521,Philadelphia,House,380000.0,8,3,3958,harare,harare north
+1522,Marondera,House,50000.0,3,1,300,marondera,marondera
+1523,Budiriro,House,50000.0,4,2,300,harare,harare high density
+1524,Hillside,House,500000.0,4,3,10926,bulawayo,bulawayo south
+1525,Ashdown Park,House,100000.0,3,2,350,harare,harare west
+1526,Tiger's Kloof,House,175000.0,3,2,1511,mutare,mutare
+1527,Arlington,Townhouse Complex,160000.0,3,2,360,harare,harare south
+1528,Zimre Park,House,140000.0,5,3,1000,harare,harare east
+1529,Msasa Park,House,80000.0,3,1,420,harare,harare south
+1530,Zimre Park,House,90000.0,4,2,800,harare,harare east
+1531,Greencroft,House,300000.0,4,1,4000,harare,harare west
+1532,Morningside,House,180000.0,3,1,1511,mutare,mutare
+1533,Ballantyne Park,House,440000.0,6,2,4000,harare,harare north
+1534,New Marlborough,House,120000.0,4,1,700,harare,harare west
+1535,New Marlborough,House,300000.0,3,2,2000,harare,harare west
+1536,Tynwald,House,85000.0,4,1,420,harare,harare west
+1537,Madokero,House,130000.0,4,1,400,harare,harare west
+1538,Warren Park,House,47000.0,3,1,264,harare,harare high density
+1539,Marondera,House,49500.0,3,1,312,marondera,marondera
+1540,Hillside,House,320000.0,4,3,4000,bulawayo,bulawayo south
+1541,Rusape,House,85000.0,5,1,3000,rusape,rusape
+1542,Mbizo,House,38000.0,3,1,562,kwekwe,kwekwe
+1543,Westgate,House,140000.0,4,2,1000,harare,harare west
+1544,Budiriro,House,50000.0,5,2,300,harare,harare high density
+1545,Zimre Park,House,110000.0,4,2,800,harare,harare east
+1546,Mabvazuva,House,110000.0,4,2,360,ruwa,ruwa
+1547,St. Marys,House,32000.0,4,1,200,chitungwiza,chitungwiza
+1548,Tafara,House,50000.0,5,2,300,harare,harare high density
+1549,Hillside,House,200000.0,3,1,1711,harare,harare south
+1550,Parklands,House,70000.0,4,3,1427,bulawayo,bulawayo east
+1551,Glen View,House,150000.0,4,1,300,harare,harare high density
+1552,Crowhill Views,House,90000.0,3,1,1000,harare,harare north
+1553,Suburbs,House,250000.0,3,2,1455,bulawayo,bulawayo east
+1554,Hogerty Hill,House,375000.0,4,2,8000,harare,harare north
+1555,Glen Norah,House,33000.0,6,1,300,harare,harare high density
+1556,Umguza,House,90000.0,4,1,650,bulawayo,bulawayo north
+1557,Ashdown Park,House,130000.0,3,3,890,harare,harare west
+1558,Greendale,House,150000.0,3,1,1062,harare,harare east
+1559,Budiriro,House,42000.0,6,2,300,harare,harare high density
+1560,Zimre Park,House,90000.0,3,1,1088,harare,harare east
+1561,Highlands,House,385000.0,3,1,4265,harare,harare north
+1562,Crowhill Views,House,115000.0,3,2,1000,harare,harare north
+1563,Zimre Park,House,90000.0,3,2,1050,harare,harare east
+1564,Arlington,Townhouse Complex,160000.0,3,2,400,harare,harare south
+1565,Glaudina,House,65000.0,5,1,430,harare,harare west
+1566,Zimre Park,House,75000.0,4,2,582,harare,harare east
+1567,Avonlea,House,190000.0,3,2,2091,harare,harare west
+1568,Mount Pleasant,House,440000.0,4,3,2000,harare,harare north
+1569,Twinlakes,House,250000.0,4,3,4097,norton,norton
+1570,Chitungwiza,Townhouse Complex,40000.0,4,2,220,chitungwiza,chitungwiza
+1571,Borrowdale,House,250000.0,3,1,2000,harare,harare north
+1572,Damofalls,House,50000.0,3,2,300,damofalls,damofalls
+1573,Suburbs,Townhouse Complex,100000.0,2,1,600,bulawayo,bulawayo east
+1574,Hillside,House,380000.0,8,1,600,bulawayo,bulawayo south
+1575,Sandton Park,House,125000.0,3,1,1000,harare,harare west
+1576,Borrowdale,House,240000.0,3,1,4132,harare,harare north
+1577,Tynwald,House,50000.0,4,2,420,harare,harare west
+1578,Mount Pleasant,House,490000.0,5,2,4754,harare,harare north
+1579,Rydale Ridge Park,House,60000.0,4,2,400,harare,harare west
+1580,Mount Pleasant Heights,House,350000.0,4,4,2000,harare,harare north
+1581,Southview Park,House,60000.0,4,1,240,harare,harare south
+1582,Mount Pleasant,House,550000.0,1,3,4120,harare,harare north
+1583,Hatfield,House,320000.0,3,2,6000,harare,harare south
+1584,St. Marys,House,20000.0,3,1,300,chitungwiza,chitungwiza
+1585,Burnside,House,140000.0,3,2,4047,bulawayo,bulawayo east
+1586,Greendale,Townhouse Complex,300000.0,4,2,600,harare,harare east
+1587,Budiriro,House,42000.0,5,1,300,harare,harare high density
+1588,Mainway Meadows,House,105000.0,8,1,540,harare,harare south
+1589,Woodlands,House,135000.0,5,5,2282,bulawayo,bulawayo east
+1590,Marlborough,House,300000.0,3,1,4072,harare,harare west
+1591,Victoria Falls,Cottage,230000.0,2,1,2000,victoria,victoria falls
+1592,Marlborough,House,300000.0,6,3,2100,harare,harare west
+1593,Brookview,House,280000.0,6,1,2100,harare,harare north
+1594,Kumalo,House,290000.0,3,2,3026,bulawayo,bulawayo east
+1595,Emerald Hill,Townhouse Complex,400000.0,6,4,920,harare,harare west
+1596,Strathaven,House,290000.0,4,3,1600,harare,harare west
+1597,Highlands,Townhouse Complex,370000.0,3,2,2000,harare,harare north
+1598,Mkoba,House,35000.0,4,1,300,gweru,gweru
+1599,Rolf Valley,House,680000.0,5,6,2000,harare,harare north
+1600,Sunridge,House,165000.0,3,1,1004,harare,harare west
+1601,Chadcombe,House,140000.0,3,1,1192,harare,harare south
+1602,Hatfield,House,120000.0,3,1,2029,harare,harare south
+1603,Gletwin Park,House,590000.0,8,5,4299,harare,harare north
+1604,Mabvazuva,House,65000.0,4,2,436,ruwa,ruwa
+1605,Mount Pleasant Heights,House,160000.0,5,5,1800,harare,harare north
+1606,Nkulumane,House,18000.0,2,1,180,bulawayo,bulawayo high density
+1607,Eastlea,House,295000.0,3,1,2400,harare,harare east
+1608,Greendale,House,155000.0,3,1,1062,harare,harare east
+1609,Mandara,House,450000.0,3,2,4075,harare,harare east
+1610,Cold Comfort,House,75000.0,4,1,400,harare,harare west
+1611,Tynwald,House,55000.0,5,1,400,harare,harare west
+1612,Arlington,House,200000.0,5,3,2000,harare,harare south
+1613,Westgate,House,70000.0,4,2,374,harare,harare west
+1614,Tynwald,House,105000.0,4,1,420,harare,harare west
+1615,Romney Park,House,105000.0,4,2,1200,bulawayo,bulawayo north
+1616,Marlborough,Townhouse Complex,130000.0,3,2,400,harare,harare west
+1617,Zimre Park,House,95000.0,4,1,800,harare,harare east
+1618,Queensdale,House,150000.0,3,2,1191,harare,harare south
+1619,Milton Park,House,550000.0,7,2,2631,harare,harare west
+1620,Mount Pleasant Heights,House,175000.0,4,2,2000,harare,harare north
+1621,Emganwini,House,30000.0,2,1,200,bulawayo,bulawayo high density
+1622,Borrowdale,House,420000.0,5,4,2079,harare,harare north
+1623,Chitungwiza,House,28000.0,4,1,300,chitungwiza,chitungwiza
+1624,Budiriro,House,29000.0,2,1,298,harare,harare high density
+1625,Glen Lorne,House,400000.0,4,2,2000,harare,harare north
+1626,Belvedere,House,350000.0,4,1,820,harare,harare west
+1627,Belvedere,House,280000.0,3,1,1382,harare,harare west
+1628,Norton,House,32000.0,4,1,240,norton,norton
+1629,Sunway City,House,75000.0,4,1,2400,harare,harare east
+1630,Zimre Park,House,58000.0,4,1,650,harare,harare east
+1631,Bluff Hill,Townhouse Complex,112000.0,3,2,463,harare,harare west
+1632,Matidoda,House,70000.0,4,2,500,harare,harare west
+1633,Chisipite,House,750000.0,5,4,7000,harare,harare north
+1634,Dangamvura,House,28000.0,2,1,1050,mutare,mutare
+1635,Chikanga,House,35000.0,3,2,300,mutare,mutare
+1636,Tynwald,House,68000.0,3,2,326,harare,harare west
+1637,Adelaide Park,House,58000.0,3,2,400,harare,harare high density
+1638,Belvedere,House,210000.0,4,2,2000,harare,harare west
+1639,Cold Comfort,House,75000.0,4,1,800,harare,harare west
+1640,Manyame Park,House,45000.0,4,2,250,chitungwiza,chitungwiza
+1641,Hatfield,House,200000.0,4,3,1000,harare,harare south
+1642,Greendale,House,150000.0,4,2,400,harare,harare east
+1643,Malindela,House,90000.0,3,1,800,bulawayo,bulawayo south
+1644,Southview Park,House,52000.0,4,2,240,harare,harare south
+1645,Sandton Park,House,130000.0,5,5,1000,harare,harare west
+1646,Ashdown Park,House,150000.0,3,1,890,harare,harare west
+1647,Arlington,Townhouse Complex,155000.0,3,1,320,harare,harare south
+1648,New Marlborough,House,290000.0,6,5,2000,harare,harare west
+1649,Marlborough,House,220000.0,3,1,4400,harare,harare west
+1650,Chadcombe,House,400000.0,8,4,1800,harare,harare south
+1651,Madokero,House,90000.0,4,2,400,harare,harare west
+1652,Emganwini,House,35000.0,4,2,250,bulawayo,bulawayo high density
+1653,Hillside,House,195000.0,5,1,4046,bulawayo,bulawayo south
+1654,Cotswold Hills,House,120000.0,3,2,1300,harare,harare west
+1655,Fairview,House,160000.0,4,2,1000,harare,harare west
+1656,St. Martins,House,90000.0,5,1,1200,harare,harare south
+1657,Glen Forest,House,175000.0,5,2,17000,harare,harare north
+1658,Tynwald,House,65000.0,3,1,326,harare,harare west
+1659,Monavale,House,300000.0,3,1,4000,harare,harare west
+1660,Philadelphia,House,350000.0,8,7,3958,harare,harare north
+1661,Cranborne,House,100000.0,4,2,740,harare,harare south
+1662,Barham Green,House,95000.0,3,1,867,bulawayo,bulawayo south
+1663,Arlington,House,168000.0,3,1,375,harare,harare south
+1664,Ashdown Park,House,140000.0,4,2,617,harare,harare west
+1665,Norton,House,23000.0,3,1,1000,norton,norton
+1666,Meyrick Park,House,190000.0,3,1,3700,harare,harare west
+1667,Belvedere,House,180000.0,3,1,1400,harare,harare west
+1668,Prospect,House,75000.0,3,1,1200,harare,harare south
+1669,Tynwald,House,95000.0,2,1,3356,harare,harare west
+1670,Nkulumane,House,32000.0,3,1,450,bulawayo,bulawayo high density
+1671,Chitungwiza,House,40000.0,3,4,300,chitungwiza,chitungwiza
+1672,Mount Pleasant Heights,House,140000.0,3,2,1800,harare,harare north
+1673,Mainway Meadows,Cottage,130000.0,4,3,749,harare,harare south
+1674,Mufakose,House,28000.0,3,1,200,harare,harare high density
+1675,Arlington,House,300000.0,5,3,1000,harare,harare south
+1676,Nkulumane,House,18500.0,2,1,200,bulawayo,bulawayo high density
+1677,Belvedere,House,220000.0,3,2,1500,harare,harare west
+1678,Woodlands,House,150000.0,4,1,2600,bulawayo,bulawayo east
+1679,Cowdray Park,House,28500.0,4,1,300,bulawayo,bulawayo high density
+1680,Mainway Meadows,House,55000.0,3,2,500,harare,harare south
+1681,Burnside,House,130000.0,4,1,8093,bulawayo,bulawayo east
+1682,Rydale Ridge,House,48000.0,4,2,330,harare,harare high density
+1683,Famona,House,170000.0,3,2,800,bulawayo,bulawayo south
+1684,Kumalo,Townhouse Complex,270000.0,4,1,940,bulawayo,bulawayo east
+1685,Damofalls,House,68000.0,4,2,879,damofalls,damofalls
+1686,Ruwa,House,28000.0,3,1,300,ruwa,ruwa
+1687,Mount Pleasant,Townhouse Complex,320000.0,4,3,4000,harare,harare north
+1688,Greendale,Townhouse Complex,230000.0,3,2,4000,harare,harare east
+1689,Madokero,House,150000.0,4,2,380,harare,harare west
+1690,Avenues,Townhouse Complex,140000.0,3,2,200,harare,harare cbd
+1691,Upper Hillside,House,190000.0,3,1,1300,harare,harare east
+1692,Milton Park,House,330000.0,3,2,2216,harare,harare west
+1693,Marondera,Townhouse Complex,45000.0,3,2,320,marondera,marondera
+1694,Budiriro,House,35000.0,4,1,300,harare,harare high density
+1695,Glen Norah,House,30000.0,2,1,100,harare,harare high density
+1696,Mabvazuva,House,80000.0,4,3,400,ruwa,ruwa
+1697,Mount Pleasant Heights,Townhouse Complex,190000.0,5,3,2000,harare,harare north
+1698,Tynwald,House,45000.0,4,1,200,harare,harare west
+1699,Nhowe,Cottage,65000.0,2,1,2200,norton,norton
+1700,Dawnview Park,Townhouse Complex,120000.0,5,2,530,harare,harare west
+1701,Quinnington,House,420000.0,6,1,4000,harare,harare north
+1702,Tynwald,House,100000.0,3,2,490,harare,harare west
+1703,Mt Pleasant Heights,House,200000.0,5,1,2000,harare,harare west
+1704,Belvedere,House,200000.0,3,1,2000,harare,harare west
+1705,Greendale North,House,390000.0,4,2,4400,harare,harare north
+1706,Bellevue,House,85000.0,3,1,2479,bulawayo,bulawayo south
+1707,Brookview,House,180000.0,6,1,2000,harare,harare north
+1708,Hogerty Hill,Townhouse Complex,290000.0,3,2,987,harare,harare north
+1709,Hogerty Hill,House,430000.0,6,6,2600,harare,harare north
+1710,Zengeza,House,25000.0,4,1,200,chitungwiza,chitungwiza
+1711,Gunhill,House,400000.0,4,3,2800,harare,harare north
+1712,Glen Lorne,House,500000.0,4,3,5000,harare,harare north
+1713,Lochview,House,130000.0,5,1,4046,bulawayo,bulawayo east
+1714,New Luveve,House,29000.0,3,1,635,bulawayo,bulawayo high density
+1715,Hillside,House,195000.0,5,1,4046,bulawayo,bulawayo south
+1716,Bloomingdale,House,95000.0,3,1,434,harare,harare west
+1717,Chicago,House,290000.0,3,1,4500,kwekwe,kwekwe
+1718,Morningside,House,110000.0,3,1,1339,bulawayo,bulawayo south
+1719,Lake Chivero,House,260000.0,4,4,8094,lake,lake chivero
+1720,Borrowdale,House,850000.0,6,3,15000,harare,harare north
+1721,Sandton Park,House,150000.0,5,5,1200,harare,harare west
+1722,Borrowdale,House,275000.0,4,3,350,harare,harare north
+1723,Amaveni,House,24000.0,4,1,350,kwekwe,kwekwe
+1724,Bluff Hill,House,78000.0,3,3,300,harare,harare west
+1725,Glen View,House,32000.0,5,2,300,harare,harare high density
+1726,Chitungwiza,House,26000.0,4,1,300,chitungwiza,chitungwiza
+1727,Mount Pleasant Heights,House,220000.0,5,4,2189,harare,harare north
+1728,Hogerty Hill,Townhouse Complex,350000.0,3,2,987,harare,harare north
+1729,Riverside South,House,95000.0,4,1,3783,bulawayo,bulawayo east
+1730,Hillside,House,145000.0,3,1,2479,bulawayo,bulawayo south
+1731,Zengeza,House,22000.0,2,1,180,chitungwiza,chitungwiza
+1732,Greencroft,House,165000.0,3,2,400,harare,harare west
+1733,Old Windsor,House,130000.0,4,1,2000,ruwa,ruwa
+1734,Chitungwiza,House,32000.0,4,1,200,chitungwiza,chitungwiza
+1735,Waterfalls,House,160000.0,4,1,2200,harare,harare south
+1736,Bloomingdale,House,115000.0,4,1,500,harare,harare west
+1737,Mainway Meadows,House,110000.0,3,1,570,harare,harare south
+1738,Highlands,House,680000.0,5,1,4076,harare,harare north
+1739,Chitungwiza,House,27000.0,4,1,100,chitungwiza,chitungwiza
+1740,Manyame Park,House,26000.0,4,1,200,chitungwiza,chitungwiza
+1741,Glen Lorne,House,265000.0,5,1,5400,harare,harare north
+1742,Greendale,House,280000.0,3,2,3716,harare,harare east
+1743,Manyame Park,House,40000.0,4,2,250,chitungwiza,chitungwiza
+1744,Adelaide Park,House,49000.0,4,3,400,harare,harare high density
+1745,Chikanga,House,52000.0,5,1,664,mutare,mutare
+1746,Damofalls,House,60000.0,4,1,500,damofalls,damofalls
+1747,Budiriro,House,21000.0,1,1,300,harare,harare high density
+1748,Mabvazuva,House,95000.0,4,1,388,ruwa,ruwa
+1749,Glen Norah,House,43000.0,4,1,225,harare,harare high density
+1750,Harare City Centre,House,45000.0,4,2,165,harare,harare cbd
+1751,Marlborough,House,790000.0,5,6,8244,harare,harare west
+1752,Marlborough,House,790000.0,5,6,8244,harare,harare west
+1753,Windsor Park,House,130000.0,6,4,2000,ruwa,ruwa
+1754,Shawasha Hills,House,590000.0,8,1,4299,harare,harare north
+1755,Mabvazuva,House,95000.0,4,1,400,ruwa,ruwa
+1756,Glen Lorne,House,500000.0,4,1,40000,harare,harare north
+1757,Madokero,House,120000.0,4,3,400,harare,harare west
+1758,Zengeza,House,23000.0,3,1,200,chitungwiza,chitungwiza
+1759,Chitungwiza,House,25000.0,4,1,300,chitungwiza,chitungwiza
+1760,Selbourne Park,Townhouse Complex,120000.0,5,1,1499,bulawayo,bulawayo east
+1761,Greystone Park,House,450000.0,4,2,5000,harare,harare north
+1762,Emerald Hill,House,350000.0,6,2,1790,harare,harare west
+1763,Emerald Hill,House,350000.0,5,2,1700,harare,harare west
+1764,Mt Pleasant Heights,House,385000.0,5,4,1800,harare,harare west
+1765,Suburbs,House,120000.0,2,1,694,bulawayo,bulawayo east
+1766,Nkulumane,House,20000.0,2,1,200,bulawayo,bulawayo high density
+1767,Mufakose,House,29000.0,3,1,200,harare,harare high density
+1768,Mount Pleasant,Townhouse Complex,295000.0,3,1,1000,harare,harare north
+1769,Marondera,House,23000.0,2,1,300,marondera,marondera
+1770,Hogerty Hill,House,500000.0,4,2,9500,harare,harare north
+1771,Hogerty Hill,Townhouse Complex,270000.0,4,2,500,harare,harare north
+1772,Glen Lorne,House,750000.0,6,1,4300,harare,harare north
+1773,Avenues,House,110000.0,2,1,100,harare,harare cbd
+1774,Gletwin Park,House,1200000.0,7,9,7169,harare,harare north
+1775,Fairview,House,95000.0,3,1,1000,harare,harare west
+1776,Carrick Creagh,House,140000.0,6,1,1600,harare,harare north
+1777,Glen Lorne,House,275000.0,4,1,1846,harare,harare north
+1778,Erasmus Park,House,80000.0,4,2,400,ruwa,ruwa
+1779,Tynwald,House,60000.0,4,3,386,harare,harare west
+1780,Chiredzi,House,120000.0,4,2,2100,chiredzi,chiredzi
+1781,Mkoba,House,25000.0,2,1,200,gweru,gweru
+1782,Mount Pleasant Heights,House,400000.0,6,1,2080,harare,harare north
+1783,Glen Lorne,House,500000.0,4,1,4000,harare,harare north
+1784,Newton West,House,160000.0,3,2,4274,bulawayo,bulawayo south
+1785,Eastlea,House,300000.0,3,1,1406,harare,harare east
+1786,Mtausi Park,House,45000.0,2,1,1900,gweru,gweru
+1787,Helensvale,House,650000.0,6,6,5250,harare,harare north
+1788,Ruwa,House,45000.0,2,1,1200,ruwa,ruwa
+1789,Hillside,House,500000.0,3,2,14164,bulawayo,bulawayo south
+1790,Arlington,Townhouse Complex,150000.0,3,1,2000,harare,harare south
+1791,Mount Pleasant,Townhouse Complex,340000.0,4,3,450,harare,harare north
+1792,Chitungwiza,House,37000.0,4,1,240,chitungwiza,chitungwiza
+1793,Ruwa,Townhouse Complex,130000.0,4,1,430,ruwa,ruwa
+1794,Ruwa,House,85000.0,4,1,400,ruwa,ruwa
+1795,Tafara,House,47000.0,4,1,241,harare,harare high density
+1796,Mabvuku,House,50000.0,4,1,300,harare,harare high density
+1797,Mt Pleasant Heights,House,180000.0,4,2,3000,harare,harare west
+1798,Pomona,House,100000.0,5,5,2200,harare,harare north
+1799,Charlotte Brooke,House,105000.0,5,1,1200,harare,harare north
+1800,Greendale,House,300000.0,6,1,2000,harare,harare east
+1801,Emerald Hill,House,350000.0,5,3,1773,harare,harare west
+1802,Glen View,House,42000.0,5,1,250,harare,harare high density
+1803,Waterfalls,House,75000.0,4,1,350,harare,harare south
+1804,Bluff Hill,House,145000.0,4,1,500,harare,harare west
+1805,Madokero,House,150000.0,4,1,400,harare,harare west
+1806,Arlington,Townhouse Complex,160000.0,3,1,380,harare,harare south
+1807,Zimre Park,House,50000.0,3,1,500,harare,harare east
+1808,Borrowdale,House,550000.0,4,1,4000,harare,harare north
+1809,Warren Park,House,55000.0,3,2,350,harare,harare high density
+1810,Kuwadzana,House,29000.0,3,1,300,harare,harare high density
+1811,Arlington,House,160000.0,3,2,320,harare,harare south
+1812,Hatfield,House,110000.0,4,1,2400,harare,harare south
+1813,Chitungwiza,House,22000.0,2,1,200,chitungwiza,chitungwiza
+1814,Suburbs,House,350000.0,5,2,3172,bulawayo,bulawayo east
+1815,Chitungwiza,House,22000.0,3,1,300,chitungwiza,chitungwiza
+1816,Zengeza,House,31000.0,3,1,312,chitungwiza,chitungwiza
+1817,Borrowdale,House,997000.0,5,3,8670,harare,harare north
+1818,Ballantyne Park,House,1350000.0,5,4,8093,harare,harare north
+1819,Vainona,Townhouse Complex,535000.0,4,4,2200,harare,harare north
+1820,Hogerty Hill,House,250000.0,3,3,1000,harare,harare north
+1821,Kumalo,House,180000.0,3,2,2677,bulawayo,bulawayo east
+1822,Gletwin Park,House,380000.0,6,1,2000,harare,harare north
+1823,Cold Comfort,House,85000.0,4,1,200,harare,harare west
+1824,Damofalls,House,65000.0,4,3,450,damofalls,damofalls
+1825,Marlborough,House,900000.0,6,1,8435,harare,harare west
+1826,Newton West,House,115000.0,3,1,10800,bulawayo,bulawayo south
+1827,Greendale,Townhouse Complex,225000.0,3,2,7000,harare,harare east
+1828,Mazvikadei,House,250000.0,3,2,5628,mazvikadei,mazvikadei
+1829,Chisipite,Townhouse Complex,550000.0,5,5,2000,harare,harare north
+1830,Eastlea,House,370000.0,5,1,3600,harare,harare east
+1831,Woodlands,House,135000.0,5,1,2282,bulawayo,bulawayo east
+1832,Mount Pleasant Heights,House,310000.0,5,4,1800,harare,harare north
+1833,Belvedere,House,160000.0,4,1,1000,harare,harare west
+1834,Zengeza,House,35000.0,3,1,176,chitungwiza,chitungwiza
+1835,Waterfalls,House,55000.0,3,2,464,harare,harare south
+1836,Ruwa,House,74000.0,4,1,400,ruwa,ruwa
+1837,Glaudina,House,30000.0,3,2,300,harare,harare west
+1838,Sunway City,House,130000.0,5,1,2006,harare,harare east
+1839,Budiriro,House,30000.0,2,1,300,harare,harare high density
+1840,Gletwin Park,House,200000.0,4,4,4000,harare,harare north
+1841,Chitungwiza,House,35000.0,3,1,200,chitungwiza,chitungwiza
+1842,Hatcliffe,House,49000.0,3,1,1400,harare,harare high density
+1843,Rockview,House,85000.0,4,1,1000,harare,harare east
+1844,Southerton,House,60000.0,3,1,800,harare,harare south
+1845,Greystone Park,Townhouse Complex,300000.0,4,3,6000,harare,harare north
+1846,Mandara,House,310000.0,4,1,4047,harare,harare east
+1847,Bluff Hill,House,75000.0,3,2,200,harare,harare west
+1848,Norton,House,69000.0,5,3,2000,norton,norton
+1849,Meyrick Park,House,220000.0,5,3,3700,harare,harare west
+1850,Zengeza,House,36000.0,4,1,400,chitungwiza,chitungwiza
+1851,Manyame Park,House,33000.0,5,2,200,chitungwiza,chitungwiza
+1852,Mount Pleasant Heights,House,200000.0,3,2,2400,harare,harare north
+1853,Msasa Park,House,75000.0,3,1,479,harare,harare south
+1854,Zimre Park,House,85000.0,3,2,600,harare,harare east
+1855,Hatfield,House,280000.0,6,2,10100,harare,harare south
+1856,Mainway Meadows,House,120000.0,4,3,570,harare,harare south
+1857,Hillcrest,House,100000.0,3,2,1710,bulawayo,bulawayo south
+1858,Mt Pleasant Heights,House,130000.0,5,1,2000,harare,harare west
+1859,Vainona,Townhouse Complex,200000.0,4,4,4000,harare,harare north
+1860,Mandara,House,350000.0,4,2,4063,harare,harare east
+1861,Chitungwiza,House,37000.0,4,1,220,chitungwiza,chitungwiza
+1862,Carrick Creagh,House,158000.0,6,7,1560,harare,harare north
+1863,Marlborough,House,290000.0,4,2,3700,harare,harare west
+1864,Westgate,House,170000.0,3,2,1182,harare,harare west
+1865,Zimre Park,House,85000.0,3,2,600,harare,harare east
+1866,Chivhu,House,26000.0,3,1,240,chivhu,chivhu
+1867,Arlington,Townhouse Complex,170000.0,4,4,320,harare,harare south
+1868,Ashdown Park,House,120000.0,3,2,798,harare,harare west
+1869,Ruwa,House,45000.0,4,1,300,ruwa,ruwa
+1870,Mazowe,House,65000.0,4,3,1350,mazowe,mazowe
+1871,Arlington,House,150000.0,3,2,300,harare,harare south
+1872,Eastlea,House,320000.0,4,2,1500,harare,harare east
+1873,Borrowdale,House,525000.0,4,1,4000,harare,harare north
+1874,Greencroft,Townhouse Complex,160000.0,3,2,1300,harare,harare west
+1875,Marondera,House,40000.0,3,2,1000,marondera,marondera
+1876,Airport,Townhouse Complex,145000.0,4,2,600,harare,harare south
+1877,Tynwald,House,130000.0,4,1,400,harare,harare west
+1878,Kuwadzana,House,38000.0,4,1,200,harare,harare high density
+1879,Madokero,House,90000.0,2,1,200,harare,harare west
+1880,Mt Pleasant Heights,House,200000.0,4,1,3000,harare,harare west
+1881,Warren Park,House,50000.0,4,1,300,harare,harare high density
+1882,Chitungwiza,House,30000.0,3,1,300,chitungwiza,chitungwiza
+1883,Madokero,House,85000.0,3,1,400,harare,harare west
+1884,Kuwadzana,House,43000.0,4,1,300,harare,harare high density
+1885,Glen View,House,35000.0,4,1,250,harare,harare high density
+1886,Ruwa,House,65000.0,4,2,600,ruwa,ruwa
+1887,Glen View,House,25000.0,3,1,200,harare,harare high density
+1888,Rydale Ridge Park,House,78000.0,4,1,350,harare,harare west
+1889,Mkoba,House,30000.0,3,1,300,gweru,gweru
+1890,Westgate,House,220000.0,4,3,861,harare,harare west
+1891,Hogerty Hill,Townhouse Complex,400000.0,5,4,3800,harare,harare north
+1892,Greendale,House,175000.0,4,3,2500,harare,harare east
+1893,Glen Lorne,Townhouse Complex,250000.0,3,2,9000,harare,harare north
+1894,Chitungwiza,House,45000.0,4,2,650,chitungwiza,chitungwiza
+1895,Southlea Park,House,27000.0,3,2,300,harare,harare south
+1896,Zimre Park,House,60000.0,3,1,550,harare,harare east
+1897,Chitungwiza,House,38000.0,4,1,300,chitungwiza,chitungwiza
+1898,Southlea Park,House,55000.0,3,1,250,harare,harare south
+1899,Hogerty Hill,Townhouse Complex,250000.0,4,4,4800,harare,harare north
+1900,Airport,House,330000.0,7,8,2000,harare,harare south
+1901,Zimre Park,House,99000.0,5,2,2000,harare,harare east
+1902,Arlington,House,150000.0,3,1,400,harare,harare south
+1903,Marondera,House,17000.0,4,1,300,marondera,marondera
+1904,Sentosa,House,180000.0,3,2,1200,harare,harare west
+1905,Douglasdale,House,230000.0,4,2,37635,bulawayo,bulawayo east
+1906,Highlands,House,265000.0,3,1,500,harare,harare north
+1907,Suburbs,House,179000.0,3,2,1455,bulawayo,bulawayo east
+1908,Kuwadzana,House,35000.0,7,1,200,harare,harare high density
+1909,Damofalls,House,38000.0,3,1,200,damofalls,damofalls
+1910,Aspindale Park,House,80000.0,4,1,200,harare,harare west
+1911,Damofalls,House,50000.0,4,2,504,damofalls,damofalls
+1912,Mazvikadei,House,185000.0,4,4,4000,mazvikadei,mazvikadei
+1913,Mount Pleasant,House,400000.0,3,3,1939,harare,harare north
+1914,Bindura,House,45000.0,2,1,3415,bindura,bindura
+1915,Budiriro,House,25000.0,1,1,294,harare,harare high density
+1916,Athlone,House,270000.0,3,1,4300,harare,harare east
+1917,Arlington,House,190000.0,4,4,420,harare,harare south
+1918,Suburbs,House,179000.0,3,2,1500,bulawayo,bulawayo east
+1919,Manresa,House,180000.0,5,6,2010,harare,harare east
+1920,Vainona,Townhouse Complex,250000.0,4,1,500,harare,harare north
+1921,Marlborough,House,90000.0,2,1,2000,harare,harare west
+1922,Thorngrove,House,40000.0,4,1,300,bulawayo,bulawayo cbd industrial
+1923,Waterfalls,House,120000.0,4,2,1100,harare,harare south
+1924,Ruwa,House,40000.0,4,1,300,ruwa,ruwa
+1925,Hogerty Hill,House,1250000.0,5,4,43000,harare,harare north
+1926,Dzivarasekwa,House,20000.0,2,1,150,harare,harare high density
+1927,Southview Park,House,63000.0,3,2,240,harare,harare south
+1928,Bluff Hill,House,125000.0,4,2,300,harare,harare west
+1929,Southview Park,House,63000.0,4,2,240,harare,harare south
+1930,Mainway Meadows,House,120000.0,4,3,580,harare,harare south
+1931,Suburbs,House,160000.0,4,2,1487,bulawayo,bulawayo east
+1932,Sandton Park,House,120000.0,5,1,2000,harare,harare west
+1933,Mount Pleasant,House,427000.0,5,4,2534,harare,harare north
+1934,Pumula South,House,20000.0,2,1,200,bulawayo,bulawayo high density
+1935,Mahatshula,House,100000.0,4,1,800,bulawayo,bulawayo north
+1936,Selbourne Park,House,130000.0,4,1,1400,bulawayo,bulawayo east
+1937,Mount Pleasant Heights,House,400000.0,4,3,2000,harare,harare north
+1938,Westgate,House,150000.0,4,2,2300,harare,harare west
+1939,Bluff Hill,Townhouse Complex,110000.0,2,2,250,harare,harare west
+1940,Tynwald,House,127000.0,4,2,400,harare,harare west
+1941,Madokero,House,108000.0,3,2,366,harare,harare west
+1942,Zengeza,House,40000.0,5,3,320,chitungwiza,chitungwiza
+1943,Glen Lorne,House,360000.0,3,1,2500,harare,harare north
+1944,Hillside,House,220000.0,3,2,1500,harare,harare south
+1945,Ruwa,House,65000.0,4,2,400,ruwa,ruwa
+1946,Mt Pleasant Heights,Townhouse Complex,500000.0,3,2,1591,harare,harare west
+1947,Budiriro,House,50000.0,4,1,300,harare,harare high density
+1948,Hogerty Hill,House,1250000.0,5,1,42898,harare,harare north
+1949,Waterfalls,House,150000.0,4,2,5000,harare,harare south
+1950,Southview Park,House,25000.0,3,1,250,harare,harare south
+1951,Mufakose,House,18000.0,2,1,200,harare,harare high density
+1952,Mazowe,House,45000.0,4,1,300,mazowe,mazowe
+1953,Madokero,House,55000.0,3,1,368,harare,harare west
+1954,Budiriro,House,30000.0,2,1,300,harare,harare high density
+1955,Ashdown Park,House,95000.0,3,2,500,harare,harare west
+1956,Mainway Meadows,House,105000.0,4,1,500,harare,harare south
+1957,Fairview,House,95000.0,2,1,1000,harare,harare west
+1958,Fairview,House,100000.0,2,1,1000,harare,harare west
+1959,The Grange,House,400000.0,4,2,4500,harare,harare north
+1960,Ruwa,House,60000.0,4,1,877,ruwa,ruwa
+1961,Ruwa,House,70000.0,4,1,877,ruwa,ruwa
+1962,Epworth,House,25000.0,2,3,200,harare,harare high density
+1963,Crowhill Views,House,99000.0,3,2,1200,harare,harare north
+1964,Greendale North,Townhouse Complex,225000.0,3,2,5000,harare,harare north
+1965,Glen Lorne,House,280000.0,4,1,2000,harare,harare north
+1966,Waterfalls,House,250000.0,4,1,2100,harare,harare south
+1967,Mount Pleasant Heights,House,405000.0,5,2,2000,harare,harare north
+1968,Zimre Park,House,90000.0,4,2,1066,harare,harare east
+1969,Zimre Park,House,90000.0,4,2,1066,harare,harare east
+1970,Bluff Hill,Townhouse Complex,100000.0,3,1,4000,harare,harare west
+1971,Bluff Hill,Townhouse Complex,100000.0,3,1,4000,harare,harare west
+1972,Arlington,House,170000.0,3,1,375,harare,harare south
+1973,Marlborough,House,320000.0,5,2,2100,harare,harare west
+1974,Westgate,House,140000.0,6,3,1182,harare,harare west
+1975,Westgate,House,170000.0,6,3,1182,harare,harare west
+1976,Greendale,Townhouse Complex,140000.0,3,3,4000,harare,harare east
+1977,Greendale,House,150000.0,2,1,150,harare,harare east
+1978,Ruwa,House,45000.0,4,1,300,ruwa,ruwa
+1979,Ruwa,House,40000.0,4,1,300,ruwa,ruwa
+1980,Chitungwiza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+1981,Eastlea,House,450000.0,5,2,2200,harare,harare east
+1982,Tynwald,House,120000.0,4,1,400,harare,harare west
+1983,Rolf Valley,House,600000.0,4,1,4000,harare,harare north
+1984,Borrowdale,House,600000.0,4,1,4000,harare,harare north
+1985,Glaudina,House,100000.0,3,2,700,harare,harare west
+1986,Belvedere,House,145000.0,5,3,1013,harare,harare west
+1987,Morningside,House,95000.0,3,1,1500,bulawayo,bulawayo south
+1988,Msasa Park,House,70000.0,4,2,500,harare,harare south
+1989,Mount Pleasant Heights,House,135000.0,3,2,2000,harare,harare north
+1990,New Marlborough,House,150000.0,3,1,650,harare,harare west
+1991,Kambuzuma,House,30000.0,3,1,276,harare,harare high density
+1992,Chitungwiza,House,29000.0,3,1,200,chitungwiza,chitungwiza
+1993,Madokero,House,110000.0,3,1,436,harare,harare west
+1994,Springvale,House,28000.0,4,1,300,ruwa,ruwa
+1995,The Grange,House,310000.0,5,1,4300,harare,harare north
+1996,Kumalo,House,180000.0,3,2,2677,bulawayo,bulawayo east
+1997,Waterfalls,House,120000.0,4,1,1100,harare,harare south
+1998,Glen Lorne,House,330000.0,4,1,4100,harare,harare north
+1999,Ruwa,House,65000.0,4,1,880,ruwa,ruwa
+2000,Glen View,House,38000.0,4,1,200,harare,harare high density
+2001,KweKwe,House,250000.0,4,3,3500,kwekwe,kwekwe
+2002,Waterfalls,House,115000.0,3,1,2000,harare,harare south
+2003,Arlington,House,320000.0,7,1,2000,harare,harare south
+2004,Ruwa,House,75000.0,4,3,400,ruwa,ruwa
+2005,Borrowdale,Townhouse Complex,350000.0,3,1,1700,harare,harare north
+2006,Pumula,House,28000.0,3,1,350,bulawayo,bulawayo high density
+2007,Tshabalala Extension,House,33000.0,3,1,400,bulawayo,bulawayo high density
+2008,Eastlea,House,220000.0,4,2,1300,harare,harare east
+2009,Glen Lorne,House,800000.0,6,6,4000,harare,harare north
+2010,Manresa,House,180000.0,6,6,2000,harare,harare east
+2011,Shawasha Hills,House,370000.0,5,2,2100,harare,harare north
+2012,Marondera,House,65000.0,5,1,2000,marondera,marondera
+2013,Twinlakes,House,250000.0,4,3,4125,norton,norton
+2014,Zimre Park,House,85000.0,5,1,2100,harare,harare east
+2015,Arlington,House,155000.0,3,1,310,harare,harare south
+2016,Tynwald,House,70000.0,4,1,400,harare,harare west
+2017,Tynwald,House,100000.0,4,1,380,harare,harare west
+2018,Chisipite,House,700000.0,5,3,7200,harare,harare north
+2019,Glen View,House,34000.0,5,1,200,harare,harare high density
+2020,Greystone Park,House,350000.0,4,2,4000,harare,harare north
+2021,Borrowdale Brooke,House,1850000.0,7,7,4400,harare,harare north
+2022,Bindura,House,25000.0,4,1,200,bindura,bindura
+2023,Madokero,House,68000.0,4,3,400,harare,harare west
+2024,Avonlea,House,190000.0,3,2,2091,harare,harare west
+2025,Tynwald,House,70000.0,3,1,617,harare,harare west
+2026,Rydale Ridge,House,35000.0,4,2,300,harare,harare high density
+2027,Belgravia,House,495000.0,3,1,2783,harare,harare north
+2028,Belgravia,House,495000.0,3,1,2783,harare,harare north
+2029,Famona,House,85000.0,3,1,637,bulawayo,bulawayo south
+2030,Helensvale,House,680000.0,6,1,4990,harare,harare north
+2031,Belvedere,House,170000.0,4,1,1380,harare,harare west
+2032,Chitungwiza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+2033,Helensvale,House,1400000.0,6,4,4047,harare,harare north
+2034,Hatfield,House,210000.0,4,1,5500,harare,harare south
+2035,Bluff Hill,House,120000.0,3,1,800,harare,harare west
+2036,Kumalo,House,285000.0,5,1,3000,bulawayo,bulawayo east
+2037,Zimre Park,House,45000.0,3,2,712,harare,harare east
+2038,Northwood,House,375000.0,3,1,4000,harare,harare north
+2039,Fitchlea,House,85000.0,3,1,1283,kwekwe,kwekwe
+2040,Mandara,House,340000.0,3,2,4000,harare,harare east
+2041,Belvedere,House,190000.0,5,1,1400,harare,harare west
+2042,Mainway Meadows,House,110000.0,4,1,570,harare,harare south
+2043,Manyame Park,House,30000.0,4,1,200,chitungwiza,chitungwiza
+2044,Upper Rangemore,House,25000.0,3,1,300,bulawayo,bulawayo high density
+2045,Sandton Park,House,80000.0,3,1,2656,harare,harare west
+2046,Glen View,House,20000.0,4,1,250,harare,harare high density
+2047,Hillside,House,530000.0,3,2,5338,bulawayo,bulawayo south
+2048,Vainona,House,550000.0,9,1,4400,harare,harare north
+2049,Madokero,House,105000.0,4,1,400,harare,harare west
+2050,Burnside,House,275000.0,3,2,4125,bulawayo,bulawayo east
+2051,Fairview,House,105000.0,6,1,1000,harare,harare west
+2052,Kuwadzana,House,55000.0,4,1,300,harare,harare high density
+2053,Mainway Meadows,Townhouse Complex,120000.0,4,1,400,harare,harare south
+2054,Glen Lorne,House,550000.0,5,5,3099,harare,harare north
+2055,Avonlea,House,140000.0,3,1,1240,harare,harare west
+2056,Glen Lorne,House,480000.0,4,1,4545,harare,harare north
+2057,Amby,Townhouse Complex,120000.0,2,1,450,harare,harare east
+2058,Warren Park,House,52000.0,3,1,396,harare,harare high density
+2059,Sandton Park,House,350000.0,4,3,1600,harare,harare west
+2060,Avondale West,House,680000.0,3,3,4500,harare,harare west
+2061,Greencroft,House,180000.0,3,2,500,harare,harare west
+2062,Chitungwiza,House,41000.0,4,2,350,chitungwiza,chitungwiza
+2063,Chitungwiza,House,25000.0,3,1,200,chitungwiza,chitungwiza
+2064,Ashdown Park,House,130000.0,3,1,706,harare,harare west
+2065,Mount Pleasant,House,420000.0,4,1,2000,harare,harare north
+2066,Glen Norah,House,35000.0,3,1,250,harare,harare high density
+2067,Gweru CBD,House,100000.0,3,2,1776,gweru,gweru
+2068,Philadelphia,House,520000.0,4,1,9500,harare,harare north
+2069,Hogerty Hill,House,250000.0,4,1,400,harare,harare north
+2070,Borrowdale Brooke,House,450000.0,4,1,1000,harare,harare north
+2071,Glen View,House,37000.0,3,1,300,harare,harare high density
+2072,Arlington,House,140000.0,4,2,600,harare,harare south
+2073,Marlborough,House,270000.0,5,1,2000,harare,harare west
+2074,Eastlea,House,310000.0,4,2,1500,harare,harare east
+2075,Zimre Park,House,90000.0,4,1,1000,harare,harare east
+2076,Tynwald,House,95000.0,4,1,450,harare,harare west
+2077,Southview Park,House,45000.0,5,1,280,harare,harare south
+2078,Budiriro,House,40000.0,4,1,300,harare,harare high density
+2079,Eastlea,House,320000.0,6,1,1820,harare,harare east
+2080,Shawasha Hills,House,580000.0,8,1,4299,harare,harare north
+2081,Tynwald,Townhouse Complex,55000.0,2,2,200,harare,harare west
+2082,Murambi,House,600000.0,3,4,8803,mutare,mutare
+2083,Marlborough,House,390000.0,3,1,5000,harare,harare west
+2084,Sandton Park,House,140000.0,5,1,1000,harare,harare west
+2085,Nkwisi Gardens,House,80000.0,3,1,343,harare,harare west
+2086,Madokero,House,130000.0,4,2,398,harare,harare west
+2087,Highfield,House,25000.0,3,1,250,harare,harare high density
+2088,Suburbs,House,170000.0,4,2,1486,bulawayo,bulawayo east
+2089,Suburbs,House,170000.0,4,2,1487,bulawayo,bulawayo east
+2090,Mt Pleasant Heights,House,450000.0,5,1,3300,harare,harare west
+2091,Milton Park,House,375000.0,4,1,2200,harare,harare west
+2092,Emakhandeni,House,28000.0,3,1,250,bulawayo,bulawayo high density
+2093,Greystone Park,Townhouse Complex,300000.0,4,1,5900,harare,harare north
+2094,Mainway Meadows,House,110000.0,4,2,452,harare,harare south
+2095,Warren Park,House,45000.0,4,2,300,harare,harare high density
+2096,Old Windsor,House,125000.0,4,2,2000,ruwa,ruwa
+2097,Carrick Creagh,House,580000.0,5,6,4200,harare,harare north
+2098,The Grange,House,400000.0,5,1,4500,harare,harare north
+2099,Queens Park East,House,65000.0,1,2,1007,bulawayo,bulawayo north
+2100,Highlands,House,500000.0,4,2,4047,harare,harare north
+2101,Lochview,House,380000.0,3,3,28328,bulawayo,bulawayo east
+2102,Gletwin Park,House,480000.0,6,1,1980,harare,harare north
+2103,Mainway Meadows,House,130000.0,4,1,504,harare,harare south
+2104,Zengeza,Townhouse Complex,35000.0,3,1,176,chitungwiza,chitungwiza
+2105,Budiriro,House,29000.0,3,1,300,harare,harare high density
+2106,Prospect,House,200000.0,4,2,4047,harare,harare south
+2107,Gunhill,House,690000.0,4,4,3000,harare,harare north
+2108,Mount Pleasant Heights,House,350000.0,6,5,1819,harare,harare north
+2109,Ruwa,House,20000.0,4,1,200,ruwa,ruwa
+2110,Chitungwiza,House,25000.0,4,1,300,chitungwiza,chitungwiza
+2111,Chivhu,Townhouse Complex,35000.0,3,1,880,chivhu,chivhu
+2112,Budiriro,House,28000.0,2,1,400,harare,harare high density
+2113,St. Marys,House,19000.0,2,1,300,chitungwiza,chitungwiza
+2114,Selbourne Park,House,150000.0,4,1,1550,bulawayo,bulawayo east
+2115,Msasa Park,House,56500.0,2,1,420,harare,harare south
+2116,Gletwin Park,House,485000.0,3,1,2000,harare,harare north
+2117,Chisipite,House,840000.0,5,3,8000,harare,harare north
+2118,Greendale North,Townhouse Complex,170000.0,3,2,499,harare,harare north
+2119,Emganwini,House,40000.0,3,2,360,bulawayo,bulawayo high density
+2120,Arlington,House,160000.0,3,1,325,harare,harare south
+2121,Hogerty Hill,Townhouse Complex,320000.0,3,1,700,harare,harare north
+2122,Northlea,House,140000.0,4,2,6565,gweru,gweru
+2123,Chitungwiza,House,30000.0,6,1,300,chitungwiza,chitungwiza
+2124,Mt Pleasant Heights,House,440000.0,5,4,3300,harare,harare west
+2125,Zengeza,House,26000.0,3,2,166,chitungwiza,chitungwiza
+2126,Zengeza,House,18000.0,2,1,180,chitungwiza,chitungwiza
+2127,Glaudina,House,100000.0,4,1,1300,harare,harare west
+2128,Arlington,Townhouse Complex,130000.0,4,3,480,harare,harare south
+2129,Arlington,Townhouse Complex,160000.0,3,2,380,harare,harare south
+2130,Quinnington,House,485000.0,5,5,2076,harare,harare north
+2131,Greendale,House,420000.0,3,2,8400,harare,harare east
+2132,Mufakose,House,38000.0,5,1,180,harare,harare high density
+2133,Madokero,House,65000.0,4,1,400,harare,harare west
+2134,Zimre Park,House,65000.0,4,1,500,harare,harare east
+2135,Greendale North,Townhouse Complex,270000.0,3,2,500,harare,harare north
+2136,Cranborne,House,125000.0,3,1,747,harare,harare south
+2137,Norton,House,250000.0,4,1,4100,norton,norton
+2138,Southview Park,House,55000.0,4,2,250,harare,harare south
+2139,Carrick Creagh,Townhouse Complex,180000.0,5,1,550,harare,harare north
+2140,Chisipite,House,800000.0,4,4,7000,harare,harare north
+2141,Cowdray Park,House,25000.0,2,1,240,bulawayo,bulawayo high density
+2142,Zimre Park,House,115000.0,4,1,2000,harare,harare east
+2143,Norton,House,40000.0,1,1,2940,norton,norton
+2144,Zengeza,House,40000.0,3,1,400,chitungwiza,chitungwiza
+2145,Springvale,House,55000.0,4,1,300,ruwa,ruwa
+2146,Tynwald,House,65000.0,3,1,200,harare,harare west
+2147,Chipukutu Park,House,70000.0,4,1,800,ruwa,ruwa
+2148,Umwinsidale,House,1600000.0,5,3,20000,harare,harare north
+2149,Mabelreign,House,145000.0,3,1,1198,harare,harare west
+2150,Carrick Creagh,House,210000.0,5,1,617,harare,harare north
+2151,Kumalo,House,180000.0,4,1,1000,bulawayo,bulawayo east
+2152,Marlborough,House,150000.0,5,1,600,harare,harare west
+2153,Madokero,House,95000.0,3,1,370,harare,harare west
+2154,Tynwald,House,70000.0,3,1,500,harare,harare west
+2155,Prospect,Townhouse Complex,85655.0,3,1,4000,harare,harare south
+2156,Glen Norah,House,30000.0,2,1,224,harare,harare high density
+2157,Zengeza,House,45000.0,4,1,425,chitungwiza,chitungwiza
+2158,Westgate,House,150000.0,4,1,1000,harare,harare west
+2159,Tynwald,House,105000.0,3,2,432,harare,harare west
+2160,Mount Pleasant,House,400000.0,5,1,3800,harare,harare north
+2161,Glen View,House,26000.0,4,1,250,harare,harare high density
+2162,Greengrove,House,300000.0,4,1,4000,harare,harare east
+2163,Msasa Park,House,85000.0,3,1,700,harare,harare south
+2164,Warren Park,House,32000.0,4,1,300,harare,harare high density
+2165,Windsor Park,House,110000.0,3,1,1000,ruwa,ruwa
+2166,Rusape,House,100000.0,4,1,1500,rusape,rusape
+2167,Zimre Park,House,68000.0,4,1,150,harare,harare east
+2168,Ruwa,House,24000.0,4,1,240,ruwa,ruwa
+2169,Daylesford,Townhouse Complex,100000.0,3,1,300,gweru,gweru
+2170,Ruwa,House,22000.0,4,1,150,ruwa,ruwa
+2171,Kuwadzana,House,28000.0,3,1,150,harare,harare high density
+2172,Marlborough,House,395000.0,3,1,5191,harare,harare west
+2173,Mt Pleasant Heights,House,390000.0,8,1,2000,harare,harare west
+2174,Gweru CBD,House,85000.0,3,1,4000,gweru,gweru
+2175,Norton,House,75000.0,5,2,2064,norton,norton
+2176,Mabelreign,House,115000.0,3,1,993,harare,harare west
+2177,Dzivarasekwa,House,22000.0,3,1,400,harare,harare high density
+2178,Waterfalls,House,75000.0,2,1,2300,harare,harare south
+2179,Marlborough,House,300000.0,3,1,8094,harare,harare west
+2180,Bluff Hill,House,200000.0,3,2,2300,harare,harare west
+2181,Mabelreign,House,160000.0,4,1,1500,harare,harare west
+2182,Ashdown Park,House,160000.0,4,1,900,harare,harare west
+2183,Strathaven,Townhouse Complex,320000.0,5,5,500,harare,harare west
+2184,Mabelreign,House,165000.0,3,1,1313,harare,harare west
+2185,Ruwa,House,95000.0,4,1,400,ruwa,ruwa
+2186,Mount Pleasant,House,300000.0,4,1,4000,harare,harare north
+2187,New Marlborough,House,140000.0,3,2,650,harare,harare west
+2188,Newlands,House,250000.0,3,2,300,harare,harare north
+2189,Highlands,House,1500000.0,7,9,7000,harare,harare north
+2190,Mt Pleasant Heights,House,250000.0,4,1,2060,harare,harare west
+2191,Waterfalls,Townhouse Complex,99000.0,3,1,2600,harare,harare south
+2192,Kamfinsa,Townhouse Complex,130000.0,3,2,300,harare,harare east
+2193,Greendale,House,250000.0,4,2,500,harare,harare east
+2194,Aspindale Park,House,80000.0,3,2,200,harare,harare west
+2195,Park Meadowlands,House,140000.0,4,1,2000,harare,harare south
+2196,Zengeza,House,35000.0,5,2,300,chitungwiza,chitungwiza
+2197,Ashdown Park,House,450000.0,5,2,8140,harare,harare west
+2198,Damofalls,House,45000.0,4,1,450,damofalls,damofalls
+2199,Waterfalls,House,120000.0,3,1,2000,harare,harare south
+2200,Budiriro,House,18000.0,2,1,300,harare,harare high density
+2201,Norton,House,80000.0,3,1,2000,norton,norton
+2202,Hatfield,House,240000.0,4,1,5500,harare,harare south
+2203,KweKwe,House,23000.0,3,1,190,kwekwe,kwekwe
+2204,Glaudina,House,30000.0,4,1,324,harare,harare west
+2205,Waterfalls,House,140000.0,4,1,1139,harare,harare south
+2206,Waterfalls,House,190000.0,3,1,6023,harare,harare south
+2207,Damofalls,House,26000.0,3,1,304,damofalls,damofalls
+2208,Gletwin Park,House,430000.0,5,1,2000,harare,harare north
+2209,Ashdown Park,House,68000.0,3,1,630,harare,harare west
+2210,Lundi Park,House,60000.0,3,1,817,gweru,gweru
+2211,Gweru CBD,House,100000.0,4,1,1250,gweru,gweru
+2212,Charlotte Brooke,House,130000.0,3,1,1200,harare,harare north
+2213,Mount Pleasant Heights,House,360000.0,5,1,1800,harare,harare north
+2214,Mabelreign,House,140000.0,2,1,895,harare,harare west
+2215,Tynwald,House,130000.0,4,1,350,harare,harare west
+2216,Marlborough,House,150000.0,3,1,3000,harare,harare west
+2217,Norton,House,38000.0,3,1,1200,norton,norton
+2218,Northwood,House,260000.0,3,1,440,harare,harare north
+2219,Gletwin Park,House,400000.0,6,1,2300,harare,harare north
+2220,Kuwadzana,House,35000.0,4,1,190,harare,harare high density
+2221,Chitungwiza,House,25000.0,2,1,200,chitungwiza,chitungwiza
+2222,Greystone Park,House,300000.0,6,1,4000,harare,harare north
+2223,Aspindale Park,House,85000.0,4,1,200,harare,harare west
+2224,Westlea,House,55000.0,3,1,700,harare,harare west
+2225,Southview Park,House,46000.0,5,1,250,harare,harare south
+2226,Budiriro,House,28000.0,2,1,300,harare,harare high density
+2227,Glaudina,House,40000.0,3,1,200,harare,harare west
+2228,Kuwadzana,House,42000.0,5,1,280,harare,harare high density
+2229,Ruwa,House,20000.0,4,1,150,ruwa,ruwa
+2230,Hillside,House,230000.0,4,2,4047,bulawayo,bulawayo south
+2231,Matsheumhlope,House,105000.0,3,1,830,bulawayo,bulawayo east
+2232,Matsheumhlope,Townhouse Complex,105000.0,3,1,830,bulawayo,bulawayo east
+2233,Shawasha Hills,House,160000.0,3,1,2000,harare,harare north
+2234,Morningside,House,100000.0,3,1,1400,bulawayo,bulawayo south
+2235,Hillside,Townhouse Complex,95000.0,2,1,800,bulawayo,bulawayo south
+2236,Matsheumhlope,House,150000.0,2,1,4000,bulawayo,bulawayo east
+2237,Glen View,House,35000.0,4,1,300,harare,harare high density
+2238,Arlington,House,160000.0,3,1,360,harare,harare south
+2239,Marlborough,House,950000.0,1,9,8239,harare,harare west
+2240,Zimre Park,House,100000.0,4,3,1000,harare,harare east
+2241,Upper Hillside,House,230000.0,3,1,2277,harare,harare east
+2242,Chitungwiza,House,32000.0,6,1,375,chitungwiza,chitungwiza
+2243,Glen Lorne,House,300000.0,3,1,2000,harare,harare north
+2244,Monavale,Townhouse Complex,210000.0,4,2,320,harare,harare west
+2245,Mount Pleasant,Townhouse Complex,280000.0,3,1,300,harare,harare north
+2246,Aspindale Park,House,70000.0,4,1,240,harare,harare west
+2247,Chisipite,House,460000.0,4,1,4100,harare,harare north
+2248,Kuwadzana,House,30000.0,2,1,300,harare,harare high density
+2249,Hatcliffe,House,35000.0,3,2,300,harare,harare high density
+2250,Msasa Park,House,65000.0,3,2,600,harare,harare south
+2251,Seke,House,80000.0,4,3,800,seke,seke
+2252,Palmerston,House,120000.0,3,1,1350,mutare,mutare
+2253,Emerald Hill,House,430000.0,4,3,1290,harare,harare west
+2254,Mahatshula,House,30000.0,3,2,600,bulawayo,bulawayo north
+2255,Zimre Park,House,61000.0,3,2,500,harare,harare east
+2256,Eastlea,House,215000.0,4,1,1000,harare,harare east
+2257,Murambi,House,400000.0,4,1,4141,mutare,mutare
+2258,Borrowdale,House,450000.0,1,1,2000,harare,harare north
+2259,Arlington,House,155000.0,4,2,600,harare,harare south
+2260,Hatcliffe,House,30000.0,3,2,240,harare,harare high density
+2261,Murambi,House,185000.0,4,2,4000,mutare,mutare
+2262,Belvedere,House,160000.0,4,2,1300,harare,harare west
+2263,Arlington,House,180000.0,4,2,600,harare,harare south
+2264,Glen Lorne,House,650000.0,6,1,5000,harare,harare north
+2265,Prospect,House,110000.0,3,2,1000,harare,harare south
+2266,Chitungwiza,House,35000.0,4,1,391,chitungwiza,chitungwiza
+2267,Charlotte Brooke,House,90000.0,4,1,1000,harare,harare north
+2268,Arlington,Townhouse Complex,155000.0,3,1,360,harare,harare south
+2269,Hillside,House,280000.0,4,1,1500,harare,harare south
+2270,Bulawayo City Centre,House,299000.0,2,2,800,bulawayo,bulawayo cbd industrial
+2271,Highlands,Townhouse Complex,180000.0,3,2,300,harare,harare north
+2272,Norton,House,26000.0,2,1,200,norton,norton
+2273,Belvedere,House,360000.0,7,1,1400,harare,harare west
+2274,Zimre Park,House,75000.0,4,2,500,harare,harare east
+2275,Queensdale,House,135000.0,3,1,2000,harare,harare south
+2276,Belvedere,House,186000.0,3,1,1350,harare,harare west
+2277,Burnside,House,260000.0,4,2,10000,bulawayo,bulawayo east
+2278,Buena Vista,House,270000.0,5,1,13591,bulawayo,bulawayo east
+2279,Borrowdale,House,300000.0,3,1,700,harare,harare north
+2280,Burnside,House,295000.0,4,1,8000,bulawayo,bulawayo east
+2281,Park Meadowlands,House,72000.0,6,2,1600,harare,harare south
+2282,Burnside,House,250000.0,3,1,4000,bulawayo,bulawayo east
+2283,Borrowdale,House,360000.0,3,2,7000,harare,harare north
+2284,Chitungwiza,House,28000.0,4,1,200,chitungwiza,chitungwiza
+2285,Greystone Park,House,600000.0,5,1,4047,harare,harare north
+2286,Madokero,House,100000.0,2,2,360,harare,harare west
+2287,Nkulumane,House,21000.0,2,1,200,bulawayo,bulawayo high density
+2288,St. Marys,House,35000.0,2,2,300,chitungwiza,chitungwiza
+2289,Redcliff,House,16000.0,2,1,350,redcliff,redcliff
+2290,Adelaide Park,House,27000.0,2,1,200,harare,harare high density
+2291,Shawasha Hills,House,470000.0,5,2,2000,harare,harare north
+2292,Southlea Park,House,27000.0,3,2,300,harare,harare south
+2293,Zimre Park,Townhouse Complex,90000.0,4,2,900,harare,harare east
+2294,Selbourne Park,House,155000.0,3,1,1700,bulawayo,bulawayo east
+2295,Helensvale,Townhouse Complex,340000.0,3,1,200,harare,harare north
+2296,Chisipite,Townhouse Complex,550000.0,3,1,3713,harare,harare north
+2297,Arlington,Townhouse Complex,160000.0,3,2,320,harare,harare south
+2298,Vainona,Townhouse Complex,250000.0,3,1,6000,harare,harare north
+2299,Waterfalls,House,115000.0,3,1,2000,harare,harare south
+2300,Norton,House,43000.0,3,1,2000,norton,norton
+2301,Waterfalls,House,85000.0,3,1,1000,harare,harare south
+2302,Burnside,House,650000.0,4,2,4000,bulawayo,bulawayo east
+2303,Gunhill,House,775000.0,5,3,3516,harare,harare north
+2304,Rydale Ridge Park,House,80000.0,5,1,2400,harare,harare west
+2305,Helensvale,Townhouse Complex,3200000.0,3,2,16187,harare,harare north
+2306,Rockview,House,40000.0,6,4,256,harare,harare east
+2307,Glen View,House,26000.0,5,1,230,harare,harare high density
+2308,Cowdray Park,House,18000.0,2,1,200,bulawayo,bulawayo high density
+2309,Waterfalls,House,100000.0,4,1,960,harare,harare south
+2310,Shawasha Hills,House,365000.0,5,1,6306,harare,harare north
+2311,Cowdray Park,House,28000.0,3,1,260,bulawayo,bulawayo high density
+2312,Chivhu,House,28000.0,3,2,300,chivhu,chivhu
+2313,Borrowdale,House,575000.0,8,1,2000,harare,harare north
+2314,Mufakose,House,21000.0,2,1,200,harare,harare high density
+2315,Waterfalls,House,235000.0,7,4,4046,harare,harare south
+2316,Zimre Park,House,220000.0,4,1,2000,harare,harare east
+2317,Chitungwiza,House,20000.0,3,1,299,chitungwiza,chitungwiza
+2318,Adylinn,House,160000.0,3,1,1000,harare,harare west
+2319,Bluff Hill,House,115000.0,3,1,1000,harare,harare west
+2320,Westgate,House,125000.0,3,1,800,harare,harare west
+2321,Philadelphia,House,350000.0,5,1,2316,harare,harare north
+2322,Crowhill Views,House,90000.0,4,2,1000,harare,harare north
+2323,Helensvale,Townhouse Complex,3000000.0,3,1,2250,harare,harare north
+2324,Borrowdale Brooke,House,1500000.0,6,6,2400,harare,harare north
+2325,Hatfield,House,100000.0,3,2,2068,harare,harare south
+2326,Marondera,House,25000.0,3,2,200,marondera,marondera
+2327,Umzingwane,House,25000.0,3,1,300,umzingwane,umzingwane
+2328,Newton West,House,115000.0,3,1,9604,bulawayo,bulawayo south
+2329,Chitungwiza,House,30000.0,4,1,199,chitungwiza,chitungwiza
+2330,Eloana,House,130000.0,4,4,4046,bulawayo,bulawayo south
+2331,Macheke,House,40000.0,3,1,2500,macheke,macheke
+2332,Vainona,House,750000.0,4,5,8200,harare,harare north
+2333,Aspindale Park,House,75000.0,3,2,200,harare,harare west
+2334,Quinnington,House,160000.0,3,1,2000,harare,harare north
+2335,Borrowdale,Townhouse Complex,315000.0,3,1,700,harare,harare north
+2336,Springvale,House,58000.0,3,2,300,ruwa,ruwa
+2337,Marlborough,Townhouse Complex,100000.0,2,1,100,harare,harare west
+2338,Avondale,House,750000.0,5,4,4047,harare,harare north
+2339,Suburbs,House,260000.0,4,2,744,bulawayo,bulawayo east
+2340,Westlea,House,210000.0,7,4,900,mutare,mutare
+2341,Sandton Park,House,105000.0,5,1,1000,harare,harare west
+2342,Glen View,House,30000.0,5,2,300,harare,harare high density
+2343,Belvedere,House,187000.0,3,2,1352,harare,harare west
+2344,Mabelreign,House,100000.0,3,1,900,harare,harare west
+2345,Crowhill Views,House,67000.0,4,1,1200,harare,harare north
+2346,Harare City Centre,Townhouse Complex,490000.0,6,2,1200,harare,harare cbd
+2347,Glen View,House,25000.0,4,1,200,harare,harare high density
+2348,Damofalls,House,35000.0,3,1,200,damofalls,damofalls
+2349,Quinnington,House,350000.0,3,3,1300,harare,harare north
+2350,Manresa,House,95000.0,3,1,570,harare,harare east
+2351,Newlands,House,1800000.0,4,3,5200,harare,harare north
+2352,Burnside,House,399000.0,5,1,4000,bulawayo,bulawayo east
+2353,Glen View,House,57000.0,4,1,600,harare,harare high density
+2354,Barham Green,House,80000.0,3,1,1013,bulawayo,bulawayo south
+2355,Msasa Park,House,80000.0,4,2,400,harare,harare south
+2356,Chinhoyi,House,16000.0,4,1,325,chinhoyi,chinhoyi
+2357,Queens Park West,Townhouse Complex,380000.0,3,1,200,bulawayo,bulawayo north
+2358,Parklands,House,210000.0,7,1,1300,bulawayo,bulawayo east
+2359,Thorngrove,House,30000.0,3,1,400,bulawayo,bulawayo cbd industrial
+2360,Arlington,House,150000.0,2,1,300,harare,harare south
+2361,Kumalo,House,350000.0,5,1,4000,bulawayo,bulawayo east
+2362,Selbourne Park,House,200000.0,5,1,1800,bulawayo,bulawayo east
+2363,Burnside,House,180000.0,4,3,4532,bulawayo,bulawayo east
+2364,Westlea,House,110000.0,4,3,740,harare,harare west
+2365,Buena Vista,Townhouse Complex,112000.0,3,1,8000,bulawayo,bulawayo east
+2366,Chadcombe,House,150000.0,5,2,4129,harare,harare south
+2367,Hillside,Townhouse Complex,98000.0,2,1,400,bulawayo,bulawayo south
+2368,Westgate,House,220000.0,3,1,800,harare,harare west
+2369,Crowhill Views,House,85000.0,4,1,1000,harare,harare north
+2370,Westgate,House,200000.0,4,1,570,harare,harare west
+2371,Bloomingdale,House,85000.0,3,2,400,harare,harare west
+2372,Norton,House,160000.0,4,3,2200,norton,norton
+2373,Ruwa,House,110000.0,3,2,420,ruwa,ruwa
+2374,Palmerston,House,130000.0,4,2,2030,mutare,mutare
+2375,Rydale Ridge,House,120000.0,8,3,2400,harare,harare high density
+2376,Glaudina,House,69000.0,3,1,900,harare,harare west
+2377,Burnside,House,430000.0,5,1,4000,bulawayo,bulawayo east
+2378,Chitungwiza,House,46000.0,4,2,350,chitungwiza,chitungwiza
+2379,Mount Pleasant Heights,House,260000.0,4,1,1800,harare,harare north
+2380,Chisipite,House,587000.0,5,6,2000,harare,harare north
+2381,Waterfalls,House,140000.0,5,1,2000,harare,harare south
+2382,Aspindale Park,House,76000.0,4,1,200,harare,harare west
+2383,Suburbs,House,150000.0,3,2,1400,bulawayo,bulawayo east
+2384,Zengeza,House,22000.0,3,1,300,chitungwiza,chitungwiza
+2385,Famona,House,65000.0,3,1,637,bulawayo,bulawayo south
+2386,Budiriro,House,45000.0,5,1,300,harare,harare high density
+2387,Helensvale,House,380000.0,4,1,4230,harare,harare north
+2388,Matidoda,House,75000.0,3,1,400,harare,harare west
+2389,Emerald Hill,House,290000.0,4,1,1980,harare,harare west
+2390,Dangamvura,House,27000.0,3,1,300,mutare,mutare
+2391,Carrick Creagh,House,245000.0,4,1,4000,harare,harare north
+2392,Shawasha Hills,House,500000.0,5,1,2000,harare,harare north
+2393,Bluff Hill,Townhouse Complex,130000.0,4,1,400,harare,harare west
+2394,Buena Vista,House,270000.0,6,3,7585,bulawayo,bulawayo east
+2395,Damofalls,House,30000.0,5,2,300,damofalls,damofalls
+2396,Mount Pleasant Heights,House,125000.0,3,2,1800,harare,harare north
+2397,Vainona,House,700000.0,1,3,8400,harare,harare north
+2398,Bluff Hill,Townhouse Complex,130000.0,4,2,300,harare,harare west
+2399,Shawasha Hills,House,420000.0,4,4,1800,harare,harare north
+2400,Ruwa,House,68000.0,4,3,600,ruwa,ruwa
+2401,Richmond,House,75000.0,3,1,2000,bulawayo,bulawayo north
+2402,Bellevue,House,68000.0,3,1,2974,bulawayo,bulawayo south
+2403,Avondale,House,410000.0,3,2,2308,harare,harare north
+2404,Zengeza,House,60000.0,4,1,650,chitungwiza,chitungwiza
+2405,Northwood,House,800000.0,7,6,4674,harare,harare north
+2406,Budiriro,House,45000.0,4,2,300,harare,harare high density
+2407,Msasa Park,House,65000.0,3,1,600,harare,harare south
+2408,Borrowdale,House,550000.0,4,1,4000,harare,harare north
+2409,Waterfalls,House,110000.0,3,1,2000,harare,harare south
+2410,Highlands,Townhouse Complex,220000.0,3,2,4046,harare,harare north
+2411,Greendale,Townhouse Complex,200000.0,3,1,459,harare,harare east
+2412,Northlea,House,45000.0,3,1,1200,gweru,gweru
+2413,Northwood,House,375000.0,3,1,4668,harare,harare north
+2414,Southerton,House,65000.0,3,1,500,harare,harare south
+2415,Mbare,House,35000.0,3,1,300,harare,harare high density
+2416,Mount Pleasant,House,360000.0,3,1,4000,harare,harare north
+2417,Chirundu,House,120000.0,5,2,4203,chirundu,chirundu
+2418,Waterfalls,House,115000.0,3,1,2000,harare,harare south
+2419,Glen Lorne,House,450000.0,4,1,4000,harare,harare north
+2420,Nkulumane,House,20000.0,1,1,180,bulawayo,bulawayo high density
+2421,Westgate,House,100000.0,5,2,1170,harare,harare west
+2422,Buena Vista,House,280000.0,5,3,7518,bulawayo,bulawayo east
+2423,Hatfield,House,140000.0,5,1,2100,harare,harare south
+2424,Kingsdale,House,80000.0,3,1,4000,bulawayo,bulawayo north
+2425,Victoria Falls,House,250000.0,5,3,3701,victoria,victoria falls
+2426,Ilanda,House,150000.0,4,1,2163,bulawayo,bulawayo east
+2427,Entumbane,House,32000.0,4,1,204,bulawayo,bulawayo north
+2428,Pumula South,House,29000.0,3,1,200,bulawayo,bulawayo high density
+2429,Kumalo,House,160000.0,4,1,2260,bulawayo,bulawayo east
+2430,Nkulumane,House,35000.0,3,1,250,bulawayo,bulawayo high density
+2431,Borrowdale,House,750000.0,9,5,4000,harare,harare north
+2432,Sandton Park,House,90000.0,3,1,1835,harare,harare west
+2433,Ruwa,House,105000.0,3,1,1178,ruwa,ruwa
+2434,Glen Lorne,House,950000.0,1,6,6330,harare,harare north
+2435,Southwold,House,55000.0,3,1,900,bulawayo,bulawayo south
+2436,Pumula South,House,25000.0,3,1,200,bulawayo,bulawayo high density
+2437,Kumalo,House,300000.0,5,1,3000,bulawayo,bulawayo east
+2438,Emganwini,House,25000.0,3,1,456,bulawayo,bulawayo high density
+2439,Emganwini,House,22000.0,2,1,300,bulawayo,bulawayo high density
+2440,Cowdray Park,House,24000.0,3,1,200,bulawayo,bulawayo high density
+2441,Tshabalala,House,26000.0,4,1,200,bulawayo,bulawayo high density
+2442,Avenues,House,220000.0,5,1,5300,mutare,mutare
+2443,Hogerty Hill,House,770000.0,6,1,4000,harare,harare north
+2444,Marimba Park,House,110000.0,4,1,3173,harare,harare high density
+2445,Queensdale,House,140000.0,3,1,1983,harare,harare south
+2446,Selbourne Park,House,220000.0,5,5,1575,bulawayo,bulawayo east
+2447,Mainway Meadows,House,115000.0,4,1,647,harare,harare south
+2448,Norton,House,52000.0,3,2,2000,norton,norton
+2449,Park Meadowlands,House,140000.0,4,1,2000,harare,harare south
+2450,Murambi,House,480000.0,5,1,6939,mutare,mutare
+2451,Emerald Hill,House,350000.0,4,1,4000,harare,harare west
+2452,Avondale West,House,280000.0,4,1,1700,harare,harare west
+2453,Rydale Ridge Park,House,21000.0,4,1,300,harare,harare west
+2454,Zengeza,House,20000.0,2,1,250,chitungwiza,chitungwiza
+2455,Helensvale,Townhouse Complex,160000.0,3,1,4046,harare,harare north
+2456,Avondale,House,750000.0,5,1,4047,harare,harare north
+2457,Greencroft,House,280000.0,4,1,5335,harare,harare west
+2458,Msuna,House,275000.0,8,8,4046,msuna,msuna
+2459,Hillside,House,180000.0,4,1,4000,bulawayo,bulawayo south
+2460,Warren Park,House,55000.0,8,2,327,harare,harare high density
+2461,Hatfield,House,105000.0,3,1,2100,harare,harare south
+2462,Borrowdale,House,550000.0,6,4,6407,harare,harare north
+2463,Marimba Park,House,100000.0,5,1,3200,harare,harare high density
+2464,Borrowdale,House,460000.0,4,4,4000,harare,harare north
+2465,Matsheumhlope,House,300000.0,3,1,4000,bulawayo,bulawayo east
+2466,Burnside,House,290000.0,4,1,8000,bulawayo,bulawayo east
+2467,Riverside South,Townhouse Complex,160000.0,2,1,4000,bulawayo,bulawayo east
+2468,Nkulumane,House,35000.0,4,1,300,bulawayo,bulawayo high density
+2469,Selbourne Park,House,150000.0,4,2,1550,bulawayo,bulawayo east
+2470,Norton,House,145000.0,8,2,2400,norton,norton
+2471,Manyame Park,House,25000.0,4,1,200,chitungwiza,chitungwiza
+2472,Zimre Park,House,75000.0,3,1,500,harare,harare east
+2473,Mbizo,House,26000.0,3,2,300,kwekwe,kwekwe
+2474,Chitungwiza,House,28000.0,3,1,200,chitungwiza,chitungwiza
+2475,Highlands,House,790000.0,5,6,3988,harare,harare north
+2476,Warren Park,House,60000.0,3,1,200,harare,harare high density
+2477,Burnside,House,650000.0,6,1,4000,bulawayo,bulawayo east
+2478,Burnside,House,430000.0,5,1,4000,bulawayo,bulawayo east
+2479,Luveve,House,15500.0,2,1,200,bulawayo,bulawayo high density
+2480,Queens Park West,House,78000.0,4,1,1300,bulawayo,bulawayo north
+2481,Paddonhurst,House,60000.0,2,1,625,bulawayo,bulawayo north
+2482,Warren Park,House,45000.0,4,1,350,harare,harare high density
+2483,Chitungwiza,House,20000.0,5,1,2000,chitungwiza,chitungwiza
+2484,Bloomingdale,House,130000.0,3,2,400,harare,harare west
+2485,Hillside,Townhouse Complex,160000.0,3,2,4046,bulawayo,bulawayo south
+2486,Budiriro,House,40000.0,5,2,300,harare,harare high density
+2487,Bluff Hill,Townhouse Complex,135000.0,4,4,500,harare,harare west
+2488,Charlotte Brooke,House,88000.0,4,2,1509,harare,harare north
+2489,Glen Lorne,House,650000.0,7,7,14500,harare,harare north
+2490,Waterfalls,House,75000.0,3,1,999,harare,harare south
+2491,Zimre Park,House,85000.0,3,1,500,harare,harare east
+2492,Glaudina,House,73000.0,5,1,375,harare,harare west
+2493,Borrowdale,House,1500000.0,4,4,10600,harare,harare north
+2494,Ruwa,House,30000.0,4,1,323,ruwa,ruwa
+2495,Waterfalls,House,75000.0,3,1,531,harare,harare south
+2496,Hatfield,Townhouse Complex,150000.0,4,1,500,harare,harare south
+2497,Tynwald,House,110000.0,3,1,407,harare,harare west
+2498,Burnside,House,475000.0,4,1,12140,bulawayo,bulawayo east
+2499,Mandara,House,300000.0,4,2,4047,harare,harare east
+2500,Mufakose,House,23000.0,2,1,300,harare,harare high density
+2501,Dzivarasekwa,House,26000.0,3,1,200,harare,harare high density
+2502,Carrick Creagh,House,1900000.0,8,1,4000,harare,harare north
+2503,Zengeza,House,21500.0,2,1,198,chitungwiza,chitungwiza
+2504,Philadelphia,Townhouse Complex,260000.0,4,1,500,harare,harare north
+2505,Avondale,House,1100000.0,3,2,10000,harare,harare north
+2506,Kadoma,House,100000.0,5,1,4000,kadoma,kadoma
+2507,Rydale Ridge,House,22000.0,4,1,300,harare,harare high density
+2508,Glen View,House,40000.0,2,1,608,harare,harare high density
+2509,Romney Park,House,110000.0,3,2,856,bulawayo,bulawayo north
+2510,Chitungwiza,House,30000.0,4,2,320,chitungwiza,chitungwiza
+2511,Monavale,House,125000.0,3,2,1175,harare,harare west
+2512,Philadelphia,House,790000.0,6,8,5600,harare,harare north
+2513,Dzivarasekwa,House,50000.0,4,2,350,harare,harare high density
+2514,Manyame Park,House,140000.0,7,3,5300,chitungwiza,chitungwiza
+2515,Highlands,House,900000.0,4,7,16481,harare,harare north
+2516,Belvedere,House,370000.0,4,2,1435,harare,harare west
+2517,Whitecliff,House,45000.0,3,3,1999,harare,harare west
+2518,Southlea Park,House,42000.0,3,1,200,harare,harare south
+2519,Borrowdale,House,200000.0,3,1,800,harare,harare north
+2520,Rockview,House,65000.0,4,2,1000,harare,harare east
+2521,Westlea,House,75000.0,4,3,750,harare,harare west
+2522,Greendale,Townhouse Complex,135000.0,3,2,6020,harare,harare east
+2523,Lake Chivero,Townhouse Complex,165000.0,3,1,1000,lake,lake chivero
+2524,Philadelphia,House,400000.0,4,2,1000,harare,harare north
+2525,Sandton Park,House,75000.0,4,4,2100,harare,harare west
+2526,Philadelphia,House,750000.0,5,3,7500,harare,harare north
+2527,Madokero,House,118000.0,4,1,400,harare,harare west
+2528,Crowhill Views,House,220000.0,3,3,1000,harare,harare north
+2529,Arlington,House,147000.0,4,1,620,harare,harare south
+2530,Helensvale,House,400000.0,4,1,6000,harare,harare north
+2531,Ballantyne Park,House,500000.0,5,2,1000,harare,harare north
+2532,Marlborough,House,400000.0,4,1,4000,harare,harare west
+2533,Mandara,House,450000.0,4,1,2000,harare,harare east
+2534,Prospect,House,130000.0,4,1,2300,harare,harare south
+2535,Borrowdale Brooke,House,700000.0,5,1,1340,harare,harare north
+2536,Glen View,House,58000.0,4,2,400,harare,harare high density
+2537,Windsor Park,Townhouse Complex,155000.0,4,1,2382,ruwa,ruwa
+2538,Zengeza,House,28000.0,4,2,250,chitungwiza,chitungwiza
+2539,Hatfield,House,170000.0,4,1,4050,harare,harare south
+2540,Damofalls,House,23000.0,3,1,338,damofalls,damofalls
+2541,Ruwa,House,140000.0,4,1,450,ruwa,ruwa
+2542,Westgate,House,132000.0,3,2,800,harare,harare west
+2543,Crowborough,House,40000.0,3,1,150,harare,harare high density
+2544,Kuwadzana,House,46000.0,4,1,200,harare,harare high density
+2545,Goromonzi,House,45000.0,3,1,701,goromonzi,goromonzi
+2546,Madokero,House,120000.0,3,2,400,harare,harare west
+2547,Waterfalls,House,150000.0,2,2,2229,harare,harare south
+2548,Riverside North,House,130000.0,4,2,4937,bulawayo,bulawayo east
+2549,Budiriro,House,44000.0,3,1,460,harare,harare high density
+2550,Charlotte Brooke,House,100000.0,4,1,1000,harare,harare north
+2551,Budiriro,House,39000.0,4,1,264,harare,harare high density
+2552,Highlands,House,405000.0,4,1,4300,harare,harare north
+2553,Dzivarasekwa,House,30000.0,3,1,150,harare,harare high density
+2554,Tynwald,House,130000.0,3,2,400,harare,harare west
+2555,Old Windsor,House,43000.0,4,1,550,ruwa,ruwa
+2556,Southview Park,House,50000.0,4,2,200,harare,harare south
+2557,Borrowdale,House,600000.0,4,3,4088,harare,harare north
+2558,Avonlea,House,150000.0,4,1,1073,harare,harare west
+2559,Chisipite,House,400000.0,5,2,2000,harare,harare north
+2560,Mount Pleasant,Townhouse Complex,300000.0,3,1,500,harare,harare north
+2561,Highfield,House,35000.0,2,1,690,harare,harare high density
+2562,Kuwadzana,House,60000.0,4,1,300,harare,harare high density
+2563,Esigodini,House,19000.0,2,1,2200,bulawayo,bulawayo east
+2564,Northwood,Townhouse Complex,260000.0,3,3,570,harare,harare north
+2565,Tynwald,Townhouse Complex,75000.0,3,1,400,harare,harare west
+2566,Chitungwiza,House,33000.0,4,2,221,chitungwiza,chitungwiza
+2567,Damofalls,House,65000.0,3,3,300,damofalls,damofalls
+2568,Westgate,House,140000.0,6,1,2140,harare,harare west
+2569,Waterfalls,House,200000.0,7,1,2151,harare,harare south
+2570,Mount Pleasant,Townhouse Complex,330000.0,4,1,4046,harare,harare north
+2571,Manresa,House,170000.0,6,1,2010,harare,harare east
+2572,Ruwa,House,95000.0,4,1,400,ruwa,ruwa
+2573,Borrowdale Brooke,House,1350000.0,4,3,4595,harare,harare north
+2574,Kuwadzana,Townhouse Complex,20000.0,1,1,150,harare,harare high density
+2575,Greendale,Townhouse Complex,170000.0,4,4,8000,harare,harare east
+2576,Haydon Park,House,130000.0,6,5,2000,harare,harare west
+2577,Aspindale Park,House,65000.0,4,1,200,harare,harare west
+2578,Ruwa,House,48000.0,5,2,600,ruwa,ruwa
+2579,Milton Park,House,390000.0,3,1,2700,harare,harare west
+2580,Sandton Park,House,100000.0,4,3,1000,harare,harare west
+2581,Budiriro,House,55000.0,4,1,300,harare,harare high density
+2582,Chisipite,House,540000.0,3,1,4853,harare,harare north
+2583,Mt Hampden,House,130000.0,6,1,895,harare,harare west
+2584,Kuwadzana,House,27000.0,3,1,179,harare,harare high density
+2585,Prospect,Townhouse Complex,750000.0,4,2,8000,harare,harare south
+2586,Arlington,House,180000.0,3,3,400,harare,harare south
+2587,Cotswold Hills,House,150000.0,3,1,1041,harare,harare west
+2588,Haydon Park,House,115000.0,4,1,895,harare,harare west
+2589,Haydon Park,House,115000.0,4,2,895,harare,harare west
+2590,Waterfalls,Townhouse Complex,90000.0,3,2,1000,harare,harare south
+2591,Haydon Park,House,100000.0,6,3,900,harare,harare west
+2592,Ruwa,House,150000.0,4,5,500,ruwa,ruwa
+2593,Southlea Park,House,65000.0,4,1,1000,harare,harare south
+2594,Murambi,House,180000.0,4,2,3500,mutare,mutare
+2595,New Marlborough,House,100000.0,4,2,600,harare,harare west
+2596,Haig Park,House,110000.0,5,2,1000,harare,harare west
+2597,Kariba,House,30000.0,3,1,300,kariba,kariba
+2598,Windsor Park,House,46000.0,4,1,540,ruwa,ruwa
+2599,Zimre Park,House,124000.0,4,2,984,harare,harare east
+2600,Bluff Hill,Townhouse Complex,80000.0,2,1,12000,harare,harare west
+2601,Damofalls,House,25000.0,4,2,300,damofalls,damofalls
+2602,Mabvuku,House,18000.0,4,1,200,harare,harare high density
+2603,Bluff Hill,House,160000.0,4,1,950,harare,harare west
+2604,Hillside,House,230000.0,4,1,4300,bulawayo,bulawayo south
+2605,Waterfalls,House,200000.0,3,1,6025,harare,harare south
+2606,Suburbs,House,160000.0,2,2,1117,bulawayo,bulawayo east
+2607,Avondale West,House,200000.0,4,2,4000,harare,harare west
+2608,Budiriro,House,50000.0,5,1,350,harare,harare high density
+2609,Westgate,House,70000.0,4,2,2000,harare,harare west
+2610,Sunridge,Townhouse Complex,165000.0,3,3,499,harare,harare west
+2611,Chisipite,House,475000.0,3,2,4046,harare,harare north
+2612,Nyanga,House,170000.0,3,1,119000,nyanga,nyanga
+2613,Norton,House,95000.0,2,2,4486,norton,norton
+2614,Rockview,House,100000.0,4,2,1182,harare,harare east
+2615,Fairview,House,75000.0,2,1,1000,harare,harare west
+2616,Borrowdale,Townhouse Complex,400000.0,4,4,500,harare,harare north
+2617,Haydon Park,House,84000.0,4,3,1000,harare,harare west
+2618,Granary Park,House,24000.0,1,1,300,harare,harare high density
+2619,Gletwin Park,House,380000.0,6,8,2000,harare,harare north
+2620,Kariba,House,350000.0,4,3,3426,kariba,kariba
+2621,Zvishavane,House,95000.0,3,1,1000,zvishavane,zvishavane
+2622,Hillside,House,170000.0,4,1,9400,bulawayo,bulawayo south
+2623,Greystone Park,House,450000.0,4,1,4400,harare,harare north
+2624,Kamfinsa,Townhouse Complex,150000.0,3,1,500,harare,harare east
+2625,Kamfinsa,Townhouse Complex,130000.0,3,1,500,harare,harare east
+2626,Quinnington,House,428000.0,4,3,1550,harare,harare north
+2627,Kuwadzana,House,42000.0,3,1,149,harare,harare high density
+2628,Daylesford,House,150000.0,4,2,4000,gweru,gweru
+2629,Quinnington,House,500000.0,5,4,2076,harare,harare north
+2630,Fairview,House,150000.0,4,3,1000,harare,harare west
+2631,Quinnington,House,500000.0,5,4,2076,harare,harare north
+2632,Hatfield,House,230000.0,4,1,5500,harare,harare south
+2633,Borrowdale,House,900000.0,7,5,4046,harare,harare north
+2634,Zimre Park,House,70000.0,4,2,700,harare,harare east
+2635,Hatfield,House,240000.0,3,2,5888,harare,harare south
+2636,Parklands,House,88000.0,4,2,1328,bulawayo,bulawayo east
+2637,Chitungwiza,House,70000.0,5,2,800,chitungwiza,chitungwiza
+2638,Arlington,House,139000.0,4,2,600,harare,harare south
+2639,Mkoba,House,19500.0,3,1,170,gweru,gweru
+2640,Mkoba,House,35000.0,3,1,300,gweru,gweru
+2641,Palmerston,House,120000.0,4,2,2000,mutare,mutare
+2642,Mainway Meadows,House,49000.0,4,2,548,harare,harare south
+2643,Madokero,House,100000.0,4,2,590,harare,harare west
+2644,Mount Pleasant,House,370000.0,5,2,4714,harare,harare north
+2645,Dangamvura,House,25000.0,3,1,300,mutare,mutare
+2646,Springvale,House,45000.0,6,3,600,ruwa,ruwa
+2647,Rusape,House,70000.0,5,3,3000,rusape,rusape
+2648,Cold Comfort,House,65000.0,4,1,475,harare,harare west
+2649,Rhodene,House,190000.0,5,1,2516,masvingo,masvingo
+2650,Colne Valley,House,850000.0,5,3,4046,harare,harare north
+2651,Gletwin Park,House,400000.0,6,4,4046,harare,harare north
+2652,Mufakose,House,28000.0,3,1,200,harare,harare high density
+2653,Norton,House,95000.0,6,3,3868,norton,norton
+2654,ZIMRE Park,House,85000.0,6,3,2350,masvingo,masvingo
+2655,Newlands,House,370000.0,4,1,4000,harare,harare north
+2656,Kadoma,House,130000.0,5,2,4639,kadoma,kadoma
+2657,Hillside,House,180000.0,4,2,9400,bulawayo,bulawayo south
+2658,Greendale North,House,1200000.0,7,4,4000,harare,harare north
+2659,Richmond,House,70000.0,3,1,4046,bulawayo,bulawayo north
+2660,Zimre Park,House,55000.0,4,2,688,harare,harare east
+2661,Chitungwiza,House,56000.0,4,2,2000,chitungwiza,chitungwiza
+2662,Madokero,Townhouse Complex,95000.0,4,2,450,harare,harare west
+2663,Glen View,House,35000.0,4,1,230,harare,harare high density
+2664,Eastlea,House,260000.0,3,1,1404,harare,harare east
+2665,Mazvikadei,House,200000.0,3,3,5628,mazvikadei,mazvikadei
+2666,Crowborough,House,42000.0,7,1,235,harare,harare high density
+2667,Milton Park,House,325000.0,4,2,2120,harare,harare west
+2668,Borrowdale,House,500000.0,4,1,2691,harare,harare north
+2669,Waterfalls,House,80000.0,3,1,1000,harare,harare south
+2670,Mkoba,House,25000.0,3,1,200,gweru,gweru
+2671,Gletwin Park,House,400000.0,6,5,2300,harare,harare north
+2672,Marlborough,House,170000.0,3,1,2173,harare,harare west
+2673,Hatfield,House,170000.0,4,2,8000,harare,harare south
+2674,Chitungwiza,House,23000.0,4,3,200,chitungwiza,chitungwiza
+2675,Chinhoyi,House,36000.0,3,1,200,chinhoyi,chinhoyi
+2676,Borrowdale,House,320000.0,6,7,4000,harare,harare north
+2677,Kariba,House,120000.0,3,2,461,kariba,kariba
+2678,Glen View,House,28000.0,6,2,280,harare,harare high density
+2679,Hatfield,House,250000.0,3,2,8241,harare,harare south
+2680,Msasa Park,House,60000.0,3,1,500,harare,harare south
+2681,Mainway Meadows,House,100000.0,3,1,570,harare,harare south
+2682,Highlands,Townhouse Complex,295000.0,3,2,800,harare,harare north
+2683,Helensvale,House,1400000.0,6,7,4000,harare,harare north
+2684,Greendale,Townhouse Complex,230000.0,3,2,4047,harare,harare east
+2685,Chitungwiza,House,35000.0,3,1,399,chitungwiza,chitungwiza
+2686,Zimre Park,House,85000.0,4,2,700,harare,harare east
+2687,Waterfalls,House,180000.0,3,1,1000,harare,harare south
+2688,Mt Pleasant Heights,House,190000.0,5,2,2000,harare,harare west
+2689,Riverside South,House,250000.0,5,2,16188,bulawayo,bulawayo east
+2690,Borrowdale Brooke,House,3200000.0,7,5,4047,harare,harare north
+2691,Burnside,House,320000.0,4,2,8093,bulawayo,bulawayo east
+2692,Chitungwiza,House,22000.0,4,2,165,chitungwiza,chitungwiza
+2693,Dzivarasekwa,House,20000.0,3,1,300,harare,harare high density
+2694,Chisipite,House,790000.0,4,1,5181,harare,harare north
+2695,Murambi,House,450000.0,4,2,4141,mutare,mutare
+2696,Manyame Park,House,30000.0,3,1,200,chitungwiza,chitungwiza
+2697,Borrowdale Brooke,House,455000.0,3,2,2400,harare,harare north
+2698,Waterfalls,House,55000.0,2,1,2000,harare,harare south
+2699,Marondera,House,30000.0,3,1,300,marondera,marondera
+2700,Morningside,House,130000.0,3,2,2141,bulawayo,bulawayo south
+2701,Greystone Park,House,550000.0,5,3,5500,harare,harare north
+2702,Greystone Park,House,550000.0,5,3,5058,harare,harare north
+2703,Vainona,Townhouse Complex,180000.0,2,2,5052,harare,harare north
+2704,Charlotte Brooke,House,62000.0,2,2,1200,harare,harare north
+2705,Belvedere,House,215000.0,3,2,1545,harare,harare west
+2706,Budiriro,House,45000.0,5,1,300,harare,harare high density
+2707,Highlands,House,790000.0,5,1,4000,harare,harare north
+2708,Madokero,House,115000.0,5,1,450,harare,harare west
+2709,Chisipite,House,800000.0,4,3,6800,harare,harare north
+2710,Rolf Valley,Townhouse Complex,550000.0,5,5,10000,harare,harare north
+2711,Zimre Park,House,120000.0,4,2,1249,harare,harare east
+2712,Colne Valley,House,1250000.0,5,1,9307,harare,harare north
+2713,Damofalls,House,45000.0,3,1,504,damofalls,damofalls
+2714,Waterfalls,House,130000.0,4,2,20140,harare,harare south
+2715,Zengeza,House,32000.0,4,1,200,chitungwiza,chitungwiza
+2716,Bluff Hill,House,105000.0,3,1,1000,harare,harare west
+2717,Mainway Meadows,House,125000.0,4,2,458,harare,harare south
+2718,Chitungwiza,House,26000.0,4,2,200,chitungwiza,chitungwiza
+2719,Kariba,House,220000.0,6,4,8019,kariba,kariba
+2720,Ruwa,House,90000.0,4,2,400,ruwa,ruwa
+2721,Hogerty Hill,House,450000.0,7,1,2000,harare,harare north
+2722,Waterfalls,House,120000.0,4,2,1439,harare,harare south
+2723,Zimre Park,House,70000.0,3,1,700,harare,harare east
+2724,Bloomingdale,House,120000.0,4,2,600,harare,harare west
+2725,Glen View,House,50000.0,4,2,400,harare,harare high density
+2726,Kadoma,House,25000.0,2,1,300,kadoma,kadoma
+2727,Milton Park,House,225000.0,3,1,2000,harare,harare west
+2728,Waterfalls,House,95000.0,3,3,505,harare,harare south
+2729,Mbizo,House,30000.0,1,1,180,kwekwe,kwekwe
+2730,Shawasha Hills,House,350000.0,6,1,4000,harare,harare north
+2731,Greendale North,House,950000.0,7,5,4000,harare,harare north
+2732,Crowhill Views,House,200000.0,4,5,1000,harare,harare north
+2733,Rolf Valley,Townhouse Complex,600000.0,3,2,500,harare,harare north
+2734,Msasa Park,Townhouse Complex,75000.0,3,1,500,harare,harare south
+2735,Budiriro,Townhouse Complex,30000.0,2,1,400,harare,harare high density
+2736,Arlington,House,140000.0,3,2,320,harare,harare south
+2737,Highlands,House,1300000.0,1,1,4046,harare,harare north
+2738,Sandton Park,House,65000.0,4,2,1000,harare,harare west
+2739,Mahatshula,House,60000.0,3,1,600,bulawayo,bulawayo north
+2740,Highlands,House,500000.0,4,2,4000,harare,harare north
+2741,Eastlea,House,250000.0,3,1,1400,harare,harare east
+2742,Chisipite,House,720000.0,4,2,4247,harare,harare north
+2743,Waterfalls,House,110000.0,3,1,4000,harare,harare south
+2744,Kumalo,House,450000.0,8,6,3276,bulawayo,bulawayo east
+2745,Hillside,House,220000.0,4,2,3965,bulawayo,bulawayo south
+2746,Chitungwiza,House,25000.0,3,2,200,chitungwiza,chitungwiza
+2747,Morningside,House,195000.0,3,1,2849,mutare,mutare
+2748,Zengeza,House,45000.0,4,1,200,chitungwiza,chitungwiza
+2749,Kumalo,House,350000.0,4,3,3753,bulawayo,bulawayo east
+2750,Bluff Hill,House,350000.0,4,2,4000,harare,harare west
+2751,Seke,House,28000.0,4,1,300,seke,seke
+2752,Cowdray Park,House,28000.0,3,1,200,bulawayo,bulawayo high density
+2753,Mandara,House,300000.0,4,2,4047,harare,harare east
+2754,Marondera,House,120000.0,4,1,2100,marondera,marondera
+2755,Woodlands,House,160000.0,4,2,2585,bulawayo,bulawayo east
+2756,Mahatshula,House,55000.0,4,1,600,bulawayo,bulawayo north
+2757,Ridgemont,House,30000.0,3,1,1000,gweru,gweru
+2758,Lakeside,House,120000.0,3,2,10000,bulawayo,bulawayo east
+2759,Rydale Ridge,House,60000.0,4,2,300,harare,harare high density
+2760,Waterfalls,House,65000.0,3,1,500,harare,harare south
+2761,Golden Acres,House,100000.0,1,1,4000,kwekwe,kwekwe
+2762,Manresa,House,60000.0,3,1,800,harare,harare east
+2763,Glen Norah,House,43000.0,3,1,200,harare,harare high density
+2764,Marimba Park,House,80000.0,3,1,800,harare,harare high density
+2765,Norton,House,65000.0,4,2,2000,norton,norton
+2766,Rhodene,House,140009.0,5,1,1000,masvingo,masvingo
+2767,Zengeza,House,47000.0,4,1,600,chitungwiza,chitungwiza
+2768,Borrowdale Brooke,House,1000000.0,5,3,2300,harare,harare north
+2769,Hwange,House,25000.0,3,1,300,hwange,hwange
+2770,Tynwald,House,400000.0,5,1,9200,harare,harare west
+2771,Tynwald,House,55000.0,4,1,200,harare,harare west
+2772,Newton West,House,85000.0,2,1,4047,bulawayo,bulawayo south
+2773,Sandton Park,House,120000.0,5,2,1350,harare,harare west
+2774,Kadoma,House,145000.0,5,1,4639,kadoma,kadoma
+2775,Tynwald,House,54000.0,2,2,500,harare,harare west
+2776,Chitungwiza,House,22000.0,4,1,200,chitungwiza,chitungwiza
+2777,Pumula South,House,32000.0,3,1,200,bulawayo,bulawayo high density
+2778,Arlington,House,160000.0,4,1,500,harare,harare south
+2779,Ashdown Park,Townhouse Complex,55000.0,6,1,500,harare,harare west
+2780,Glen Lorne,House,1000000.0,6,1,4000,harare,harare north
+2781,Morningside,House,180000.0,5,1,2679,mutare,mutare
+2782,Juliasdale,House,500000.0,6,1,28000,juliasdale,juliasdale
+2783,Avondale,House,595000.0,3,2,4100,harare,harare north
+2784,Borrowdale,Townhouse Complex,300000.0,3,3,500,harare,harare north
+2785,Mbizo,House,40000.0,3,2,300,kwekwe,kwekwe
+2786,Damofalls,House,45000.0,4,2,336,damofalls,damofalls
+2787,Waterfalls,House,160000.0,3,1,5500,harare,harare south
+2788,Westgate,House,155000.0,3,1,2700,harare,harare west
+2789,Greystone Park,Townhouse Complex,280000.0,3,3,500,harare,harare north
+2790,Bluff Hill,House,70000.0,2,1,450,harare,harare west
+2791,Bluff Hill,House,70000.0,3,1,450,harare,harare west
+2792,Stoneridge,House,35000.0,5,2,300,harare,harare south
+2793,Norton,House,27000.0,2,1,162,norton,norton
+2794,Kumalo,House,380000.0,8,6,3276,bulawayo,bulawayo east
+2795,Charlotte Brooke,House,120000.0,5,1,1200,harare,harare north
+2796,Eastlea,House,280000.0,1,6,1558,harare,harare east
+2797,Kuwadzana,House,50000.0,5,1,300,harare,harare high density
+2798,Charlotte Brooke,House,140000.0,4,3,1500,harare,harare north
+2799,Northend,House,95000.0,4,2,1137,bulawayo,bulawayo north
+2800,Zimre Park,House,70000.0,3,1,916,harare,harare east
+2801,Zengeza,House,35000.0,4,1,300,chitungwiza,chitungwiza
+2802,Gletwin Park,House,220000.0,5,1,2000,harare,harare north
+2803,Crowhill Views,House,45000.0,8,1,2643,harare,harare north
+2804,Magwegwe,House,35000.0,3,1,200,bulawayo,bulawayo high density
+2805,Crowhill Views,House,55000.0,4,2,1000,harare,harare north
+2806,Glen Lorne,House,280000.0,2,2,4200,harare,harare north
+2807,Hogerty Hill,House,450000.0,8,5,2400,harare,harare north
+2808,Old Windsor,House,75000.0,3,1,1075,ruwa,ruwa
+2809,Mabelreign,House,155000.0,3,1,2000,harare,harare west
+2810,Zengeza,House,28000.0,3,1,200,chitungwiza,chitungwiza
+2811,Marlborough,House,90000.0,4,2,2012,harare,harare west
+2812,KweKwe,House,31000.0,2,1,300,kwekwe,kwekwe
+2813,Msasa Park,House,69000.0,3,2,1449,kwekwe,kwekwe
+2814,Kadoma,House,27000.0,2,1,200,kadoma,kadoma
+2815,Kambanji,House,250000.0,2,1,4647,harare,harare north
+2816,Fitchlea,House,60000.0,4,2,1000,kwekwe,kwekwe
+2817,Aspindale Park,Townhouse Complex,70000.0,4,2,200,harare,harare west
+2818,Pumula South,House,30000.0,4,1,326,bulawayo,bulawayo high density
+2819,Ruwa,House,35000.0,2,2,109,ruwa,ruwa
+2820,Damofalls,House,60000.0,4,2,200,damofalls,damofalls
+2821,Marlborough,House,950000.0,4,2,8239,harare,harare west
+2822,Suburbs,House,150000.0,3,2,744,bulawayo,bulawayo east
+2823,Marlborough,House,150000.0,3,1,200,harare,harare west
+2824,Glen Lorne,House,1850000.0,9,1,13500,harare,harare north
+2825,Vainona,House,700000.0,8,4,8000,harare,harare north
+2826,Shawasha Hills,House,1000000.0,5,1,10900,harare,harare north
+2827,Chadcombe,House,145000.0,5,1,4400,harare,harare south
+2828,Whitecliff,House,80000.0,3,1,1800,harare,harare west
+2829,Glen View,House,32000.0,4,1,200,harare,harare high density
+2830,Mvurwi,House,17000.0,5,2,300,mvurwi,mvurwi
+2831,Ridgemont,House,120000.0,4,2,4489,gweru,gweru
+2832,Bluff Hill,House,120000.0,3,2,500,harare,harare west
+2833,Cold Comfort,House,75000.0,3,1,2753,harare,harare west
+2834,Marimba Park,House,120000.0,3,4,800,harare,harare high density
+2835,Rusape,House,16000.0,2,1,300,rusape,rusape
+2836,Haig Park,House,145000.0,4,1,1700,harare,harare west
+2837,Rainham,House,200000.0,6,1,17000,harare,harare west
+2838,Dzivarasekwa,House,28000.0,3,1,180,harare,harare high density
+2839,Greystone Park,House,600000.0,2,3,4047,harare,harare north
+2840,Dangamvura,House,26000.0,4,2,300,mutare,mutare
+2841,Tafara,House,50000.0,3,2,211,harare,harare high density
+2842,Greystone Park,House,480000.0,1,7,2203,harare,harare north
+2843,Killarney,House,150000.0,5,3,5768,bulawayo,bulawayo east
+2844,Bellevue,House,78000.0,3,1,2975,bulawayo,bulawayo south
+2845,Zengeza,House,23000.0,3,1,300,chitungwiza,chitungwiza
+2846,Burnside,House,150000.0,4,2,4121,bulawayo,bulawayo east
+2847,Concession,House,45000.0,4,2,450,concession,concession
+2848,Bluff Hill,House,280000.0,4,3,2000,harare,harare west
+2849,Zimre Park,House,87000.0,5,1,600,harare,harare east
+2850,Chitungwiza,House,30000.0,2,1,2000,chitungwiza,chitungwiza
+2851,Ruwa,House,90000.0,3,2,800,ruwa,ruwa
+2852,Mainway Meadows,House,95000.0,4,1,450,harare,harare south
+2853,Tynwald,House,75000.0,3,1,470,harare,harare west
+2854,Waterfalls,House,110000.0,4,2,1500,harare,harare south
+2855,Fairview,House,120000.0,4,1,1200,harare,harare west
+2856,Crowhill Views,House,230000.0,4,5,1000,harare,harare north
+2857,Burnside,House,530000.0,3,2,5338,bulawayo,bulawayo east
+2858,Arcadia,House,100000.0,3,1,714,harare,harare south
+2859,Ruwa,House,34000.0,4,2,348,ruwa,ruwa
+2860,Murambi,House,180000.0,3,1,4094,mutare,mutare
+2861,Westgate,House,125000.0,3,2,1083,harare,harare west
+2862,Matsheumhlope,House,120000.0,3,1,4047,bulawayo,bulawayo east
+2863,Glen Lorne,House,175000.0,5,1,2000,harare,harare north
+2864,Greendale,House,200000.0,3,1,2000,harare,harare east
+2865,Kumalo,House,275000.0,7,5,2709,bulawayo,bulawayo east
+2866,Marondera,House,100000.0,3,1,3272,marondera,marondera
+2867,Mount Pleasant Heights,House,195000.0,4,3,2477,harare,harare north
+2868,Chitungwiza,House,35000.0,4,1,300,chitungwiza,chitungwiza
+2869,Cowdray Park,House,30000.0,3,1,200,bulawayo,bulawayo high density
+2870,Old Windsor,House,160000.0,4,1,5000,ruwa,ruwa
+2871,Bluff Hill,Townhouse Complex,180000.0,3,3,500,harare,harare west
+2872,Bluff Hill,House,120000.0,3,1,500,harare,harare west
+2873,Domboshawa,House,50000.0,5,4,3500,domboshawa,domboshawa
+2874,Victoria Falls,House,50000.0,3,2,490,victoria,victoria falls
+2875,Manyame Park,House,26000.0,4,1,250,chitungwiza,chitungwiza
+2876,Manresa,House,120000.0,3,2,3816,harare,harare east
+2877,Alexandra Park,House,455000.0,4,1,2100,harare,harare north
+2878,Strathaven,House,200000.0,3,2,1000,harare,harare west
+2879,Greendale,Townhouse Complex,250000.0,4,2,4047,harare,harare east
+2880,Arlington,Townhouse Complex,160000.0,4,1,560,harare,harare south
+2881,Matsheumhlope,Townhouse Complex,375000.0,3,1,8200,bulawayo,bulawayo east
+2882,Rydale Ridge Park,House,75000.0,4,2,2000,harare,harare west
+2883,Budiriro,House,45000.0,6,1,350,harare,harare high density
+2884,Waterfalls,House,350000.0,5,3,4219,harare,harare south
+2885,Marondera,House,25000.0,2,1,200,marondera,marondera
+2886,Golden Acres,House,200000.0,5,1,4004,kwekwe,kwekwe
+2887,Haydon Park,House,90000.0,4,3,1250,harare,harare west
+2888,Glaudina,House,40000.0,3,1,300,harare,harare west
+2889,Bulawayo City Centre,House,135000.0,3,2,744,bulawayo,bulawayo cbd industrial
+2890,Tynwald,House,80000.0,3,2,600,harare,harare west
+2891,Chinhoyi,House,125000.0,3,2,2037,chinhoyi,chinhoyi
+2892,Zengeza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+2893,Waterfalls,House,350000.0,3,1,19000,harare,harare south
+2894,Mainway Meadows,House,75000.0,4,1,504,harare,harare south
+2895,Borrowdale,Townhouse Complex,140000.0,3,1,300,harare,harare north
+2896,Kariba,House,230000.0,4,3,3000,kariba,kariba
+2897,Ruwa,House,80000.0,4,2,400,ruwa,ruwa
+2898,Ruwa,House,48000.0,4,1,300,ruwa,ruwa
+2899,Shawasha Hills,House,500000.0,6,3,399,harare,harare north
+2900,Chinhoyi,House,185000.0,4,3,3315,chinhoyi,chinhoyi
+2901,Marlborough,Townhouse Complex,1000000.0,4,1,8239,harare,harare west
+2902,Marlborough,Townhouse Complex,200000.0,3,3,480,harare,harare west
+2903,Famona,House,200000.0,4,2,2613,bulawayo,bulawayo south
+2904,Sauerstown,House,55000.0,3,1,3000,bulawayo,bulawayo north
+2905,Murambi,House,215000.0,3,1,2154,mutare,mutare
+2906,North Trenance,House,60000.0,3,1,2141,bulawayo,bulawayo north
+2907,Glaudina,House,63000.0,6,4,2384,harare,harare west
+2908,Haydon Park,House,87000.0,2,1,808,harare,harare west
+2909,Haydon Park,House,80000.0,2,2,890,harare,harare west
+2910,Sandton Park,House,110000.0,4,1,1401,harare,harare west
+2911,Manresa,House,95000.0,3,1,2010,harare,harare east
+2912,Ruwa,House,35000.0,3,1,300,ruwa,ruwa
+2913,Norton,House,95000.0,5,1,6210,norton,norton
+2914,Redcliff,House,60000.0,4,2,1645,redcliff,redcliff
+2915,Msuna,House,98000.0,3,3,4000,msuna,msuna
+2916,Glen Lorne,House,550000.0,4,2,9450,harare,harare north
+2917,Ballantyne Park,Townhouse Complex,950000.0,5,4,1000,harare,harare north
+2918,Chinhoyi,House,115000.0,3,2,5453,chinhoyi,chinhoyi
+2919,Glen Lorne,House,550000.0,4,2,4950,harare,harare north
+2920,Greystone Park,House,350000.0,4,4,300,harare,harare north
+2921,Norton,House,55000.0,2,1,3325,norton,norton
+2922,Hillside,House,170000.0,4,2,4100,bulawayo,bulawayo south
+2923,Borrowdale,House,850000.0,5,1,17000,harare,harare north
+2924,Waterfalls,House,140000.0,4,1,1139,harare,harare south
+2925,Hatfield,Townhouse Complex,121000.0,3,2,500,harare,harare south
+2926,Avondale,House,650000.0,4,4,4000,harare,harare west
+2927,Ascot,House,28000.0,3,1,200,gweru,gweru
+2928,Alexandra Park,House,950000.0,7,1,2136,harare,harare north
+2929,Mainway Meadows,House,65000.0,3,1,404,harare,harare south
+2930,Haydon Park,House,90000.0,2,2,880,harare,harare west
+2931,Pumula,House,20000.0,1,1,300,bulawayo,bulawayo high density
+2932,Houghton Park,House,60000.0,3,1,512,harare,harare south
+2933,Burnside,House,125000.0,2,1,4046,bulawayo,bulawayo east
+2934,Chitungwiza,House,30000.0,4,1,250,chitungwiza,chitungwiza
+2935,Damofalls,House,85000.0,4,1,540,damofalls,damofalls
+2936,Sunway City,House,65000.0,3,1,2080,harare,harare east
+2937,Glaudina,House,78000.0,3,1,600,harare,harare west
+2938,Goodhope,House,140000.0,4,1,3200,harare,harare west
+2939,Waterfalls,House,115000.0,3,2,2100,harare,harare south
+2940,Ballantyne Park,Townhouse Complex,950000.0,4,4,400,harare,harare north
+2941,Damofalls,House,50000.0,3,2,400,damofalls,damofalls
+2942,Westgate,House,180000.0,4,1,1000,harare,harare west
+2943,Eastlea,House,240000.0,3,2,1348,harare,harare east
+2944,Suburbs,House,980000.0,5,6,18212,bulawayo,bulawayo east
+2945,Ruwa,House,70000.0,4,2,478,ruwa,ruwa
+2946,Helensvale,House,450000.0,4,2,4047,harare,harare north
+2947,Marlborough,Townhouse Complex,116790.0,3,2,166,harare,harare west
+2948,Southerton,House,90000.0,4,1,700,harare,harare south
+2949,Zimre Park,House,95000.0,4,1,800,harare,harare east
+2950,Kadoma,House,250000.0,3,3,4237,kadoma,kadoma
+2951,Zimre Park,House,117000.0,5,1,1671,harare,harare east
+2952,Southview Park,House,23000.0,4,2,258,harare,harare south
+2953,Avondale,House,750000.0,4,3,4049,harare,harare west
+2954,Northwood,House,400000.0,4,4,4000,harare,harare north
+2955,Mkoba,House,18000.0,3,1,300,gweru,gweru
+2956,Chitungwiza,House,28000.0,3,1,200,chitungwiza,chitungwiza
+2957,Avondale,House,750000.0,5,3,4000,harare,harare north
+2958,New Marlborough,House,80000.0,3,1,712,harare,harare west
+2959,Budiriro,House,47625.0,4,1,282,harare,harare high density
+2960,Parktown,House,95000.0,4,1,1033,harare,harare south
+2961,Borrowdale,House,3500000.0,4,1,4000,harare,harare north
+2962,Zengeza,House,40000.0,3,1,1000,chitungwiza,chitungwiza
+2963,Southlea Park,House,38000.0,5,2,450,harare,harare south
+2964,Matidoda,House,65000.0,3,1,300,harare,harare west
+2965,Chiredzi,House,130000.0,4,1,4046,chiredzi,chiredzi
+2966,Glaudina,House,65000.0,4,1,300,harare,harare west
+2967,Norton,House,110000.0,3,1,2000,norton,norton
+2968,Riverside North,House,140000.0,3,2,4000,bulawayo,bulawayo east
+2969,Pattersonia,House,110000.0,4,1,1600,gweru,gweru
+2970,Chiredzi,House,105000.0,3,1,4058,chiredzi,chiredzi
+2971,Ruwa,House,85000.0,3,1,800,ruwa,ruwa
+2972,Glaudina,House,87000.0,4,2,500,harare,harare west
+2973,Burnside,House,650000.0,4,3,4000,bulawayo,bulawayo east
+2974,Palmerston,House,120000.0,4,1,1800,mutare,mutare
+2975,Dawnview Park,House,80000.0,4,1,427,harare,harare west
+2976,Borrowdale Brooke,House,500000.0,4,1,1200,harare,harare north
+2977,Colne Valley,House,2000000.0,5,1,4000,harare,harare north
+2978,Glen Lorne,House,450000.0,3,2,5100,harare,harare north
+2979,Hillside,House,240000.0,4,3,2000,bulawayo,bulawayo south
+2980,Mbizo,House,45000.0,5,1,300,kwekwe,kwekwe
+2981,Glen Lorne,House,3200000.0,5,3,56658,harare,harare north
+2982,Tynwald,House,58000.0,3,1,322,harare,harare west
+2983,Greenhill,House,130000.0,3,2,1551,bulawayo,bulawayo south
+2984,Avondale,Townhouse Complex,400000.0,4,1,1500,harare,harare north
+2985,Avondale,House,795000.0,6,5,4047,harare,harare west
+2986,Avondale,House,795000.0,6,5,4000,harare,harare west
+2987,Chipukutu Park,House,80000.0,3,2,800,ruwa,ruwa
+2988,Umwinsidale,House,1300000.0,8,8,4100,harare,harare north
+2989,Rhodesville,House,350000.0,3,2,1517,harare,harare east
+2990,Rhodesville,House,350000.0,3,2,1517,harare,harare east
+2991,Glen Norah,House,45000.0,4,1,240,harare,harare high density
+2992,Mandara,House,430000.0,3,2,4047,harare,harare east
+2993,Manyame Park,House,27000.0,4,1,200,chitungwiza,chitungwiza
+2994,Westlea,House,57000.0,3,1,700,harare,harare west
+2995,Kuwadzana,House,43500.0,4,1,350,harare,harare high density
+2996,Chitungwiza,House,28000.0,4,1,359,chitungwiza,chitungwiza
+2997,Borrowdale,House,20000.0,6,1,500,harare,harare north
+2998,Belvedere,House,180000.0,3,1,1300,harare,harare west
+2999,Westlea,House,110000.0,4,3,740,harare,harare west
+3000,Westlea,House,110000.0,4,3,740,harare,harare west
+3001,Hatfield,House,75000.0,3,1,2000,harare,harare south
+3002,Chitungwiza,House,30000.0,4,1,300,chitungwiza,chitungwiza
+3003,Chinhoyi,House,35000.0,4,1,300,chinhoyi,chinhoyi
+3004,Ruwa,House,70000.0,4,1,600,ruwa,ruwa
+3005,Ruwa,House,80000.0,3,1,450,ruwa,ruwa
+3006,Windsor Park,House,100000.0,4,1,1800,ruwa,ruwa
+3007,Msasa Park,House,65000.0,2,1,400,harare,harare south
+3008,Marlborough,House,170000.0,3,1,1800,harare,harare west
+3009,Budiriro,House,28000.0,3,1,287,harare,harare high density
+3010,Ruwa,House,140000.0,4,1,600,ruwa,ruwa
+3011,Parklands,House,100000.0,3,1,1300,bulawayo,bulawayo east
+3012,Ruwa,House,140000.0,4,1,600,ruwa,ruwa
+3013,Parklands,House,100000.0,3,1,1300,bulawayo,bulawayo east
+3014,Ruwa,House,140000.0,4,1,600,ruwa,ruwa
+3015,Parklands,House,100000.0,3,1,1300,bulawayo,bulawayo east
+3016,Budiriro,House,24000.0,3,1,288,harare,harare high density
