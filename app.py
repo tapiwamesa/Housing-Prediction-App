@@ -29,7 +29,6 @@ def user_input_features():
     features = pd.DataFrame(data, index = [0])
     return features
 
-
 df = user_input_features()
 region = df.iloc[0, 0]
 
@@ -42,12 +41,6 @@ if region == 'harare south' or region == 'harare west':
     X = housing_con[['Beds', 'Baths', 'Area_Sqm']].reset_index(drop = True)
 
     x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.10, random_state = 2)
-
-    #clf = ensemble.GradientBoostingRegressor(n_estimators = 100, max_depth = 5, min_samples_split = 2, learning_rate = 0.1, loss = 'squared_error')
-    #clf.fit(x_train, y_train)
-    #prediction_prob = clf.score(x_test, y_test)
-
-    #prediction = clf.predict(df.drop(columns = 'Constituency', axis = 1))
     reg = LinearRegression()
     reg.fit(x_train, y_train)
     prediction_prob = reg.score(x_train, y_train)
@@ -82,32 +75,3 @@ elif region == 'harare east' or region == 'harare north':
     st.subheader('Prediction Accuracy')
     st.write(prediction_prob)
 
-
-
-
-#st.subheader('User Input Parameters')
-#st.write(df)
-
-#region = df.iloc[0, 0]
-#st.write(region)
-
-#housing_con = data[data['Constituency'] == region]
-#st.write(housing_constituency.head())
-
-#Y = housing_con['Price'].reset_index(drop = True)
-#X = housing_con[['Beds', 'Baths', 'Area_Sqm']].reset_index(drop = True)
-
-#x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.10, random_state = 2)
-
-#clf = ensemble.GradientBoostingRegressor(n_estimators = 100, max_depth = 5, min_samples_split = 2, learning_rate = 0.1, loss = 'squared_error')
-#clf.fit(x_train, y_train)
-#prediction_prob = clf.score(x_test, y_test)
-
-#prediction = clf.predict(df.drop(columns = 'Constituency', axis = 1))
-
-#st.subheader('Prediction')
-#st.subheader('A house with these specs wil cost US$:')
-#st.write(prediction)
-
-#st.subheader('Prediction Accuracy')
-#st.write(prediction_prob)
